@@ -1,0 +1,15 @@
+boh_shift_id,day_of_the_week,start_of_shift,end_of_shift
+1,Sunday,10:30:00,14:00:00
+2,Sunday,18:30:00,23:00:00
+3,Monday,10:30:00,14:00:00
+4,Monday,18:30:00,23:00:00
+5,Tuesday,10:30:00,14:00:00
+6,Tuesday,18:30:00,23:00:00
+7,Wednesday,10:30:00,14:00:00
+8,Wednesday,18:30:00,23:00:00
+9,Thursday,10:30:00,14:00:00
+10,Thursday,18:30:00,23:00:00
+11,Friday,10:30:00,14:00:00
+12,Friday,18:30:00,23:00:00
+13,Saturday,10:30:00,14:00:00
+14,Saturday,18:30:00,23:00:00

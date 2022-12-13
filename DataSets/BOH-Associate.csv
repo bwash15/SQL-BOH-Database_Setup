@@ -1,0 +1,1001 @@
+row_id,boh_associate_id,first_name,last_name,email_type_id,position,stations_trained,cooks_review,hourly_rate
+1,848513,Olwen,Perree,1,Line Cook,Food Prep,1,23.46
+2,818937,Dalton,Rayner,2,Line Cook,Fry/Grill/Sautee,5,22.43
+3,173701,Thornie,Hurler,3,Prep Cook,Fry/Sautee,6,22.89
+4,656325,Lil,Daldan,3,Lead Line Cook,Fry/Grill/Sautee,6,16.97
+5,455661,Brinn,Kinningley,2,Prep Cook,Fry/Grill/Sautee,2,19.41
+6,748886,Farleigh,Goulter,3,Lead Line Cook,Grill,9,22.61
+7,717547,Dionisio,Antonias,3,Lead Line Cook,Grill,5,16.6
+8,575625,Giffie,Duckwith,2,Lead Line Cook,Grill/Sautee,8,24.32
+9,189460,Zara,Lawdham,1,Prep Cook,Fry/Sautee,9,24.61
+10,838343,Lazarus,Hew,2,Prep Cook,Grill/Sautee,2,16.34
+11,150867,Weston,Ashpole,1,Prep Cook,All Stations,9,16.41
+12,791937,Georgia,Gutowska,2,Lead Line Cook,Dish,3,17.13
+13,113234,Kimbell,Karlsen,3,Line Cook,Food Prep,2,22.38
+14,471923,Saraann,Jillis,1,Lead Line Cook,All Stations,7,16.01
+15,336223,Thaddus,Braisher,2,Lead Line Cook,Grill/Sautee,8,21.12
+16,372844,Seana,Cowton,2,Prep Cook,Salad/Desserts,6,14.27
+17,927309,Krishna,Belfrage,3,Prep Cook,Grill,4,23.66
+18,325703,Clara,Andriesse,3,Line Cook,All Stations,1,20.9
+19,703839,Cecilla,Leftley,1,Line Cook,Grill,9,17.85
+20,573988,Andrea,Juett,2,Line Cook,Grill/Sautee,5,17.04
+21,811825,Andrea,Chislett,1,Prep Cook,Food Prep,5,13.99
+22,621671,Jerry,Ovett,2,Line Cook,All Stations,7,22.69
+23,559382,Silva,Corss,2,Line Cook,All Stations,8,20.92
+24,507817,Charmane,Farge,2,Line Cook,Salad/Desserts,9,18.66
+25,339480,Josh,Cuolahan,1,Lead Line Cook,Food Prep,8,18.19
+26,205533,Roobbie,Mackney,3,Line Cook,Fry/Sautee,2,24.48
+27,101694,Kaila,Mayers,3,Lead Line Cook,Fry/Sautee,6,18.12
+28,646158,Morganica,Gyenes,2,Lead Line Cook,All Stations,8,14.07
+29,240222,Zilvia,Portt,2,Lead Line Cook,Food Prep,6,17.75
+30,295796,Adela,Peterken,1,Lead Line Cook,Fry/Grill/Sautee,4,13.69
+31,781903,Krissy,Espinoy,1,Lead Line Cook,Grill,1,15.57
+32,735716,Jessamine,Neno,3,Line Cook,Grill,1,14.26
+33,159084,Shina,Markie,2,Prep Cook,Salad/Desserts,4,12.39
+34,364561,Sharity,Vearncombe,3,Line Cook,All Stations,7,18.14
+35,696840,Nadiya,Wanstall,1,Prep Cook,Grill,7,18.43
+36,136742,Carmita,Wringe,3,Line Cook,Fry/Grill/Sautee,2,14.44
+37,902418,Bonni,Munday,3,Lead Line Cook,Salad/Desserts,9,17.73
+38,656641,Jeffry,Malinson,1,Line Cook,Fry/Grill/Sautee,2,23.27
+39,831707,Trever,Thwaites,3,Lead Line Cook,Dish,10,23.84
+40,933292,Edgardo,Curror,2,Prep Cook,Food Prep,2,16.52
+41,389180,Hillie,Pentelo,3,Lead Line Cook,All Stations,6,21.04
+42,395575,Richie,Bigland,2,Line Cook,All Stations,9,18.34
+43,988367,Dre,Llewellen,2,Prep Cook,Fry/Grill/Sautee,3,14.54
+44,329159,Henderson,Fell,1,Lead Line Cook,Salad/Desserts,6,23.36
+45,185337,Maxie,McGovern,2,Prep Cook,All Stations,7,15.83
+46,172522,Margit,Beakes,2,Prep Cook,Salad/Desserts,1,20.59
+47,442169,Faber,Rickersey,3,Line Cook,Salad/Desserts,7,12.13
+48,322698,Josephine,Sehorsch,3,Lead Line Cook,Dish,3,21.88
+49,338690,Allys,Goodreid,1,Line Cook,Grill/Sautee,4,19.0
+50,734021,Mirna,Bresman,3,Prep Cook,Grill,9,13.65
+51,768791,Catherina,Elsmere,3,Line Cook,Fry/Grill/Sautee,6,18.9
+52,179846,Darby,Radbourne,1,Lead Line Cook,Fry/Grill/Sautee,6,12.44
+53,942240,Frasco,Grzelczak,2,Lead Line Cook,Dish,10,24.21
+54,607666,Margret,Stoyell,1,Prep Cook,Dish,5,24.09
+55,299328,Jacques,Blamire,1,Line Cook,Fry/Grill/Sautee,9,13.83
+56,327807,Georges,Latchmore,2,Line Cook,Dish,5,18.51
+57,229956,Tanner,Tremelling,3,Lead Line Cook,Food Prep,2,12.55
+58,140544,Danika,Saiz,2,Line Cook,Fry/Sautee,9,22.48
+59,280509,Skip,Reame,1,Prep Cook,Grill,3,19.31
+60,560716,Kellina,Comelini,2,Lead Line Cook,Food Prep,1,13.01
+61,227771,Juditha,Alderwick,2,Lead Line Cook,Salad/Desserts,7,22.81
+62,554595,Raul,Brace,2,Prep Cook,Grill/Sautee,5,21.39
+63,355976,Alice,Walliker,2,Lead Line Cook,Food Prep,4,12.29
+64,561313,Val,Luna,2,Lead Line Cook,Grill,9,22.11
+65,785660,Wadsworth,Clemencon,1,Prep Cook,Dish,8,14.44
+66,387617,Blisse,Bedminster,2,Line Cook,Fry/Sautee,6,19.98
+67,227090,Andrus,Gardiner,2,Line Cook,Fry/Grill/Sautee,1,14.0
+68,696798,Pietro,Dillway,3,Prep Cook,Fry/Grill/Sautee,1,18.6
+69,824487,Lyssa,Prothero,1,Line Cook,Grill/Sautee,7,18.15
+70,218249,Kirsti,Bydaway,1,Prep Cook,Grill,6,16.39
+71,350701,Kathye,Huncote,1,Line Cook,Salad/Desserts,3,12.29
+72,977495,Reinaldos,Tiddeman,2,Prep Cook,Fry/Sautee,4,14.65
+73,903364,Emylee,Danelet,2,Line Cook,Food Prep,3,23.63
+74,211991,Brigg,Jopke,3,Lead Line Cook,Fry/Grill/Sautee,6,13.32
+75,878543,Jacquie,Poultney,2,Lead Line Cook,All Stations,5,14.49
+76,124013,Mela,Lashmar,1,Prep Cook,Fry/Grill/Sautee,9,24.61
+77,115031,Taddeo,Tallman,3,Prep Cook,Grill,7,14.1
+78,535019,Claudelle,Flarity,2,Line Cook,Fry/Grill/Sautee,6,19.16
+79,805158,Stevana,Raphael,1,Line Cook,Fry/Sautee,10,17.45
+80,835404,Drew,Negri,3,Lead Line Cook,Dish,1,12.8
+81,315023,Coleen,Humbee,1,Lead Line Cook,Grill/Sautee,3,14.48
+82,427502,Kattie,McCuaig,3,Line Cook,Salad/Desserts,10,20.56
+83,734434,Conant,Loomis,1,Lead Line Cook,Grill,10,24.66
+84,227998,Leeanne,Bartolomieu,1,Prep Cook,All Stations,7,15.59
+85,140562,Kassandra,Boteman,1,Prep Cook,Grill/Sautee,2,21.02
+86,305536,Sheffield,Ratledge,3,Prep Cook,All Stations,5,18.76
+87,633171,Carey,Barus,1,Lead Line Cook,Grill/Sautee,9,14.99
+88,537521,Blaire,Mc Meekan,1,Lead Line Cook,Salad/Desserts,8,16.16
+89,200334,Leonerd,Sefton,1,Lead Line Cook,Fry/Grill/Sautee,10,23.02
+90,605409,Sid,Camsey,1,Lead Line Cook,Fry/Sautee,10,20.48
+91,969586,Porter,Iacofo,3,Lead Line Cook,Grill/Sautee,1,17.29
+92,410100,Antonin,Jobb,2,Prep Cook,Food Prep,8,13.81
+93,697296,Misty,Gaskin,2,Lead Line Cook,Dish,4,16.52
+94,477735,Trumaine,Hynam,2,Lead Line Cook,Fry/Grill/Sautee,9,23.72
+95,194554,Bernete,Littledyke,2,Line Cook,Fry/Grill/Sautee,2,12.72
+96,271116,Arvy,Darlasson,2,Prep Cook,Fry/Sautee,9,15.47
+97,130704,Shela,Burburough,2,Prep Cook,Fry/Grill/Sautee,5,12.18
+98,317873,Sarene,Lathleiff,3,Lead Line Cook,Fry/Grill/Sautee,1,22.75
+99,116699,Chryste,O'Hone,2,Prep Cook,Food Prep,4,17.31
+100,503653,Veronike,Whitehair,2,Line Cook,Salad/Desserts,8,15.93
+101,557433,Kinsley,Powley,2,Prep Cook,Food Prep,6,17.94
+102,879085,Nikki,Crosdill,3,Line Cook,Fry/Grill/Sautee,3,19.5
+103,569825,Torin,Trowler,2,Lead Line Cook,Dish,6,16.39
+104,847646,Orin,Dangl,3,Prep Cook,All Stations,5,24.81
+105,618009,Lexi,Botwood,2,Prep Cook,Fry/Grill/Sautee,3,20.82
+106,390785,Kimble,Greengrass,3,Prep Cook,Food Prep,6,16.49
+107,727372,Kari,Clemson,1,Lead Line Cook,Dish,9,13.93
+108,865346,Marlee,Yurkov,3,Line Cook,All Stations,6,14.85
+109,241654,Rodolph,Bossons,1,Line Cook,Fry/Sautee,6,12.17
+110,965504,Perl,Ledbury,1,Lead Line Cook,Food Prep,8,23.64
+111,588391,Andi,Peet,2,Prep Cook,Food Prep,5,16.71
+112,329689,Shelby,Melross,3,Lead Line Cook,Fry/Grill/Sautee,2,23.24
+113,911761,Rainer,Halson,2,Lead Line Cook,All Stations,10,15.96
+114,552202,Layne,MacGinley,1,Prep Cook,Grill/Sautee,9,18.19
+115,615489,Emmalee,Ortells,1,Line Cook,Dish,9,22.88
+116,917448,Kalina,Blanning,1,Prep Cook,Grill,8,13.7
+117,840785,Fiorenze,Alty,3,Lead Line Cook,Grill/Sautee,9,14.72
+118,961483,Faye,Boerderman,2,Lead Line Cook,Grill,3,15.83
+119,276056,Yolanda,Cogley,3,Line Cook,Fry/Grill/Sautee,2,24.56
+120,866331,Tremayne,Le Marchant,2,Lead Line Cook,Fry/Grill/Sautee,3,24.03
+121,400840,Calla,Attenborrow,1,Prep Cook,Grill/Sautee,6,22.86
+122,432856,Demetra,Hornung,2,Prep Cook,Grill/Sautee,3,22.68
+123,198787,Biron,Carlisso,1,Prep Cook,Grill/Sautee,5,24.82
+124,997745,Dotti,Chandler,1,Line Cook,All Stations,1,20.82
+125,702477,Zeb,Bradman,1,Lead Line Cook,All Stations,10,17.29
+126,131076,Cullen,Hillan,3,Prep Cook,Grill,3,14.74
+127,386059,Tallou,Bowers,3,Line Cook,Dish,1,16.07
+128,967637,Estrellita,Von Salzberg,3,Lead Line Cook,Fry/Sautee,4,20.86
+129,472623,Aldin,Signe,2,Line Cook,All Stations,8,19.61
+130,785928,Cathe,Wilkin,3,Lead Line Cook,Dish,6,23.95
+131,535474,Benjamin,Blanchette,1,Line Cook,Fry/Grill/Sautee,6,18.25
+132,614716,Fernando,Gerrett,2,Lead Line Cook,Salad/Desserts,6,22.47
+133,240533,Sheri,Dudmarsh,2,Prep Cook,Food Prep,8,14.04
+134,427667,Cecil,Keson,3,Lead Line Cook,Fry/Grill/Sautee,1,16.23
+135,947958,Odie,Mordey,2,Prep Cook,Fry/Grill/Sautee,4,17.35
+136,687843,Lani,Tibbits,1,Prep Cook,Dish,4,22.31
+137,657428,Bald,Wehden,2,Lead Line Cook,All Stations,9,20.25
+138,948587,Shawna,Dundin,2,Prep Cook,Fry/Sautee,7,15.86
+139,410182,Jerrilyn,McQuaide,1,Lead Line Cook,Dish,7,17.39
+140,177040,Rosemary,D'Cruze,1,Prep Cook,Grill,8,24.58
+141,416662,Tommi,Woolen,1,Lead Line Cook,Fry/Grill/Sautee,10,20.57
+142,742684,Catarina,Wabey,1,Prep Cook,Fry/Grill/Sautee,3,17.27
+143,654015,Aurelie,Roffey,3,Line Cook,All Stations,6,22.52
+144,276579,Michale,Cordeix,2,Lead Line Cook,Grill/Sautee,9,13.98
+145,755920,Ivy,Bowser,2,Prep Cook,Dish,9,16.45
+146,150318,Kissie,Winckles,2,Prep Cook,Dish,7,15.17
+147,947543,Butch,Manwaring,2,Prep Cook,Grill/Sautee,5,24.03
+148,628831,Horatio,Haresign,2,Lead Line Cook,Fry/Sautee,5,20.1
+149,648885,Honey,Dubois,2,Line Cook,All Stations,3,23.88
+150,708092,Vladimir,Wasson,2,Lead Line Cook,Fry/Sautee,5,12.21
+151,833456,Glen,Leakner,2,Line Cook,Food Prep,4,13.46
+152,579677,Des,Owbrick,3,Prep Cook,Grill,6,23.41
+153,114297,Suzie,Boch,1,Prep Cook,Grill,6,23.98
+154,755110,Filberto,Scarisbrick,3,Prep Cook,Salad/Desserts,10,14.56
+155,857387,Brockie,Nulty,2,Lead Line Cook,Salad/Desserts,9,13.63
+156,533251,Evonne,Skittrell,3,Line Cook,Grill/Sautee,10,24.3
+157,277152,Chrissie,Minet,3,Lead Line Cook,Fry/Grill/Sautee,8,12.27
+158,282450,Caria,Mularkey,3,Line Cook,Salad/Desserts,7,14.11
+159,157181,Carmencita,Allender,1,Line Cook,Dish,10,13.33
+160,295974,Clemence,Spinke,2,Prep Cook,Grill/Sautee,1,23.35
+161,187287,Locke,Beagin,3,Line Cook,Grill,8,18.9
+162,737850,Wake,Ginman,3,Line Cook,Grill/Sautee,5,17.47
+163,620163,Gretel,Beveredge,2,Lead Line Cook,Dish,3,16.75
+164,705250,Ashley,Cokayne,1,Line Cook,Fry/Sautee,2,18.68
+165,485047,Donny,Hasted,3,Lead Line Cook,Grill,9,13.01
+166,408596,Lorene,Gardiner,3,Line Cook,All Stations,6,17.09
+167,461670,Elysee,Pavese,3,Lead Line Cook,Dish,10,23.32
+168,304989,Bevvy,Gashion,1,Lead Line Cook,Fry/Grill/Sautee,8,23.23
+169,346279,Catriona,Skettles,3,Line Cook,Grill/Sautee,7,15.47
+170,573928,Shaylyn,Jenkyn,3,Prep Cook,Salad/Desserts,1,15.98
+171,896697,Burlie,Galley,3,Prep Cook,Salad/Desserts,2,15.63
+172,115089,Andy,Nelmes,2,Prep Cook,Fry/Sautee,1,23.97
+173,132498,Heath,Ranklin,3,Prep Cook,Grill/Sautee,6,12.46
+174,192030,Irma,Bitcheno,2,Line Cook,Salad/Desserts,6,13.65
+175,246181,Jan,McGinn,2,Prep Cook,Food Prep,5,19.1
+176,770020,Devondra,Headon,3,Lead Line Cook,Fry/Sautee,1,22.27
+177,383678,Augusta,Davern,3,Prep Cook,Grill,4,20.79
+178,347483,Yancy,Godby,1,Line Cook,Dish,5,17.09
+179,437577,Darya,Reford,3,Line Cook,Grill,8,16.91
+180,745006,Tremayne,Aymer,2,Line Cook,Fry/Sautee,8,22.98
+181,559841,Dyna,Postlewhite,3,Line Cook,All Stations,10,17.12
+182,896783,Chantal,Dewar,3,Lead Line Cook,Dish,1,23.32
+183,580034,Eduard,Cleall,1,Prep Cook,Food Prep,5,21.91
+184,146194,Danella,Gregr,2,Line Cook,Fry/Grill/Sautee,1,12.2
+185,547518,Montgomery,Climar,2,Prep Cook,Grill/Sautee,5,14.03
+186,197789,Feodor,McCandless,1,Prep Cook,Grill/Sautee,10,22.92
+187,234386,Sapphire,Jenson,1,Prep Cook,Grill,4,20.29
+188,198057,Hercules,Kubu,1,Line Cook,Fry/Sautee,7,22.46
+189,271676,Robb,Chadderton,2,Prep Cook,Fry/Sautee,6,14.56
+190,773645,Clarita,Huie,1,Lead Line Cook,Fry/Sautee,3,23.17
+191,861744,Alisha,Watkiss,3,Line Cook,All Stations,4,20.4
+192,574994,Ana,Milkins,1,Line Cook,Grill,5,13.48
+193,605570,Heindrick,Moncreif,2,Prep Cook,Grill,8,13.15
+194,234974,Dun,Eddicott,1,Prep Cook,Fry/Sautee,5,18.9
+195,316456,Jeane,Snartt,3,Prep Cook,All Stations,3,18.31
+196,729712,Cher,Kynvin,1,Line Cook,Fry/Grill/Sautee,3,24.03
+197,907162,Rabbi,Dalwood,1,Line Cook,Dish,9,17.16
+198,113508,Lizbeth,Hugonet,3,Lead Line Cook,Fry/Sautee,4,21.6
+199,227831,Lexie,Geldard,3,Line Cook,Fry/Grill/Sautee,4,16.29
+200,374880,Vivian,Dunseith,1,Prep Cook,Food Prep,10,21.77
+201,158275,Seline,Shark,3,Prep Cook,Grill,3,15.62
+202,368920,Terri-jo,Bonick,1,Line Cook,Dish,8,18.11
+203,310074,Ethelin,Ahlin,3,Lead Line Cook,Grill/Sautee,9,23.12
+204,787374,Bronson,Parks,3,Prep Cook,Food Prep,8,14.39
+205,447170,Taylor,Oles,3,Lead Line Cook,Fry/Sautee,3,16.84
+206,987796,Shanta,Hector,3,Prep Cook,Salad/Desserts,10,19.08
+207,248403,Laurie,Burton,3,Prep Cook,Fry/Sautee,8,13.83
+208,408748,Titus,Jinkins,2,Line Cook,Fry/Sautee,10,14.32
+209,376142,Sylvan,Bawcock,2,Line Cook,Salad/Desserts,9,14.63
+210,968608,Dalis,Lancashire,2,Lead Line Cook,Grill/Sautee,1,24.52
+211,241949,Conney,Sturte,1,Line Cook,Grill,6,14.97
+212,591736,Linette,Vignal,2,Line Cook,Salad/Desserts,7,19.7
+213,843186,Sal,Bosma,3,Prep Cook,Salad/Desserts,4,14.01
+214,396299,Sharity,Kearsley,1,Line Cook,Fry/Grill/Sautee,3,22.57
+215,245882,Tresa,Torpie,3,Lead Line Cook,All Stations,8,14.13
+216,803796,Dew,Wellstead,1,Lead Line Cook,Fry/Grill/Sautee,6,14.42
+217,485264,Aubrette,Kemmons,2,Lead Line Cook,Grill,4,21.95
+218,620196,Abigale,Vigors,2,Lead Line Cook,Fry/Grill/Sautee,7,21.98
+219,486006,Betsey,Corryer,1,Lead Line Cook,Food Prep,10,20.01
+220,161317,Maris,Ralfe,2,Lead Line Cook,Fry/Sautee,5,23.33
+221,623833,Elna,McNeish,1,Lead Line Cook,Fry/Sautee,5,17.01
+222,521762,Adelice,Nayshe,1,Lead Line Cook,Dish,4,21.7
+223,110153,Rollin,Suggett,1,Prep Cook,Grill/Sautee,3,13.99
+224,108194,Drusie,Hyam,3,Lead Line Cook,Grill/Sautee,4,16.28
+225,599399,Maridel,Eggleson,3,Prep Cook,Grill/Sautee,5,15.83
+226,221290,Cassie,Van Velden,3,Line Cook,Fry/Grill/Sautee,5,17.57
+227,889250,Oralia,Barbara,2,Prep Cook,Fry/Grill/Sautee,4,23.03
+228,818262,Gorden,Heckle,3,Prep Cook,Salad/Desserts,7,15.7
+229,352678,Nataniel,Redfearn,2,Lead Line Cook,Grill,4,14.15
+230,103178,Merry,Torricella,3,Lead Line Cook,Grill/Sautee,7,19.58
+231,588466,Joelly,Glas,2,Line Cook,All Stations,4,15.44
+232,207300,Lula,Potte,2,Prep Cook,Fry/Grill/Sautee,7,14.27
+233,903145,Cos,Snazle,2,Prep Cook,Salad/Desserts,5,23.54
+234,976172,Dorothee,Aspel,3,Prep Cook,Food Prep,7,23.41
+235,959612,Emilia,Morrieson,1,Prep Cook,Grill,6,24.69
+236,890724,Bobbie,Treend,2,Lead Line Cook,Grill/Sautee,10,24.41
+237,463554,Cymbre,Dore,3,Line Cook,Grill/Sautee,2,21.72
+238,339277,Ives,Ziemen,2,Line Cook,Grill,3,24.85
+239,625239,Violet,Gianulli,3,Prep Cook,Grill/Sautee,5,15.7
+240,900682,Roderich,Harkins,3,Prep Cook,All Stations,7,12.0
+241,659195,Jamie,Tomet,1,Lead Line Cook,Dish,5,17.27
+242,397468,Eartha,Dickey,2,Prep Cook,Dish,5,14.16
+243,560816,Barnabas,LaBastida,1,Lead Line Cook,Salad/Desserts,6,14.23
+244,620157,Mort,Woodcroft,2,Line Cook,Dish,4,22.37
+245,906106,Lindy,Sellick,1,Prep Cook,Fry/Sautee,2,22.06
+246,988384,Land,Frayn,3,Prep Cook,Grill/Sautee,4,20.5
+247,384802,Adrian,Stiller,1,Line Cook,Dish,8,13.47
+248,198261,Jerrie,Ash,3,Prep Cook,Dish,6,18.41
+249,451394,Leslie,Mourgue,1,Prep Cook,Salad/Desserts,7,22.12
+250,774806,Ginny,Hemmingway,3,Prep Cook,Fry/Sautee,4,14.62
+251,264260,Jillene,Wagnerin,3,Prep Cook,Grill,2,16.24
+252,843149,Charity,Mateo,3,Line Cook,Grill/Sautee,6,15.89
+253,636061,Nolan,Loud,1,Prep Cook,Food Prep,8,19.98
+254,201901,Olga,Temperton,1,Line Cook,Dish,4,23.12
+255,647466,Teodoor,Demaine,1,Prep Cook,All Stations,3,19.96
+256,978906,Claudie,Hullbrook,1,Prep Cook,All Stations,8,12.06
+257,441509,Desi,Rojahn,3,Line Cook,Grill/Sautee,1,24.62
+258,151864,Wade,Holston,2,Prep Cook,Salad/Desserts,8,23.66
+259,470619,Carver,Geistbeck,1,Line Cook,Fry/Sautee,1,14.49
+260,536804,Daniella,Caig,3,Lead Line Cook,Salad/Desserts,2,15.23
+261,483959,Mathe,Kaminski,1,Prep Cook,Dish,7,19.8
+262,211497,Renault,Brumwell,1,Prep Cook,All Stations,4,20.11
+263,405483,Fidelity,Hitscher,3,Prep Cook,Fry/Grill/Sautee,9,23.6
+264,246753,Hill,Bockman,2,Prep Cook,Food Prep,8,23.86
+265,371967,Skippie,Mault,2,Line Cook,Fry/Sautee,9,17.13
+266,230825,Erinn,Arnao,3,Line Cook,Dish,4,19.66
+267,146262,Robin,Harflete,2,Lead Line Cook,Grill,4,16.15
+268,811725,Patsy,Avrahamof,1,Line Cook,Grill,2,23.55
+269,617212,Jaquenette,Langridge,1,Prep Cook,Food Prep,2,16.71
+270,519350,Eugine,MacKeig,1,Line Cook,Fry/Grill/Sautee,4,12.7
+271,969728,Donavon,Reicherz,3,Line Cook,Grill/Sautee,10,16.3
+272,396416,Zackariah,Shearman,3,Line Cook,Fry/Grill/Sautee,4,20.88
+273,507682,Audrye,Mantrup,2,Lead Line Cook,Fry/Grill/Sautee,10,22.72
+274,884239,Bald,Schulze,1,Prep Cook,Food Prep,5,22.31
+275,588528,Briggs,Gawkroge,3,Line Cook,Food Prep,9,16.47
+276,443294,Marylin,Officer,2,Lead Line Cook,Food Prep,1,15.69
+277,532883,Lorne,MacCombe,3,Line Cook,All Stations,7,14.96
+278,598017,Vincenz,Brownsmith,1,Line Cook,All Stations,1,17.08
+279,835873,Edie,Kissell,2,Prep Cook,Grill/Sautee,3,12.25
+280,285394,Andree,Preece,3,Line Cook,Dish,6,22.36
+281,839683,Harriot,Peschka,3,Lead Line Cook,Salad/Desserts,4,24.18
+282,874356,Sammy,Maulden,3,Prep Cook,Grill,9,15.6
+283,540921,Aline,Skittreal,3,Prep Cook,Grill/Sautee,6,24.37
+284,396037,Rebbecca,Phil,3,Prep Cook,Dish,1,12.13
+285,319260,Kiley,Blues,2,Line Cook,Food Prep,6,22.17
+286,835827,Pearl,Spere,1,Prep Cook,Food Prep,9,17.55
+287,841912,Colas,Goodbur,2,Lead Line Cook,Grill/Sautee,10,12.56
+288,574933,Waldon,Hawkeswood,2,Line Cook,Fry/Sautee,7,21.32
+289,962013,Mindy,Lucia,3,Prep Cook,Grill,1,20.24
+290,810849,Joell,Guilloton,3,Prep Cook,Fry/Sautee,10,23.41
+291,299581,Ellissa,Thornborrow,1,Lead Line Cook,Fry/Grill/Sautee,9,14.95
+292,396977,Rodrigo,Mauditt,3,Lead Line Cook,All Stations,5,24.15
+293,537723,Malinde,Lobb,2,Prep Cook,Grill,1,24.93
+294,501041,Costa,Sturdy,1,Lead Line Cook,Dish,3,13.11
+295,721143,Rachael,Schuchmacher,1,Lead Line Cook,Food Prep,5,16.31
+296,881066,Salim,McFadden,3,Line Cook,Dish,1,16.34
+297,925251,Yanaton,Parkman,1,Prep Cook,Dish,3,22.6
+298,763746,Michel,Kimberley,1,Lead Line Cook,Salad/Desserts,4,20.59
+299,702459,Lorri,Pitblado,2,Prep Cook,Food Prep,9,12.08
+300,661165,Joshuah,Eskrigg,2,Prep Cook,Grill/Sautee,3,22.11
+301,400005,Jasmin,Ibanez,2,Lead Line Cook,Grill,5,16.56
+302,204428,Sybilla,Artharg,1,Lead Line Cook,Grill/Sautee,3,20.18
+303,872731,Rolfe,Venning,2,Prep Cook,Fry/Sautee,1,23.23
+304,647419,Sydney,Faro,2,Line Cook,Fry/Grill/Sautee,8,22.63
+305,320956,Moll,Cureton,1,Line Cook,Grill,8,16.81
+306,116787,Mickie,Warbys,1,Line Cook,Fry/Sautee,9,18.12
+307,259992,Stephie,Walsom,3,Lead Line Cook,Fry/Sautee,1,17.45
+308,784476,Xenia,Benallack,1,Lead Line Cook,Fry/Grill/Sautee,9,17.47
+309,391202,Maurizio,Slimm,2,Line Cook,All Stations,6,13.48
+310,871099,Gabbie,Deinhard,1,Line Cook,Dish,5,15.63
+311,302193,Alfie,Kingscott,1,Line Cook,Salad/Desserts,3,14.96
+312,634335,Nico,Hulbert,2,Lead Line Cook,All Stations,5,17.43
+313,574910,Allys,Gally,1,Line Cook,All Stations,2,14.97
+314,218043,Cointon,Gulleford,1,Line Cook,All Stations,5,12.2
+315,912549,Andreana,Ciani,2,Line Cook,All Stations,7,15.2
+316,169092,Vincent,Pavolillo,3,Lead Line Cook,Food Prep,2,16.18
+317,767901,Rowe,Reffe,3,Prep Cook,All Stations,8,16.41
+318,245745,Zara,Wetton,3,Prep Cook,All Stations,6,22.55
+319,723436,Vittoria,Stopper,3,Prep Cook,Fry/Sautee,8,21.39
+320,531647,Carce,Beaby,2,Lead Line Cook,Grill/Sautee,7,21.29
+321,616387,Andy,Drennan,3,Prep Cook,Fry/Grill/Sautee,4,21.38
+322,984196,Sibelle,Jaggli,2,Prep Cook,Grill/Sautee,5,13.12
+323,587294,Dory,Gerin,2,Line Cook,Food Prep,4,16.64
+324,631057,Roxana,Kinman,2,Line Cook,All Stations,10,14.74
+325,632690,Stanwood,Worgen,1,Line Cook,Grill/Sautee,9,21.89
+326,536358,Gil,Brimner,2,Prep Cook,Grill/Sautee,6,24.35
+327,114350,Liva,Gulley,1,Lead Line Cook,Salad/Desserts,10,12.15
+328,401137,Diandra,Almeida,3,Prep Cook,Fry/Sautee,7,15.55
+329,740093,Elvina,Moline,2,Lead Line Cook,All Stations,8,22.69
+330,233311,Annmaria,Sullivan,2,Line Cook,Grill/Sautee,1,21.96
+331,604735,Randie,Gorse,3,Line Cook,Grill/Sautee,3,12.09
+332,321990,Abelard,Attoc,1,Line Cook,Fry/Grill/Sautee,3,23.53
+333,431670,Sella,Hylden,1,Prep Cook,Food Prep,9,17.45
+334,221873,Bran,Harrild,2,Line Cook,Fry/Sautee,9,13.53
+335,848165,Olive,Simonato,1,Line Cook,Grill/Sautee,3,22.05
+336,216205,Audy,Philps,3,Lead Line Cook,All Stations,3,23.39
+337,950011,Cristabel,Shropshire,1,Prep Cook,Grill,6,20.31
+338,482777,Mallorie,Schenfisch,3,Lead Line Cook,All Stations,8,16.59
+339,479741,Quinn,Cicullo,3,Line Cook,Grill,10,14.09
+340,639794,Ainslie,Deeman,2,Line Cook,Grill/Sautee,9,19.44
+341,529574,Marius,Cometti,3,Line Cook,Grill,4,24.09
+342,109101,Gaylor,Balmforth,2,Prep Cook,Fry/Grill/Sautee,10,19.05
+343,300483,Heddi,De Fraine,2,Line Cook,Fry/Grill/Sautee,4,19.7
+344,949724,Felisha,Collinette,3,Line Cook,Food Prep,4,12.89
+345,291604,Corrie,Maidstone,2,Line Cook,Dish,7,22.86
+346,513156,Loella,Sexty,3,Lead Line Cook,All Stations,9,14.04
+347,164778,Paco,Maleby,2,Lead Line Cook,Salad/Desserts,8,22.32
+348,144430,Prentiss,Crim,3,Lead Line Cook,Grill/Sautee,2,12.46
+349,207807,Silvain,Climar,1,Lead Line Cook,Grill,2,24.32
+350,895042,Archie,Trippitt,1,Lead Line Cook,Dish,6,20.76
+351,181036,Camille,Bedford,3,Line Cook,Fry/Grill/Sautee,2,14.34
+352,358535,Hewet,Mecchi,3,Lead Line Cook,Grill/Sautee,10,18.54
+353,334392,Rikki,Leggitt,1,Line Cook,Grill/Sautee,7,20.46
+354,291492,Rafferty,Gillan,3,Lead Line Cook,Fry/Grill/Sautee,9,20.33
+355,995987,Pam,Yonnie,2,Prep Cook,Salad/Desserts,9,18.59
+356,485662,Armstrong,McCullogh,3,Line Cook,Grill/Sautee,4,14.19
+357,829474,Gordie,O'Hdirscoll,2,Prep Cook,Dish,6,22.49
+358,882431,Rozalin,Adamkiewicz,1,Line Cook,Grill/Sautee,5,12.13
+359,157182,Hayyim,Hadley,3,Lead Line Cook,Dish,6,21.92
+360,190641,Bennie,Houndsom,3,Lead Line Cook,Fry/Sautee,8,24.0
+361,284528,Virgie,Noell,3,Prep Cook,Grill,7,15.72
+362,989109,Arlen,Eick,1,Line Cook,All Stations,6,19.2
+363,876005,Dalton,Soltan,1,Line Cook,All Stations,6,12.42
+364,233688,Sheridan,Palmby,3,Line Cook,Grill,9,12.63
+365,987339,Mavis,Bossom,2,Lead Line Cook,Dish,1,20.58
+366,347552,Riordan,Baynham,3,Lead Line Cook,All Stations,5,14.1
+367,198214,Dana,Attril,3,Prep Cook,Fry/Sautee,3,20.73
+368,709463,Chevalier,Normanton,2,Line Cook,Grill,9,22.55
+369,208797,Pate,Tupling,1,Line Cook,All Stations,3,14.59
+370,453787,Issiah,Frend,2,Lead Line Cook,Dish,10,21.93
+371,627666,Valida,Geggus,2,Prep Cook,Salad/Desserts,1,14.88
+372,560149,Daisie,Iggulden,3,Lead Line Cook,Fry/Sautee,2,15.13
+373,407048,Giulietta,Kimber,1,Lead Line Cook,Salad/Desserts,1,15.66
+374,912273,Galina,Behnecke,3,Lead Line Cook,Grill/Sautee,8,18.06
+375,824960,Emlyn,Beagen,3,Prep Cook,Fry/Grill/Sautee,9,20.93
+376,488987,Stacee,Sterndale,1,Line Cook,Salad/Desserts,1,18.0
+377,241059,Janey,Wastall,3,Lead Line Cook,Grill,6,14.22
+378,928003,Hendrick,Bram,2,Prep Cook,Dish,3,20.8
+379,293215,Clarette,Baish,1,Lead Line Cook,Grill,2,12.56
+380,968299,Harry,Skoggings,1,Lead Line Cook,Dish,3,12.88
+381,280548,Kaitlin,Sigfrid,3,Line Cook,Fry/Grill/Sautee,4,19.73
+382,342517,Simone,Kebbell,3,Lead Line Cook,Fry/Grill/Sautee,3,13.89
+383,965133,Gill,Speerman,1,Line Cook,Dish,1,20.16
+384,959323,Morganica,Colrein,1,Lead Line Cook,Food Prep,6,14.85
+385,712418,Aubrey,Bickley,3,Prep Cook,Grill,1,21.08
+386,367964,Sinclair,Everex,1,Lead Line Cook,Fry/Grill/Sautee,9,16.1
+387,699733,Grissel,Robertshaw,3,Prep Cook,Fry/Grill/Sautee,5,20.11
+388,144801,Ryan,Shailer,3,Line Cook,Fry/Sautee,1,22.98
+389,804135,Chris,Spenton,2,Lead Line Cook,Fry/Sautee,4,17.69
+390,190961,Cello,Baggalley,3,Line Cook,Grill,4,17.43
+391,206286,Ruddy,Stovin,2,Line Cook,Dish,10,12.16
+392,147747,Lynea,Steabler,1,Lead Line Cook,Grill/Sautee,6,18.68
+393,972192,Clim,Monte,2,Prep Cook,Dish,5,22.13
+394,209166,Shelba,Noni,3,Prep Cook,Grill,10,14.25
+395,195443,Dian,Jobbins,2,Lead Line Cook,Dish,5,20.27
+396,381437,Faydra,Cicchitello,2,Line Cook,Food Prep,4,22.22
+397,888027,Elysia,Lewcock,2,Prep Cook,Food Prep,2,14.92
+398,764949,Annamarie,Cattlemull,3,Line Cook,All Stations,2,17.36
+399,178463,Georgia,Rastrick,1,Prep Cook,Salad/Desserts,6,16.52
+400,432238,Stefan,Feedham,3,Line Cook,Grill/Sautee,3,23.84
+401,557669,Toddy,Hartshorne,1,Prep Cook,Grill,8,23.02
+402,136053,Wilfrid,Kalker,3,Line Cook,Dish,2,24.73
+403,236757,Cindi,Syder,2,Lead Line Cook,Salad/Desserts,7,13.71
+404,788833,Roxanna,McDowall,3,Line Cook,Salad/Desserts,7,22.65
+405,846722,Rickey,Standrin,3,Line Cook,Food Prep,6,22.33
+406,594888,Rufe,Mertsching,3,Lead Line Cook,Dish,10,19.96
+407,220044,Clevey,Seyers,1,Line Cook,Dish,10,24.99
+408,639365,Valentino,Norewood,1,Lead Line Cook,Grill/Sautee,9,22.59
+409,102842,Josee,Yakunin,1,Line Cook,Grill/Sautee,7,21.33
+410,236940,Dev,Janosevic,3,Prep Cook,Grill/Sautee,8,24.14
+411,491332,Corenda,Nassey,3,Lead Line Cook,Grill,1,24.72
+412,976865,Jasmine,Scutt,2,Line Cook,Fry/Sautee,9,13.26
+413,724319,Barb,Pepi,2,Prep Cook,Fry/Sautee,3,19.67
+414,770691,Daffy,Leek,2,Lead Line Cook,Dish,8,13.68
+415,532751,Stillmann,Plumptre,2,Line Cook,Grill,3,21.17
+416,567946,Kellen,Brittan,2,Line Cook,Grill,7,14.13
+417,624339,Sheffield,Andriveaux,3,Prep Cook,Fry/Sautee,4,23.25
+418,329625,Jane,Gobbet,1,Line Cook,Grill/Sautee,4,18.41
+419,590831,Toma,Povlsen,3,Line Cook,Salad/Desserts,6,18.42
+420,834812,Glendon,Dibdin,2,Prep Cook,Fry/Sautee,6,20.39
+421,425760,Ivette,Brailey,3,Lead Line Cook,Fry/Grill/Sautee,2,15.89
+422,374523,Mari,Lowten,1,Lead Line Cook,Fry/Grill/Sautee,10,22.67
+423,639791,Jocelyne,Enbury,2,Line Cook,Fry/Sautee,5,15.2
+424,236732,Jordana,Silliman,3,Lead Line Cook,Salad/Desserts,5,13.99
+425,309360,Binnie,Alexsandrev,3,Line Cook,Food Prep,2,20.57
+426,452442,Knox,Mitkin,2,Lead Line Cook,Salad/Desserts,7,17.48
+427,567232,Lisha,Turpin,1,Lead Line Cook,Grill,8,20.95
+428,267455,Davy,Skrine,1,Line Cook,Grill,5,24.86
+429,525123,Collin,Fairrie,1,Prep Cook,Salad/Desserts,9,15.26
+430,988308,Laraine,Losbie,1,Lead Line Cook,All Stations,2,19.11
+431,711358,Nicolas,Cahalin,1,Lead Line Cook,Fry/Grill/Sautee,9,13.41
+432,329309,Lorens,Grouer,3,Prep Cook,Food Prep,3,16.77
+433,795282,Thomasine,Rookledge,3,Line Cook,Grill,4,23.85
+434,822123,Tiphany,Roxbrough,1,Lead Line Cook,Fry/Grill/Sautee,9,22.62
+435,934389,Bat,Buxy,1,Lead Line Cook,Dish,2,15.54
+436,702781,Gayel,Enterlein,1,Lead Line Cook,Fry/Sautee,9,17.5
+437,213176,Pippa,Tyre,3,Lead Line Cook,Grill,4,22.83
+438,679959,Shalom,Parnell,3,Lead Line Cook,Fry/Grill/Sautee,4,15.56
+439,980101,Georgianne,Graber,2,Lead Line Cook,All Stations,6,22.98
+440,563649,Gherardo,Laughrey,3,Prep Cook,Food Prep,6,15.36
+441,752526,Demetrius,Townend,1,Prep Cook,Salad/Desserts,5,24.38
+442,798074,Abra,Whittingham,1,Lead Line Cook,Grill/Sautee,3,24.27
+443,310494,Che,Goffe,1,Lead Line Cook,Grill,3,15.05
+444,420051,Karleen,Dowzell,3,Prep Cook,Salad/Desserts,4,18.66
+445,599408,Tove,Vaz,1,Line Cook,Salad/Desserts,8,19.61
+446,977393,Byron,Readitt,1,Prep Cook,Fry/Grill/Sautee,7,24.88
+447,245752,Magdaia,Forrest,2,Prep Cook,All Stations,8,20.43
+448,438862,Clarissa,Bryant,1,Line Cook,Fry/Sautee,1,14.08
+449,649256,Thatch,Hansley,2,Line Cook,Grill/Sautee,4,22.15
+450,626327,Cynthie,Conaboy,2,Line Cook,Salad/Desserts,1,13.79
+451,589084,Riordan,Scurrah,2,Line Cook,All Stations,3,12.12
+452,694810,Bourke,Sugars,1,Lead Line Cook,Dish,1,14.01
+453,130972,Caddric,Merricks,2,Lead Line Cook,Food Prep,6,15.33
+454,783017,Doloritas,Tackett,1,Lead Line Cook,Fry/Sautee,1,15.91
+455,914689,Simeon,Crawford,2,Lead Line Cook,Fry/Sautee,4,18.2
+456,505360,Farah,Brooker,3,Prep Cook,Grill/Sautee,6,19.33
+457,679063,Ilyse,Sillett,3,Prep Cook,Grill,7,17.01
+458,475473,Juana,Caroli,3,Line Cook,All Stations,5,13.5
+459,130541,Yehudit,Durnell,2,Line Cook,All Stations,2,18.06
+460,193010,Donny,Braunes,3,Prep Cook,Fry/Sautee,6,24.8
+461,382210,Sylvia,Catton,3,Prep Cook,Grill/Sautee,6,17.07
+462,521057,Fielding,Dearlove,3,Line Cook,Grill/Sautee,8,17.45
+463,932791,Melloney,Seally,2,Prep Cook,Grill/Sautee,7,18.45
+464,729237,Ingemar,Gillingham,3,Line Cook,Fry/Grill/Sautee,5,23.26
+465,557702,Gerda,Rands,2,Lead Line Cook,Grill/Sautee,2,15.05
+466,355627,Shay,Rainy,1,Line Cook,Salad/Desserts,3,15.0
+467,821432,Clovis,De Laspee,2,Line Cook,Food Prep,8,17.49
+468,398901,Obediah,Smolan,2,Line Cook,Dish,4,20.21
+469,498335,Miguel,Stonehewer,1,Line Cook,Salad/Desserts,4,18.62
+470,345434,Ekaterina,Sewley,3,Line Cook,All Stations,8,12.43
+471,345615,Amii,Slowgrove,2,Line Cook,Food Prep,7,22.69
+472,508021,Rahel,Nunns,2,Line Cook,Fry/Sautee,3,15.66
+473,947318,Abba,Ternent,1,Lead Line Cook,Grill/Sautee,1,14.88
+474,258422,Zitella,Bradd,2,Prep Cook,Food Prep,8,18.64
+475,384918,Torey,MacIntyre,3,Line Cook,Grill,10,17.91
+476,332865,Wilmar,Whitton,2,Lead Line Cook,Grill,10,12.04
+477,730680,Andree,Buse,2,Lead Line Cook,Grill/Sautee,9,12.2
+478,181434,Brnaby,Regardsoe,3,Prep Cook,Grill/Sautee,6,13.16
+479,735695,Maybelle,Channon,1,Prep Cook,All Stations,3,23.99
+480,187742,Brittney,Malenoir,3,Prep Cook,Salad/Desserts,8,22.36
+481,656291,Alair,Murrock,1,Lead Line Cook,Dish,2,16.07
+482,125222,Tucker,Melmeth,1,Prep Cook,Grill,2,18.89
+483,617618,Lanni,Caret,1,Lead Line Cook,All Stations,9,16.22
+484,261509,Arleyne,Lukas,2,Prep Cook,Grill,9,16.93
+485,477763,Tarrance,Rudgard,1,Prep Cook,Grill,2,24.37
+486,173187,Janina,Brim,1,Line Cook,Fry/Sautee,2,16.99
+487,992134,Rudd,O'Luby,3,Prep Cook,All Stations,2,20.43
+488,329652,Carver,Clery,1,Prep Cook,All Stations,7,21.57
+489,475640,Artur,Tigner,2,Line Cook,All Stations,2,18.98
+490,828795,Hadlee,Brickner,1,Line Cook,Food Prep,7,21.31
+491,304688,Mill,Adamoli,2,Lead Line Cook,All Stations,3,19.98
+492,318446,Myles,Swayne,3,Prep Cook,All Stations,2,23.25
+493,944159,Arney,Heditch,2,Lead Line Cook,Grill,1,21.67
+494,542252,Michel,Careswell,1,Lead Line Cook,Fry/Sautee,9,24.95
+495,853155,Alwyn,Coward,2,Prep Cook,All Stations,2,17.21
+496,806042,Lisha,Zeplin,2,Lead Line Cook,Fry/Grill/Sautee,6,20.87
+497,121198,Alaster,Pays,2,Line Cook,Grill/Sautee,3,21.12
+498,871854,Torin,Hollidge,2,Lead Line Cook,Fry/Grill/Sautee,1,17.95
+499,760080,Wandie,Chapling,3,Prep Cook,Fry/Grill/Sautee,6,20.97
+500,193310,Berty,Parrot,3,Prep Cook,Food Prep,6,19.6
+501,806351,Lianne,Elmhirst,2,Line Cook,Grill/Sautee,7,14.78
+502,719422,Gypsy,Cattroll,1,Prep Cook,Grill,1,12.54
+503,434414,Alex,Bark,1,Lead Line Cook,Salad/Desserts,3,15.46
+504,596544,Gabriello,Kmiec,2,Prep Cook,Fry/Grill/Sautee,7,20.37
+505,386776,Mercie,Jurges,1,Line Cook,Fry/Grill/Sautee,8,12.64
+506,599296,Cosme,Povall,1,Lead Line Cook,Fry/Grill/Sautee,7,20.08
+507,584073,Nikki,Meddemmen,2,Prep Cook,Fry/Sautee,1,19.91
+508,179244,Alonso,Stubbley,2,Line Cook,Fry/Grill/Sautee,6,15.24
+509,198424,Dorita,Teliga,3,Lead Line Cook,Food Prep,7,24.37
+510,127305,Nevil,Widdicombe,2,Line Cook,Dish,4,24.46
+511,114316,Xenia,Sellstrom,1,Prep Cook,Food Prep,9,19.02
+512,752363,Giacinta,Mangham,1,Prep Cook,Food Prep,7,16.66
+513,873682,Elspeth,Keward,3,Prep Cook,Fry/Sautee,1,21.86
+514,204862,Charlie,Adenot,3,Line Cook,All Stations,8,22.38
+515,655851,Meggi,Blaxill,1,Prep Cook,Grill,3,23.66
+516,243911,Alexandro,McSpirron,3,Lead Line Cook,Fry/Sautee,9,18.04
+517,708877,Fraser,Linley,2,Line Cook,Dish,7,16.56
+518,200895,Duffy,Winman,3,Prep Cook,Grill/Sautee,6,23.15
+519,146256,Edythe,Glassopp,2,Prep Cook,Grill,7,19.68
+520,946792,Vittoria,Tanfield,2,Lead Line Cook,Dish,6,13.92
+521,329990,Lacee,Provis,1,Lead Line Cook,All Stations,6,14.02
+522,533002,Erminie,Volkers,1,Prep Cook,Salad/Desserts,4,17.46
+523,507573,Heywood,Santon,1,Line Cook,Food Prep,3,15.98
+524,757183,Jerome,O'Ferris,2,Lead Line Cook,Grill/Sautee,6,17.42
+525,857118,Tricia,Craigmile,2,Lead Line Cook,Grill,2,19.99
+526,256696,Coralie,Westberg,3,Prep Cook,Food Prep,3,12.37
+527,144258,Waiter,Mc Carroll,1,Lead Line Cook,Grill,7,24.61
+528,281932,Madelin,Aspell,3,Prep Cook,All Stations,8,14.12
+529,771409,Wilma,Jerome,1,Lead Line Cook,Fry/Grill/Sautee,7,19.39
+530,592320,Darnall,Stolze,2,Line Cook,Grill,6,21.74
+531,485811,Carola,Abel,1,Line Cook,All Stations,7,15.53
+532,411563,Clair,De Vaar,3,Lead Line Cook,Grill/Sautee,8,22.17
+533,734286,Hillier,Clementucci,2,Lead Line Cook,Fry/Grill/Sautee,10,15.92
+534,193711,Kellen,Shervington,3,Line Cook,Grill,4,17.91
+535,932863,Seana,Gilardone,2,Prep Cook,Salad/Desserts,2,19.04
+536,401190,Simonne,Arch,3,Line Cook,Grill,4,16.3
+537,381601,Herc,Bilovus,1,Line Cook,Grill/Sautee,6,13.42
+538,993759,Juanita,Matieu,1,Lead Line Cook,Grill,1,15.15
+539,859280,Jesselyn,Caswell,2,Lead Line Cook,Grill/Sautee,9,22.32
+540,310781,Aubert,Roffe,3,Line Cook,Grill/Sautee,1,24.68
+541,274503,Aubrette,Straniero,2,Line Cook,Dish,8,18.9
+542,603108,Datha,Leuchars,2,Line Cook,Fry/Grill/Sautee,2,17.36
+543,832056,Mose,Albasiny,1,Lead Line Cook,Dish,1,17.03
+544,827859,Rani,De Malchar,1,Prep Cook,Grill/Sautee,3,24.16
+545,565986,Serene,Corkan,3,Lead Line Cook,Fry/Sautee,1,14.07
+546,354350,Arly,O'Farrell,2,Lead Line Cook,Food Prep,2,18.83
+547,107663,Honey,Gaffon,1,Lead Line Cook,Fry/Grill/Sautee,4,18.53
+548,801202,Ivett,Neave,2,Prep Cook,Grill,9,14.65
+549,677193,Hughie,Durrant,1,Prep Cook,Fry/Sautee,8,20.64
+550,560428,Nelly,Fanton,3,Line Cook,Grill,4,12.23
+551,938236,Carmen,Haydon,1,Line Cook,Dish,7,18.38
+552,696543,Gunther,Eller,1,Line Cook,Grill/Sautee,10,17.14
+553,863368,Lesly,Pordal,2,Prep Cook,Grill/Sautee,10,13.24
+554,480921,Vic,Twinbourne,2,Prep Cook,Fry/Grill/Sautee,9,17.83
+555,314265,Shandra,Lytle,1,Lead Line Cook,Grill/Sautee,6,20.77
+556,733573,Elias,Luty,3,Line Cook,Food Prep,2,12.73
+557,739527,Demetri,Purkess,1,Line Cook,Fry/Sautee,10,21.75
+558,833930,Claudie,Ballard,3,Prep Cook,Fry/Grill/Sautee,4,15.71
+559,633119,Aarika,Dregan,3,Prep Cook,Food Prep,2,21.41
+560,666418,Linzy,McCutheon,1,Line Cook,Grill/Sautee,1,22.64
+561,251907,Karney,Vanyarkin,1,Prep Cook,Food Prep,8,19.76
+562,982116,Allin,Schutt,1,Line Cook,Food Prep,9,15.17
+563,335207,Darya,Gumn,2,Lead Line Cook,Fry/Sautee,7,16.59
+564,208905,Inger,Strowan,3,Lead Line Cook,Grill/Sautee,7,20.27
+565,268865,Phaedra,Ivanusyev,2,Prep Cook,Dish,10,16.12
+566,783614,Lin,Smallcomb,3,Lead Line Cook,Food Prep,9,20.7
+567,697968,Cecilia,Weatherburn,3,Prep Cook,Grill/Sautee,5,23.33
+568,397357,Tris,Kewley,2,Lead Line Cook,Grill,2,24.59
+569,885572,Annamarie,Cordingly,2,Line Cook,Food Prep,1,17.3
+570,744178,Emyle,Gritsaev,3,Prep Cook,Salad/Desserts,6,16.4
+571,911633,Quentin,Helversen,2,Line Cook,Grill,1,24.0
+572,546179,Niel,McMyler,1,Lead Line Cook,Dish,6,17.34
+573,234984,Lib,Gillebride,2,Lead Line Cook,Grill,9,17.99
+574,590039,Alvinia,Zorn,1,Lead Line Cook,Grill/Sautee,7,22.84
+575,509011,Athena,Gogarty,3,Line Cook,Grill/Sautee,3,14.17
+576,618198,Harv,De Normanville,2,Line Cook,Grill/Sautee,9,18.61
+577,442766,Anne-corinne,Depka,1,Prep Cook,Dish,10,20.01
+578,966451,Dotty,McKinney,2,Prep Cook,Fry/Grill/Sautee,2,19.86
+579,702250,Alfreda,Stowers,2,Prep Cook,Grill/Sautee,3,19.88
+580,108862,Pate,Finch,2,Line Cook,Dish,8,23.0
+581,259794,Reggie,Poleye,1,Lead Line Cook,Grill,4,13.72
+582,545966,Rea,Mallabar,1,Line Cook,Dish,10,13.05
+583,542635,Celina,Yeliashev,3,Lead Line Cook,Grill/Sautee,1,14.01
+584,969201,Hillery,Labrenz,3,Lead Line Cook,Food Prep,1,12.46
+585,990579,Tarrah,Brommage,1,Prep Cook,Fry/Sautee,4,23.07
+586,911512,Scarlett,Fursey,1,Line Cook,Fry/Grill/Sautee,8,15.69
+587,643603,Bessy,Dolley,3,Prep Cook,Food Prep,2,21.65
+588,768276,Josh,Croose,2,Prep Cook,Food Prep,1,14.99
+589,263188,Ode,Sharpus,1,Line Cook,Dish,8,16.21
+590,476752,Laurette,Ormiston,2,Lead Line Cook,Grill/Sautee,8,23.26
+591,763691,Leanor,Hinzer,3,Prep Cook,Salad/Desserts,1,21.21
+592,407293,Findlay,Adran,2,Prep Cook,Grill,4,13.32
+593,955498,Hilliary,D'Ruel,1,Prep Cook,Salad/Desserts,1,21.94
+594,411021,Kile,Blumer,1,Prep Cook,Food Prep,5,21.83
+595,797515,Rabbi,Pavier,3,Lead Line Cook,Dish,7,18.05
+596,587569,Christoph,Andrzejak,3,Lead Line Cook,Salad/Desserts,9,24.63
+597,561531,Nell,Straneo,1,Line Cook,Dish,9,16.52
+598,504313,Alon,Wolters,3,Line Cook,Grill,2,22.36
+599,489258,Giralda,Mayworth,1,Line Cook,Dish,1,14.48
+600,136398,Herschel,Handscombe,2,Prep Cook,Grill,2,14.96
+601,252925,Juieta,Dorber,1,Line Cook,Salad/Desserts,2,24.62
+602,408415,Maxie,Aldous,3,Prep Cook,Dish,5,18.51
+603,372173,Monti,Wattinham,2,Lead Line Cook,Fry/Grill/Sautee,2,14.16
+604,484297,Willie,Galloway,2,Line Cook,Fry/Grill/Sautee,8,13.27
+605,369444,Julee,Kidman,2,Line Cook,Salad/Desserts,8,23.11
+606,341450,Yvonne,Tourot,2,Line Cook,Fry/Grill/Sautee,2,21.21
+607,229856,Earvin,Beggini,2,Line Cook,Grill,9,23.64
+608,405744,Hansiain,Jurn,1,Lead Line Cook,Dish,1,18.95
+609,698013,Ewen,Blaydes,3,Lead Line Cook,Fry/Sautee,3,13.78
+610,509476,Benton,Tinmouth,1,Lead Line Cook,Fry/Sautee,1,13.1
+611,262710,Layney,Luxon,2,Prep Cook,Grill/Sautee,6,24.87
+612,578218,Darcie,Congreave,2,Lead Line Cook,Salad/Desserts,9,12.72
+613,951682,Jethro,Cordy,3,Prep Cook,Dish,1,24.98
+614,555203,Heddi,Szepe,2,Prep Cook,Fry/Sautee,4,18.19
+615,774685,Ellery,McMychem,1,Line Cook,Food Prep,4,19.11
+616,479596,Pen,Pashby,1,Lead Line Cook,Dish,2,19.73
+617,801639,Datha,Meaddowcroft,1,Lead Line Cook,Food Prep,4,24.48
+618,197219,Phineas,Jiru,3,Line Cook,Salad/Desserts,5,24.44
+619,184939,Cosette,Conville,3,Lead Line Cook,Fry/Sautee,4,18.92
+620,262634,Brander,Mintoft,2,Line Cook,Food Prep,6,18.6
+621,329665,Livvy,Morais,2,Line Cook,Fry/Grill/Sautee,3,20.15
+622,848034,Florida,Lillywhite,3,Prep Cook,Fry/Sautee,8,24.58
+623,519773,Roda,McVrone,1,Line Cook,All Stations,9,16.4
+624,214352,Joseito,Gittose,1,Lead Line Cook,Salad/Desserts,7,16.39
+625,800092,Isahella,Giorgio,1,Prep Cook,Food Prep,5,13.51
+626,267307,Erika,Durston,3,Line Cook,Fry/Grill/Sautee,10,18.74
+627,916571,Leigh,Arenson,1,Line Cook,Dish,3,22.01
+628,325496,Adolpho,Quinn,1,Lead Line Cook,Grill,1,16.46
+629,452744,Charlton,Frith,2,Lead Line Cook,Fry/Sautee,10,20.77
+630,253023,Cherie,Dorrins,2,Prep Cook,Grill,4,12.94
+631,427519,Nickola,Kochl,3,Line Cook,Fry/Grill/Sautee,9,12.28
+632,378813,Hedvig,Aveling,2,Prep Cook,Grill,7,16.57
+633,829921,Christopher,Daldry,1,Line Cook,Grill,5,15.16
+634,281640,Evvy,Aireton,1,Prep Cook,Dish,2,22.25
+635,460661,Emerson,Duigenan,1,Prep Cook,Salad/Desserts,7,15.91
+636,637188,Shane,Dobble,1,Lead Line Cook,Fry/Grill/Sautee,8,23.25
+637,224321,Kassia,Skillen,3,Line Cook,Fry/Grill/Sautee,3,18.51
+638,105912,Lanna,Carillo,1,Line Cook,Grill/Sautee,6,23.78
+639,787066,Demeter,Dunseath,3,Line Cook,Food Prep,2,16.91
+640,610790,Caryl,Melanaphy,1,Line Cook,Fry/Grill/Sautee,2,15.96
+641,816799,Dusty,Lent,1,Lead Line Cook,Fry/Sautee,6,23.51
+642,500514,Salmon,Mawne,2,Line Cook,Dish,7,13.51
+643,146822,Calypso,Beinisch,3,Prep Cook,Food Prep,1,17.26
+644,770428,Barbaraanne,McKague,2,Lead Line Cook,Dish,8,25.0
+645,304994,Bathsheba,Gairdner,3,Lead Line Cook,All Stations,9,18.38
+646,591834,Jodi,Manthorpe,2,Prep Cook,Fry/Grill/Sautee,5,21.16
+647,153379,Maybelle,Christensen,2,Lead Line Cook,Salad/Desserts,9,17.0
+648,709572,Alberik,Rowswell,3,Prep Cook,All Stations,9,22.27
+649,473671,Wileen,Pedrol,1,Line Cook,All Stations,10,14.22
+650,383413,Meggy,Fellona,2,Prep Cook,Food Prep,6,15.13
+651,376229,Odey,Dunwoody,3,Lead Line Cook,Fry/Grill/Sautee,3,24.37
+652,293571,Vilhelmina,Lightbody,2,Lead Line Cook,Grill,3,24.52
+653,986143,Colette,Jurkiewicz,3,Line Cook,Dish,9,20.61
+654,173790,Bernardina,Skoate,2,Prep Cook,All Stations,9,23.02
+655,487610,Tedmund,O'Carran,2,Line Cook,Fry/Sautee,4,24.52
+656,131228,Nikola,Traite,2,Prep Cook,Food Prep,3,19.94
+657,580038,Rachelle,Wakeford,2,Line Cook,Dish,10,12.95
+658,572764,Dareen,Tolhurst,2,Line Cook,Fry/Grill/Sautee,9,20.33
+659,178547,Paddie,Normanville,3,Lead Line Cook,Fry/Grill/Sautee,10,22.08
+660,512698,Garrek,Hitschke,1,Line Cook,Grill,5,16.65
+661,804352,Rainer,MacSherry,2,Line Cook,Food Prep,2,20.49
+662,734682,Alexandro,Bleasby,2,Prep Cook,Food Prep,8,15.37
+663,232306,Veronike,Gorce,2,Lead Line Cook,Fry/Sautee,8,20.28
+664,645142,Ranna,Humphrys,3,Lead Line Cook,Food Prep,1,23.75
+665,543948,Nesta,Julien,3,Lead Line Cook,Fry/Grill/Sautee,3,19.24
+666,976852,Mildrid,Digby,1,Prep Cook,Food Prep,1,15.72
+667,589424,Fleming,Kidston,2,Prep Cook,Fry/Grill/Sautee,7,16.54
+668,451938,Rozamond,Blackborne,1,Prep Cook,Grill/Sautee,6,24.21
+669,405800,Woodman,MacKeeg,1,Lead Line Cook,Salad/Desserts,8,20.22
+670,129077,Linnie,Cabbell,2,Line Cook,Grill/Sautee,4,23.38
+671,490952,Ezekiel,Uccelli,2,Prep Cook,Food Prep,7,16.03
+672,486371,Antonina,Scipsey,3,Line Cook,Food Prep,4,24.94
+673,502624,Zachery,Paule,1,Lead Line Cook,Dish,10,23.34
+674,929704,Zara,Carpmile,3,Prep Cook,Food Prep,5,22.33
+675,391472,Daffi,Bernard,2,Lead Line Cook,Salad/Desserts,6,21.43
+676,764223,Billi,Tremlett,3,Lead Line Cook,Salad/Desserts,7,13.31
+677,963467,Emmet,Bougourd,2,Line Cook,Salad/Desserts,4,22.27
+678,806342,Gorden,Kernock,1,Lead Line Cook,All Stations,5,17.91
+679,225198,Anetta,Dibling,3,Lead Line Cook,Grill,9,19.1
+680,660746,Isidora,Thornborrow,2,Prep Cook,Fry/Grill/Sautee,8,20.98
+681,762183,King,Fieldgate,1,Line Cook,Grill,4,24.71
+682,871977,Geordie,MacKibbon,2,Lead Line Cook,Fry/Grill/Sautee,5,17.39
+683,192886,Robinett,Ramble,2,Line Cook,Fry/Sautee,4,12.76
+684,680437,Judd,Sedgwick,2,Lead Line Cook,Fry/Sautee,6,23.54
+685,301573,Joyous,Gittose,2,Prep Cook,Dish,5,17.62
+686,292950,Cari,Kingsnod,2,Line Cook,Food Prep,4,12.14
+687,295678,Lorrayne,Chesson,1,Lead Line Cook,Grill,8,13.29
+688,312330,Travus,Holdforth,2,Prep Cook,Fry/Sautee,6,15.08
+689,155850,Jerrold,Mennell,2,Line Cook,Fry/Sautee,1,17.05
+690,212010,Zared,Chadney,1,Line Cook,Salad/Desserts,7,23.81
+691,916599,Joice,Noad,3,Prep Cook,Fry/Grill/Sautee,8,13.88
+692,464725,Mella,Willmont,1,Prep Cook,Fry/Grill/Sautee,7,17.91
+693,704312,Dianne,Vasyanin,2,Prep Cook,Fry/Grill/Sautee,9,17.88
+694,646751,Dael,Kment,2,Lead Line Cook,Fry/Grill/Sautee,7,18.6
+695,667920,Elisha,Seamark,2,Lead Line Cook,Dish,2,20.72
+696,571013,Mozes,Robken,2,Line Cook,Dish,9,16.56
+697,526211,Hadrian,Antonikov,2,Line Cook,Grill,8,13.92
+698,522612,Heriberto,Worlidge,2,Prep Cook,Salad/Desserts,8,12.02
+699,208054,Tilda,Lawrenson,1,Line Cook,Food Prep,1,14.33
+700,376434,Charisse,Clitsome,3,Line Cook,Fry/Sautee,7,12.49
+701,705421,Ilysa,Jickles,3,Line Cook,Grill/Sautee,6,18.74
+702,523121,Frederick,Whitmore,3,Line Cook,Fry/Sautee,9,14.33
+703,799867,Jo ann,MacDougal,3,Lead Line Cook,All Stations,10,12.24
+704,468281,Larina,Petts,3,Prep Cook,All Stations,2,22.19
+705,327972,Amandy,Axcel,1,Prep Cook,Dish,10,21.17
+706,509681,Lem,Cobbing,3,Line Cook,Grill/Sautee,9,24.49
+707,313383,Alix,Floris,1,Lead Line Cook,Grill,8,19.75
+708,333628,Averell,Purselow,1,Line Cook,Salad/Desserts,6,15.96
+709,708268,Tris,Leads,2,Lead Line Cook,Food Prep,10,12.14
+710,900352,Worden,Sparhawk,3,Lead Line Cook,Dish,2,14.87
+711,916665,Arlie,McNirlan,1,Lead Line Cook,Grill/Sautee,10,19.11
+712,605847,Freeman,Ackeroyd,1,Lead Line Cook,Grill/Sautee,10,18.44
+713,621678,Redford,Lawerence,3,Line Cook,Grill/Sautee,4,16.25
+714,915918,Moira,Cattrell,2,Lead Line Cook,Grill,8,20.7
+715,121988,Myrtie,Capper,2,Line Cook,Grill,6,22.23
+716,459442,Jamal,Alekseicik,3,Lead Line Cook,Grill,7,16.34
+717,926083,August,Cecely,3,Prep Cook,Fry/Sautee,4,12.06
+718,733074,Corrianne,O'Neil,3,Prep Cook,Food Prep,9,15.36
+719,236955,Killie,McClintock,1,Prep Cook,Grill,1,24.99
+720,671581,Vikki,Hame,3,Prep Cook,Food Prep,10,12.01
+721,998066,Nonah,Flucker,3,Line Cook,Dish,8,21.74
+722,828046,Silas,Gillman,1,Lead Line Cook,Fry/Sautee,7,12.05
+723,817003,Eilis,Wilhelmy,2,Lead Line Cook,All Stations,4,12.86
+724,351350,Rodrigo,Lovart,1,Lead Line Cook,Grill/Sautee,2,22.89
+725,680001,Conny,Medwell,2,Lead Line Cook,Salad/Desserts,2,15.75
+726,106210,Alexandra,Goede,2,Prep Cook,All Stations,9,24.23
+727,949907,Bernardina,Maben,2,Lead Line Cook,Fry/Grill/Sautee,5,14.13
+728,647060,Annie,Mickleborough,1,Line Cook,Fry/Sautee,5,24.55
+729,269729,Enrica,Dadge,2,Prep Cook,Food Prep,10,20.46
+730,355556,Sybilla,Durn,2,Prep Cook,Dish,7,23.38
+731,326852,Brina,Cavanaugh,3,Prep Cook,Fry/Sautee,7,14.04
+732,270777,Foss,Elloit,2,Lead Line Cook,Fry/Grill/Sautee,3,12.48
+733,666255,Philly,Liston,2,Line Cook,Dish,6,14.88
+734,501642,Ramona,Merryfield,2,Lead Line Cook,Fry/Sautee,5,19.55
+735,722538,Gilligan,Semmens,2,Prep Cook,Salad/Desserts,9,13.93
+736,321853,Melodee,Siuda,2,Lead Line Cook,Dish,4,12.35
+737,169115,Ingamar,Grichukhin,3,Lead Line Cook,Fry/Grill/Sautee,8,15.14
+738,371776,Brear,Goosey,1,Lead Line Cook,Grill,8,19.92
+739,180609,Ilyssa,Camacke,3,Lead Line Cook,All Stations,5,17.73
+740,373223,Charlie,Cargen,3,Lead Line Cook,Dish,7,15.35
+741,639513,Pearl,Keenor,1,Prep Cook,Food Prep,1,23.41
+742,604531,Leone,Pear,1,Prep Cook,Salad/Desserts,8,23.53
+743,792707,Troy,Hovard,2,Lead Line Cook,Grill,3,21.44
+744,754319,Reynolds,Scrivin,1,Line Cook,Fry/Sautee,8,18.39
+745,668480,Guthrie,Walsh,1,Lead Line Cook,Fry/Sautee,9,15.08
+746,371586,Hazel,D'Enrico,3,Lead Line Cook,Fry/Grill/Sautee,1,19.29
+747,600389,Arabella,Christer,2,Prep Cook,Fry/Grill/Sautee,6,13.14
+748,678758,Carny,De Michetti,1,Line Cook,Grill/Sautee,6,24.9
+749,194014,Corenda,Skoof,1,Prep Cook,Fry/Grill/Sautee,8,13.34
+750,321195,Allys,Cready,3,Prep Cook,Grill/Sautee,7,17.81
+751,645551,Robbert,Eggar,3,Line Cook,Food Prep,5,19.7
+752,340163,Bailie,Reckless,2,Lead Line Cook,Dish,10,16.53
+753,546064,Oralle,Flecknoe,3,Prep Cook,Fry/Grill/Sautee,2,24.98
+754,235445,Zacharie,Cornu,1,Prep Cook,Dish,9,15.23
+755,995245,Price,Woolfitt,3,Prep Cook,Grill,7,20.15
+756,896735,Darci,MacCaig,2,Lead Line Cook,Grill,7,17.62
+757,955079,Ford,Stollenbeck,3,Lead Line Cook,All Stations,5,13.25
+758,672029,Merry,Fundell,2,Line Cook,Grill/Sautee,9,17.02
+759,217676,Allen,Bradder,2,Lead Line Cook,Salad/Desserts,8,21.81
+760,257620,Heidi,Heselwood,2,Line Cook,Salad/Desserts,7,17.51
+761,866383,Ashien,Lynes,1,Lead Line Cook,Grill/Sautee,6,21.53
+762,103126,Bobina,Kremer,2,Prep Cook,Grill,1,16.99
+763,882920,Cammy,Tollet,3,Lead Line Cook,Salad/Desserts,9,22.35
+764,846737,Diarmid,Valentetti,2,Line Cook,Grill,10,20.4
+765,191139,Abagael,Beevis,1,Lead Line Cook,Fry/Sautee,3,20.23
+766,962252,Dirk,Chessill,1,Lead Line Cook,Food Prep,1,17.68
+767,900510,Durward,Murricanes,1,Prep Cook,Dish,3,13.7
+768,327427,Rosmunda,Greenhow,1,Prep Cook,All Stations,5,16.34
+769,235033,Izabel,Limming,2,Prep Cook,Salad/Desserts,1,17.13
+770,971966,Vita,Lowthian,1,Prep Cook,Salad/Desserts,1,22.8
+771,210100,Terese,Essberger,1,Lead Line Cook,Salad/Desserts,5,16.69
+772,341111,Annadiana,Ballintyne,1,Line Cook,Food Prep,8,19.65
+773,662382,Olympe,Draisey,3,Line Cook,Salad/Desserts,6,24.71
+774,923207,Jennie,Jezzard,3,Lead Line Cook,Grill/Sautee,10,13.59
+775,396112,Marlin,Copello,3,Lead Line Cook,All Stations,6,22.35
+776,886699,Simone,Peppard,3,Line Cook,Dish,4,24.3
+777,536181,Willy,Kimberly,2,Prep Cook,All Stations,2,16.05
+778,551471,Jerrine,Messier,1,Lead Line Cook,Food Prep,3,22.18
+779,870029,Brandie,Duxbarry,1,Prep Cook,All Stations,6,12.63
+780,320808,Saundra,Mannering,1,Prep Cook,Grill/Sautee,1,12.34
+781,522859,Easter,Roggerone,2,Line Cook,Grill,5,23.13
+782,481375,Concordia,Quinnet,2,Prep Cook,Dish,3,12.34
+783,603188,Suzanna,Braybrook,3,Line Cook,Grill,3,15.45
+784,662147,Laureen,Yesinov,1,Line Cook,Food Prep,6,15.95
+785,752668,Barbi,Skyrme,2,Prep Cook,Fry/Grill/Sautee,1,16.13
+786,814017,Barnaby,Blackaller,1,Lead Line Cook,Grill,4,18.37
+787,552674,Stace,McKillop,1,Prep Cook,Grill/Sautee,6,15.41
+788,982912,Jasmina,Kreuzer,3,Line Cook,Dish,10,20.71
+789,773108,Dmitri,Hargerie,1,Lead Line Cook,Dish,4,14.91
+790,825164,Nobe,Ponten,2,Line Cook,Fry/Sautee,9,17.06
+791,124653,Branden,Tevelov,1,Line Cook,All Stations,4,23.63
+792,895996,Gram,Barczewski,3,Prep Cook,Dish,8,24.9
+793,557784,Goldi,Galero,3,Line Cook,Fry/Grill/Sautee,2,22.45
+794,433262,Philbert,Soreau,3,Line Cook,All Stations,1,20.24
+795,948186,Homerus,Walesa,2,Prep Cook,All Stations,3,12.23
+796,956524,Ignaz,Schankel,3,Line Cook,Grill/Sautee,9,13.44
+797,110671,Sela,Bendare,1,Prep Cook,Grill/Sautee,2,16.68
+798,584821,Perrine,Carlone,3,Prep Cook,Fry/Sautee,4,21.78
+799,128210,Bertie,Benedettini,1,Prep Cook,Salad/Desserts,6,17.29
+800,653096,Chelsea,Stapleford,1,Line Cook,Fry/Grill/Sautee,10,24.2
+801,601966,Jere,Iredell,2,Lead Line Cook,Food Prep,4,24.95
+802,828196,Stephen,Gentner,1,Lead Line Cook,Fry/Sautee,3,18.22
+803,581828,Wade,Deme,1,Lead Line Cook,All Stations,9,23.17
+804,371125,Jody,Maryin,1,Lead Line Cook,Food Prep,5,24.11
+805,132814,Hannah,Sotham,1,Lead Line Cook,Fry/Sautee,1,21.68
+806,284272,Harland,Profit,3,Lead Line Cook,Grill/Sautee,7,13.11
+807,389083,Jonas,Ruste,3,Prep Cook,Grill,1,15.32
+808,302280,Brynna,Seary,3,Line Cook,Fry/Grill/Sautee,5,21.72
+809,929565,Wernher,Jon,3,Prep Cook,Salad/Desserts,10,23.29
+810,320727,Dorita,MacAllen,3,Line Cook,Salad/Desserts,9,16.25
+811,341666,Collen,Hayton,1,Lead Line Cook,Fry/Grill/Sautee,6,16.02
+812,607732,Zsazsa,Gommowe,1,Lead Line Cook,Grill/Sautee,3,19.9
+813,326509,Ansley,Hatherley,2,Prep Cook,Dish,1,14.06
+814,967554,Sharity,Braid,3,Prep Cook,All Stations,4,14.54
+815,763584,Ricki,Polleye,1,Line Cook,Dish,10,13.47
+816,582815,Trenton,Sjollema,2,Lead Line Cook,Grill/Sautee,4,17.49
+817,281547,Marlene,Kilfeder,3,Line Cook,Salad/Desserts,10,21.89
+818,610651,Staford,Drescher,2,Prep Cook,Grill,10,16.87
+819,684615,Helenelizabeth,MattiCCI,1,Line Cook,All Stations,10,12.44
+820,605929,Layla,Desborough,1,Line Cook,Fry/Sautee,4,22.73
+821,824634,Alic,Swinnard,3,Prep Cook,Dish,3,17.91
+822,388810,Brew,Rabat,3,Prep Cook,Grill/Sautee,5,18.53
+823,523980,Bordy,Nicklinson,2,Line Cook,Grill/Sautee,7,13.99
+824,690714,Delmor,Adamo,1,Line Cook,All Stations,7,15.48
+825,903810,Darin,Screen,3,Line Cook,Salad/Desserts,10,19.47
+826,614305,Miran,Blaschke,3,Prep Cook,Dish,6,12.85
+827,379740,Page,Moralis,1,Line Cook,Grill,3,18.96
+828,743380,Berny,Peterson,1,Lead Line Cook,Grill,9,24.31
+829,737223,Oona,Flowitt,2,Line Cook,Salad/Desserts,4,22.84
+830,670546,Eduardo,Anfusso,1,Lead Line Cook,Salad/Desserts,3,20.56
+831,131336,Abe,Bratchell,2,Prep Cook,All Stations,2,20.19
+832,221947,Dannel,Bellham,1,Line Cook,Grill/Sautee,5,16.9
+833,654644,Kippy,Karpf,2,Line Cook,Food Prep,2,19.45
+834,790099,Averill,Haldenby,2,Prep Cook,Grill/Sautee,3,17.7
+835,203122,Thibaut,Moodie,2,Prep Cook,Fry/Sautee,4,17.19
+836,852265,Kippie,Rolf,2,Line Cook,All Stations,4,24.26
+837,643521,Maura,Klemt,3,Prep Cook,Fry/Grill/Sautee,7,12.65
+838,310485,Gwen,Meysham,1,Lead Line Cook,Salad/Desserts,5,12.84
+839,704818,Bobina,Dutnall,1,Prep Cook,Dish,10,24.99
+840,347761,Dawna,Farnworth,1,Prep Cook,Grill,7,17.02
+841,727633,Venita,Willcocks,3,Lead Line Cook,Fry/Grill/Sautee,4,24.81
+842,393189,Fanya,Bottrill,2,Line Cook,Dish,8,15.27
+843,592272,Minda,Boulder,3,Lead Line Cook,Salad/Desserts,9,16.82
+844,221012,Redford,Hymor,2,Lead Line Cook,Grill,4,21.78
+845,264994,Hedwiga,Kopecka,2,Line Cook,All Stations,7,19.24
+846,865485,Graehme,Pahler,1,Prep Cook,Food Prep,1,21.52
+847,715494,Elmore,Brewett,2,Prep Cook,Fry/Sautee,2,17.73
+848,534779,Valaria,Faier,3,Line Cook,Fry/Sautee,1,18.09
+849,638733,Jude,Vowles,2,Prep Cook,Dish,4,22.98
+850,653301,Tiler,Phillps,1,Lead Line Cook,All Stations,6,21.57
+851,558159,Stephine,Hutchason,1,Prep Cook,Fry/Grill/Sautee,1,20.35
+852,360439,Paule,Ions,2,Prep Cook,Grill/Sautee,8,17.46
+853,796317,Kenton,Repper,1,Line Cook,Salad/Desserts,3,16.83
+854,283562,Buffy,Leathe,3,Lead Line Cook,Grill/Sautee,3,20.42
+855,104564,Vilma,Leadstone,1,Lead Line Cook,Salad/Desserts,9,17.27
+856,510570,Aleen,Maccaddie,2,Prep Cook,All Stations,2,20.56
+857,338620,Riki,Jurick,2,Line Cook,Fry/Sautee,7,12.52
+858,655551,Mikkel,Stredwick,2,Line Cook,Dish,6,21.26
+859,318400,Nannie,Balke,3,Prep Cook,Dish,2,12.56
+860,989937,Vikky,Fettes,1,Lead Line Cook,All Stations,4,20.7
+861,174016,Leola,Ostridge,3,Lead Line Cook,Food Prep,6,19.7
+862,252464,Lottie,Ellam,3,Lead Line Cook,Grill,5,21.73
+863,425669,Brockie,Quade,2,Lead Line Cook,Fry/Grill/Sautee,4,23.72
+864,203875,Helaina,Bryett,3,Prep Cook,Dish,10,14.57
+865,719742,Randee,Coales,2,Prep Cook,Salad/Desserts,9,23.32
+866,623052,Rees,Vassel,1,Lead Line Cook,Salad/Desserts,6,22.72
+867,977794,Nestor,Bromet,3,Prep Cook,Salad/Desserts,10,18.39
+868,768677,Lora,Spanton,1,Line Cook,All Stations,9,21.73
+869,366749,Warren,Shackelton,1,Prep Cook,Grill/Sautee,3,20.62
+870,592425,Daile,Leynagh,3,Lead Line Cook,Food Prep,1,18.2
+871,129952,Gates,Cartmail,2,Prep Cook,Fry/Grill/Sautee,3,17.77
+872,754017,Devin,Bardnam,2,Prep Cook,Grill/Sautee,8,18.32
+873,564627,Mandy,Binstead,2,Prep Cook,All Stations,4,13.61
+874,136581,Sibbie,Valentetti,1,Line Cook,Grill,7,24.2
+875,851916,Rutger,Bedder,3,Prep Cook,Grill,8,21.27
+876,180844,Gillie,Peyton,1,Prep Cook,Salad/Desserts,7,17.62
+877,224284,Kris,Hancell,2,Line Cook,Fry/Grill/Sautee,6,14.06
+878,249413,Tamarah,Vyvyan,3,Lead Line Cook,Dish,6,16.4
+879,999542,Phillida,Scandrett,1,Prep Cook,Food Prep,8,20.92
+880,825377,Eva,Frossell,1,Line Cook,Food Prep,10,24.83
+881,778815,Shepperd,Grebbin,3,Prep Cook,Fry/Sautee,5,16.46
+882,974360,Pearce,Rust,2,Lead Line Cook,Grill/Sautee,9,12.35
+883,550244,Arlena,Laffan,1,Line Cook,Grill/Sautee,2,20.86
+884,195271,Noak,Eyles,3,Lead Line Cook,Grill,8,23.45
+885,813914,Lorettalorna,Shee,2,Prep Cook,Fry/Grill/Sautee,8,23.84
+886,559221,Moore,Clampton,2,Line Cook,Grill/Sautee,5,12.95
+887,372949,Benni,Load,1,Prep Cook,Grill,6,20.43
+888,592198,Rebecca,Dunley,2,Line Cook,Grill,3,20.17
+889,937422,Ainslie,Commin,3,Prep Cook,Food Prep,10,13.42
+890,358279,Genovera,Mcmanaman,3,Line Cook,Fry/Grill/Sautee,5,22.42
+891,691553,Paloma,Heliot,1,Line Cook,Salad/Desserts,1,15.6
+892,260596,Rosanne,Brook,1,Lead Line Cook,Grill,10,19.69
+893,103674,Dicky,Sherreard,1,Prep Cook,Fry/Sautee,9,21.1
+894,476600,Raf,De Cruce,2,Prep Cook,Food Prep,2,21.19
+895,144039,Renaldo,Trays,2,Line Cook,Fry/Grill/Sautee,3,20.37
+896,253293,Atlanta,Bortoluzzi,1,Line Cook,Salad/Desserts,2,24.21
+897,244913,Arabele,Dohmer,2,Prep Cook,Grill/Sautee,7,18.45
+898,277670,Julianne,Von Der Empten,1,Line Cook,Grill/Sautee,5,12.59
+899,376656,Mariska,Mattiazzo,1,Lead Line Cook,Grill,1,23.0
+900,380668,Emery,O'Loughlin,1,Prep Cook,Fry/Sautee,10,17.08
+901,164029,Leon,Inglesent,3,Lead Line Cook,Dish,3,14.93
+902,110171,Rowen,Ricketts,1,Lead Line Cook,Fry/Grill/Sautee,6,21.14
+903,901628,Ailina,Beaves,3,Prep Cook,All Stations,8,14.48
+904,307632,Bartholomeo,Kalinovich,1,Line Cook,Grill,8,16.69
+905,780526,Jaimie,Lithcow,1,Lead Line Cook,Fry/Sautee,7,16.79
+906,783874,Wylie,Vidgeon,1,Line Cook,Grill/Sautee,10,16.27
+907,365970,Muffin,Webburn,3,Lead Line Cook,All Stations,5,16.02
+908,249114,Sonja,Walpole,1,Lead Line Cook,Dish,7,12.51
+909,658227,Cherianne,Wylder,1,Line Cook,Dish,1,12.39
+910,973606,Dario,Habbergham,1,Line Cook,Food Prep,2,18.64
+911,879194,Chrysa,Vogeller,1,Line Cook,All Stations,9,18.47
+912,977046,Wendye,Blakes,1,Line Cook,Fry/Sautee,2,16.36
+913,140538,Drugi,Enrrico,1,Lead Line Cook,Food Prep,1,21.13
+914,372009,Tonya,Wheble,3,Lead Line Cook,Fry/Sautee,8,22.83
+915,406709,Karleen,Sturdey,3,Line Cook,Salad/Desserts,6,23.7
+916,153080,Tiffi,Scobie,2,Prep Cook,Grill,10,16.06
+917,525984,Laurene,Mynott,1,Line Cook,Dish,5,21.28
+918,823153,Shep,Antrim,3,Prep Cook,Salad/Desserts,2,18.5
+919,209850,Cesar,Lemmon,3,Lead Line Cook,Dish,2,16.0
+920,372214,Emily,Brockington,2,Prep Cook,Fry/Grill/Sautee,7,23.19
+921,540542,Charin,Wykey,1,Prep Cook,Grill,7,20.53
+922,400687,Pris,Ormes,3,Prep Cook,Grill/Sautee,10,16.84
+923,579307,Nelie,Griffith,1,Prep Cook,Grill,10,24.67
+924,770740,Olivia,Dray,3,Lead Line Cook,Grill,9,15.79
+925,538692,Petronella,Stagge,2,Lead Line Cook,Food Prep,4,22.67
+926,240137,Troy,Robbs,2,Lead Line Cook,Fry/Sautee,2,24.62
+927,143413,Martina,Paylie,2,Prep Cook,Food Prep,8,15.61
+928,908914,Parke,Cadman,3,Lead Line Cook,Dish,5,18.06
+929,352419,Stefan,Dyster,2,Line Cook,Fry/Grill/Sautee,7,16.49
+930,393390,Burl,Figura,1,Line Cook,Salad/Desserts,8,13.6
+931,734950,Thaddeus,Lie,1,Lead Line Cook,Salad/Desserts,9,14.15
+932,664859,Thaxter,Cubley,1,Lead Line Cook,Fry/Sautee,5,14.15
+933,401046,Maddie,Deamer,2,Prep Cook,Grill/Sautee,5,18.26
+934,972768,Balduin,Van der Velde,1,Line Cook,Dish,6,14.67
+935,179498,Shaine,Kuban,3,Lead Line Cook,All Stations,8,19.68
+936,925327,Candie,Sherrott,1,Lead Line Cook,Salad/Desserts,4,12.74
+937,849899,Risa,Sigg,2,Lead Line Cook,Fry/Grill/Sautee,10,24.07
+938,735073,Arleyne,Froud,2,Prep Cook,Grill/Sautee,9,15.85
+939,784486,Guthry,Whooley,3,Prep Cook,Salad/Desserts,9,18.47
+940,179321,Vin,Ensten,2,Prep Cook,Fry/Grill/Sautee,3,21.44
+941,123036,Jesus,Maylour,3,Lead Line Cook,Grill/Sautee,6,19.01
+942,666773,Stormie,Slegg,1,Lead Line Cook,Grill/Sautee,5,18.97
+943,348326,Sarina,Raun,3,Lead Line Cook,Fry/Grill/Sautee,3,24.14
+944,867466,Ruprecht,Piesold,2,Prep Cook,Fry/Sautee,4,24.51
+945,646926,Harcourt,Andreaccio,1,Line Cook,Food Prep,10,21.34
+946,515142,Cheri,Jackalin,1,Prep Cook,Salad/Desserts,3,20.02
+947,126677,Eduardo,Hodgon,3,Line Cook,Fry/Grill/Sautee,9,13.11
+948,933058,Joya,Yallop,1,Lead Line Cook,Dish,4,21.73
+949,298871,Abeu,O'Luney,1,Line Cook,Fry/Grill/Sautee,1,14.77
+950,923748,Fairfax,Eilhertsen,3,Line Cook,Fry/Sautee,7,24.04
+951,202771,Reinhold,Yezafovich,2,Prep Cook,Grill/Sautee,2,19.74
+952,108181,Henriette,Philliskirk,2,Line Cook,All Stations,10,23.34
+953,886984,Loise,Player,2,Lead Line Cook,All Stations,8,19.8
+954,716906,Lucila,Valance,1,Prep Cook,Grill/Sautee,2,14.29
+955,780011,Gorden,Sayle,3,Prep Cook,All Stations,9,16.67
+956,283168,Bernita,Parradine,2,Lead Line Cook,Grill,10,18.45
+957,755523,Morse,Croutear,3,Lead Line Cook,Fry/Sautee,7,17.32
+958,767696,Donia,Grabban,1,Prep Cook,Fry/Grill/Sautee,3,15.21
+959,361504,Elbert,Harston,1,Line Cook,Food Prep,9,13.55
+960,141515,Sayre,D'Ambrogi,1,Lead Line Cook,All Stations,4,22.84
+961,376235,Ingaborg,Jeves,3,Prep Cook,Fry/Sautee,8,17.19
+962,731631,Jerry,Rossander,2,Lead Line Cook,Fry/Grill/Sautee,7,24.87
+963,121567,Napoleon,Pogosian,1,Lead Line Cook,Dish,5,15.25
+964,831142,Pansie,Gouge,1,Line Cook,Fry/Sautee,9,20.61
+965,456614,Stacia,McCrachen,3,Line Cook,Dish,8,22.47
+966,725698,Ulberto,Swede,2,Lead Line Cook,Fry/Grill/Sautee,10,24.5
+967,436721,Haily,Farrar,2,Line Cook,Fry/Grill/Sautee,6,18.59
+968,563634,Bevon,Murrie,1,Lead Line Cook,Salad/Desserts,3,12.05
+969,512373,Neddy,Tolson,2,Line Cook,Food Prep,1,18.0
+970,367381,Solly,Faustin,2,Prep Cook,Fry/Sautee,4,21.67
+971,251662,Raeann,Beckey,3,Line Cook,Food Prep,3,20.3
+972,568692,Hamel,Legging,1,Lead Line Cook,Salad/Desserts,2,20.51
+973,450150,Faythe,Brett,1,Line Cook,Fry/Sautee,2,18.58
+974,659362,Gardy,Guilleton,2,Lead Line Cook,Fry/Grill/Sautee,2,21.62
+975,624424,Vale,Shitliff,2,Lead Line Cook,Grill/Sautee,8,19.06
+976,406544,Keelia,Ireson,2,Prep Cook,Dish,10,18.3
+977,118007,Morey,Jirka,1,Lead Line Cook,Salad/Desserts,4,19.75
+978,650631,Cynthy,Ferryn,3,Prep Cook,Dish,8,17.13
+979,642217,Roz,Simmins,1,Prep Cook,Fry/Sautee,3,14.55
+980,591972,Nico,Arkle,2,Lead Line Cook,Food Prep,9,12.26
+981,371827,Cedric,Crighton,3,Line Cook,Salad/Desserts,2,21.47
+982,597295,Aurelia,Swede,2,Line Cook,Grill/Sautee,9,19.62
+983,945830,Pietro,Igoe,1,Prep Cook,Grill/Sautee,8,15.86
+984,902676,Grantham,Blount,1,Prep Cook,Fry/Sautee,3,19.33
+985,686975,Rodrigo,McCreath,3,Line Cook,Fry/Sautee,5,12.42
+986,516632,Genevieve,Radage,2,Line Cook,Food Prep,2,22.95
+987,566619,Franciska,Palumbo,3,Prep Cook,Grill,4,24.96
+988,716967,Atalanta,Langworthy,2,Lead Line Cook,Fry/Grill/Sautee,5,22.23
+989,287629,Orelia,Leroy,3,Lead Line Cook,Food Prep,5,15.28
+990,846432,Aubrey,Faley,2,Line Cook,Food Prep,8,17.55
+991,208295,Lorin,Tournie,3,Lead Line Cook,Dish,2,22.83
+992,740248,Alyss,Lindop,3,Line Cook,Grill/Sautee,1,22.47
+993,557430,Wait,Cutford,1,Lead Line Cook,Grill/Sautee,2,16.71
+994,627788,Jolie,Inns,2,Prep Cook,Dish,2,21.56
+995,913597,Penelope,Dayment,1,Line Cook,Grill,10,18.72
+996,464319,Elizabet,Lucien,3,Line Cook,Food Prep,6,12.98
+997,344802,Jasun,Arnould,1,Prep Cook,Food Prep,9,13.41
+998,665321,Briano,Broughton,1,Prep Cook,Dish,5,21.81
+999,951178,Charissa,Kitter,2,Line Cook,All Stations,3,22.34
+1000,223507,Marlo,Linskey,1,Prep Cook,Food Prep,8,15.37
