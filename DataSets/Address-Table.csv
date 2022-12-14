@@ -1,1001 +1,1001 @@
 address_id,street_number,street_name,street_suffix,city,state,zipcode,address_type_id
-407662,11688,Little Fleur,Court,Saint Paul,MN,37570,2
-616628,89,Pennsylvania,Point,San Francisco,CA,41645,2
-724715,640,Killdeer,Parkway,Jamaica,NY,55675,2
-831833,241,Ridgeview,Terrace,Tulsa,OK,47986,3
-809368,0,Waywood,Pass,Houston,TX,81708,1
-633411,2,Morningstar,Street,Tampa,FL,93021,2
-709804,274,Garrison,Court,Madison,WI,41255,1
-779036,642,Gulseth,Parkway,Las Vegas,NV,30769,1
-410322,26,Leroy,Way,Evansville,IN,41084,3
-111442,871,Meadow Valley,Terrace,Las Vegas,NV,59697,1
-592522,86364,Towne,Terrace,Washington,DC,85820,1
-669731,99,Lawn,Alley,Lexington,KY,42182,2
-263808,36,Hoard,Terrace,Saint Paul,MN,39296,2
-813638,0,Ridgeway,Drive,San Francisco,CA,60097,2
-928473,1,Novick,Plaza,San Diego,CA,83646,1
-899017,2,Sheridan,Terrace,Sacramento,CA,52862,2
-163029,602,Cherokee,Way,Jacksonville,FL,75231,3
-726597,3,Buell,Point,Wilkes Barre,PA,49342,3
-956985,93,Lukken,Place,Greenville,SC,37802,3
-861928,76230,Longview,Plaza,Newark,NJ,38805,2
-117671,2,Rieder,Place,Petaluma,CA,34373,3
-212225,1411,Superior,Way,Louisville,KY,91661,2
-954710,86139,Raven,Trail,Washington,DC,58378,1
-447982,1,Lunder,Trail,Hartford,CT,45986,2
-651205,355,Holy Cross,Hill,Huntsville,AL,26562,3
-135690,2965,Susan,Center,Pasadena,CA,65166,3
-750909,6,Buell,Road,Warren,OH,34359,1
-883066,62,Northwestern,Circle,Fort Worth,TX,14502,2
-979272,63,Bashford,Road,Long Beach,CA,21705,1
-404442,4,Charing Cross,Junction,Baton Rouge,LA,25206,1
-436763,9,Raven,Crossing,Saint Cloud,MN,41145,2
-146536,0,Stoughton,Center,Dayton,OH,65793,2
-496740,93,Forster,Terrace,Shawnee Mission,KS,66492,2
-912871,34,Macpherson,Place,Hartford,CT,78331,1
-596197,9069,Muir,Circle,Salem,OR,72115,2
-412485,56155,Shoshone,Hill,Charlottesville,VA,89414,3
-593699,0304,Dwight,Road,Charlotte,NC,75003,1
-868417,7,Blaine,Point,Charleston,SC,35102,2
-588175,44,Namekagon,Court,Sioux City,IA,85963,3
-849188,95,Jenna,Road,Scottsdale,AZ,82410,3
-757027,50,Ohio,Hill,Milwaukee,WI,75123,1
-822171,39710,Annamark,Lane,Sacramento,CA,79249,3
-488441,76,Birchwood,Avenue,Boca Raton,FL,76472,2
-251452,22,4th,Road,Pittsburgh,PA,56797,1
-319325,511,Spohn,Avenue,Louisville,KY,69076,1
-240642,974,Debs,Park,New York City,NY,23840,3
-828010,80,Ridgeway,Hill,Denver,CO,32559,1
-162313,7226,Sunbrook,Junction,West Palm Beach,FL,71107,2
-959700,7033,Sycamore,Center,Augusta,GA,37028,2
-999706,697,Schmedeman,Way,Richmond,VA,77922,3
-563527,1,Quincy,Hill,San Angelo,TX,66991,1
-820640,5973,Eliot,Junction,Austin,TX,99671,3
-678959,316,Hudson,Center,Battle Creek,MI,28032,2
-998881,29961,Sachtjen,Plaza,Lincoln,NE,32448,2
-478822,61422,Golf,Lane,Brooklyn,NY,52342,1
-211891,9,Corben,Park,Trenton,NJ,54814,1
-387468,32,Fremont,Avenue,Austin,TX,59800,2
-146870,82,Stang,Trail,Tyler,TX,78581,2
-711732,095,Thierer,Center,Cincinnati,OH,29910,3
-382502,85916,Heffernan,Junction,Amarillo,TX,80889,3
-626768,2,Lakewood Gardens,Crossing,Washington,DC,93478,1
-487404,12,Fallview,Pass,Cleveland,OH,67941,2
-896685,4949,Anniversary,Street,New York City,NY,88807,2
-672107,85,Bluestem,Center,Boise,ID,90481,1
-343054,28,Bashford,Plaza,Toledo,OH,35510,2
-468014,32300,Toban,Plaza,Portland,OR,79703,3
-561087,3,Hayes,Junction,Sterling,VA,86305,2
-728792,2,Portage,Road,Houston,TX,99383,2
-704734,3,Nova,Parkway,Jacksonville,FL,38716,3
-542118,4,Nobel,Parkway,Colorado Springs,CO,35380,2
-594020,41254,Waywood,Way,Las Vegas,NV,22900,1
-599306,71,Rigney,Place,Dulles,VA,86678,1
-339703,150,Hovde,Center,Houston,TX,61019,2
-813574,96245,Burrows,Drive,Grand Forks,ND,41125,3
-561733,9,Pond,Junction,Rockford,IL,67509,2
-357359,5,Bluestem,Circle,New Haven,CT,22711,3
-525501,6889,Del Mar,Lane,Corona,CA,38515,2
-147438,680,Ruskin,Terrace,Fresno,CA,58059,1
-638174,75,Packers,Hill,Garland,TX,47761,2
-868097,30,Knutson,Road,Wilmington,DE,94247,3
-347720,844,Myrtle,Drive,San Francisco,CA,30803,1
-596856,3859,Packers,Street,Seattle,WA,39283,3
-424976,77368,Burning Wood,Road,Saint Joseph,MO,32633,1
-184295,8,Center,Terrace,Tulsa,OK,39004,3
-756685,81,Shasta,Alley,Tucson,AZ,45023,2
-503345,37,Little Fleur,Way,Houston,TX,82600,2
-690007,800,La Follette,Junction,New York City,NY,98894,1
-599973,77956,Ryan,Way,Shreveport,LA,20513,2
-744979,8115,Sunbrook,Terrace,Saint Paul,MN,24522,2
-451757,80,Darwin,Terrace,Jackson,MS,83910,3
-997411,30919,Arrowood,Plaza,New Haven,CT,78896,3
-906504,01,Farmco,Circle,Orange,CA,72018,2
-430684,4686,Hoard,Circle,Minneapolis,MN,78821,2
-352181,9,Little Fleur,Trail,Rochester,NY,75674,2
-889430,6,Carey,Street,Detroit,MI,78895,2
-149843,4003,Carberry,Place,Fresno,CA,50890,2
-839234,4077,Scoville,Plaza,Charleston,WV,70063,3
-151100,78369,Kenwood,Center,Ocala,FL,47438,1
-749385,53,Pleasure,Center,Los Angeles,CA,39479,1
-216287,82884,Fairview,Plaza,Washington,DC,40544,2
-839694,6,Bonner,Crossing,Rockford,IL,42771,3
-134943,5,Clemons,Avenue,Paterson,NJ,47202,3
-684071,9,Express,Parkway,Houston,TX,27705,1
-755409,86600,Sunfield,Alley,Akron,OH,70121,1
-524350,6222,Badeau,Drive,Montgomery,AL,11928,1
-812106,692,Springview,Street,Seattle,WA,23546,1
-803068,7,Homewood,Center,Erie,PA,13804,1
-806945,40222,Ilene,Terrace,New Orleans,LA,26967,3
-738888,368,Homewood,Court,Monticello,MN,92201,2
-659382,6,Grasskamp,Trail,Las Vegas,NV,25589,3
-849314,86,Mariners Cove,Way,Reno,NV,25377,1
-105047,46805,Heath,Junction,Rochester,NY,31848,3
-499723,1742,Hintze,Junction,Oakland,CA,72149,2
-472982,7,Emmet,Drive,Santa Monica,CA,11489,3
-989176,8,Fulton,Junction,Dayton,OH,19263,2
-589497,30,Muir,Junction,Washington,DC,49111,1
-114211,333,Holy Cross,Place,Washington,DC,60436,3
-267709,95530,Utah,Hill,Lansing,MI,73056,1
-382540,864,Granby,Hill,Lancaster,PA,16074,3
-310116,758,Springs,Circle,Charleston,WV,99315,1
-747052,435,Swallow,Terrace,Fayetteville,NC,29831,2
-158990,8,Manufacturers,Terrace,San Luis Obispo,CA,64619,1
-400746,030,Kim,Avenue,Los Angeles,CA,55619,3
-384732,744,American,Court,Toledo,OH,14916,2
-652170,709,Meadow Ridge,Junction,Charlotte,NC,63177,1
-642196,1,Weeping Birch,Parkway,Trenton,NJ,84334,3
-572252,20059,Golf,Hill,Minneapolis,MN,58001,1
-105946,2508,Superior,Terrace,Washington,DC,85081,2
-691806,9719,Clemons,Pass,Conroe,TX,17520,2
-362543,284,Dahle,Way,Portsmouth,VA,19332,1
-480103,07308,Division,Alley,Madison,WI,71525,3
-767294,223,Grim,Center,Suffolk,VA,65508,1
-470978,2632,Gerald,Road,Worcester,MA,11288,2
-952134,0017,Calypso,Crossing,Jacksonville,FL,43607,2
-273624,9,Montana,Hill,Denver,CO,20756,1
-398518,432,Crownhardt,Drive,Des Moines,IA,78299,1
-104927,22586,Duke,Pass,Indianapolis,IN,77139,1
-274792,8407,Transport,Road,Jefferson City,MO,88881,3
-993473,3101,Lyons,Terrace,Charlotte,NC,31439,3
-893967,17,Kim,Junction,New Orleans,LA,46341,3
-211280,39058,Bowman,Park,Milwaukee,WI,39718,2
-213528,605,Shoshone,Point,Denver,CO,92059,2
-561171,86726,New Castle,Point,Baton Rouge,LA,96810,1
-746681,1,Susan,Court,Spokane,WA,31744,3
-487426,2621,Waubesa,Way,Saint Louis,MO,57435,1
-406334,77,Graedel,Hill,Philadelphia,PA,47618,1
-752671,1,Del Mar,Place,Denver,CO,40847,1
-925317,05,Mallory,Drive,San Antonio,TX,57620,1
-595314,4,Jay,Trail,Omaha,NE,88691,2
-507254,2,American Ash,Road,Philadelphia,PA,71348,2
-844128,0369,Barnett,Alley,Salt Lake City,UT,39834,1
-693895,96843,Caliangt,Avenue,Saint Louis,MO,96933,2
-205951,03,Prairieview,Alley,Norman,OK,78109,3
-885353,57,Comanche,Hill,Lincoln,NE,35556,1
-397858,102,Mifflin,Center,Santa Rosa,CA,71786,2
-326967,67350,John Wall,Pass,West Palm Beach,FL,51595,2
-518428,840,Monument,Alley,Hicksville,NY,96912,3
-816117,98759,Marcy,Trail,Petaluma,CA,98015,1
-687230,172,Sauthoff,Parkway,Lincoln,NE,96510,3
-803081,2,Dakota,Court,Fresno,CA,14774,2
-250272,58760,Huxley,Park,Raleigh,NC,44945,2
-454474,6,Arizona,Trail,New York City,NY,87454,3
-968611,6,Larry,Hill,Madison,WI,88992,3
-128711,56871,Haas,Trail,Pittsburgh,PA,79544,2
-956607,16844,Prairieview,Trail,Murfreesboro,TN,35076,2
-917864,33,Monterey,Junction,San Jose,CA,99201,3
-589466,34,Blackbird,Point,Fresno,CA,41763,2
-665158,3,Shelley,Park,Lancaster,CA,20633,2
-810312,9,Mayfield,Parkway,Houston,TX,13652,2
-409989,5,Debs,Plaza,Washington,DC,71969,2
-858303,6,Pond,Hill,Jackson,MS,90082,2
-874017,81,Veith,Place,Fresno,CA,51871,1
-142985,69647,Carpenter,Road,Saint Paul,MN,51542,3
-875936,871,Toban,Street,Brooklyn,NY,62437,3
-554483,90252,Gina,Place,Marietta,GA,85579,1
-106329,31542,Dovetail,Center,San Luis Obispo,CA,62106,1
-640397,266,Hagan,Park,Washington,DC,11218,1
-410662,93,Declaration,Court,Springfield,MO,34168,2
-698251,4692,Everett,Way,Tulsa,OK,93926,1
-660451,79342,Helena,Terrace,Schenectady,NY,39893,1
-382764,755,Carpenter,Junction,Louisville,KY,18301,3
-759974,253,Rockefeller,Park,Lawrenceville,GA,22211,3
-369118,503,Schlimgen,Parkway,Orlando,FL,97120,1
-528002,2,Gulseth,Place,Springfield,IL,94997,2
-664447,7,Valley Edge,Plaza,New York City,NY,55379,2
-781293,91,Ronald Regan,Crossing,Lubbock,TX,16803,3
-482123,3,Little Fleur,Place,Fresno,CA,34139,2
-751165,2,Loftsgordon,Crossing,Nashville,TN,83155,2
-553838,4619,Debra,Circle,Colorado Springs,CO,82826,1
-732878,9,Hagan,Pass,Charleston,SC,50267,1
-383756,1,Gateway,Place,Sacramento,CA,57107,2
-340960,209,Clemons,Street,Columbus,GA,91619,2
-622266,557,West,Parkway,Stamford,CT,30119,1
-848169,6726,Straubel,Point,Clearwater,FL,78973,3
-134764,7,Buena Vista,Terrace,Roanoke,VA,30698,3
-883016,3,Ilene,Terrace,Orlando,FL,58875,1
-622685,99,Tomscot,Road,San Diego,CA,17316,1
-716922,7,Eagan,Point,Virginia Beach,VA,63201,2
-464341,22913,Linden,Trail,Salt Lake City,UT,64798,1
-178579,6432,Oxford,Street,Nashville,TN,62406,2
-178935,47,Caliangt,Court,Saint Louis,MO,34280,3
-264851,290,Hoepker,Plaza,Lincoln,NE,31084,2
-831861,812,Stang,Center,Atlanta,GA,81641,3
-929366,7288,Hooker,Street,El Paso,TX,27421,1
-673447,98960,Ryan,Street,San Jose,CA,80618,1
-554876,4025,Wayridge,Drive,Rockville,MD,45612,2
-829086,0,Oak,Plaza,Philadelphia,PA,22416,1
-552587,41612,Hermina,Parkway,Wichita,KS,54765,3
-244817,4179,Rusk,Terrace,El Paso,TX,94142,2
-399893,67,Lillian,Parkway,Akron,OH,23028,1
-268048,57,Burning Wood,Trail,Salt Lake City,UT,30600,1
-842931,329,Randy,Plaza,Amarillo,TX,51245,2
-694334,35,Carioca,Pass,Provo,UT,94089,3
-516939,4,Luster,Circle,Indianapolis,IN,43809,2
-411594,11913,Wayridge,Hill,Marietta,GA,83658,2
-130917,61229,Springview,Pass,Minneapolis,MN,50793,3
-841494,62180,Dixon,Terrace,Riverside,CA,60871,3
-742943,940,Lillian,Center,Muncie,IN,75965,1
-630842,725,Lindbergh,Circle,Birmingham,AL,51342,1
-663301,454,Del Sol,Center,Littleton,CO,24767,2
-753320,9,Mariners Cove,Crossing,Fort Smith,AR,75686,2
-783365,557,Elmside,Point,Washington,DC,47464,1
-168777,54928,Schmedeman,Parkway,Falls Church,VA,20889,1
-842169,2284,American Ash,Street,Fresno,CA,72699,2
-481117,07,Green,Circle,Murfreesboro,TN,39702,1
-863156,8128,East,Avenue,Syracuse,NY,30615,1
-553771,84,Shopko,Road,Bethlehem,PA,13201,3
-559846,9,Rusk,Trail,Crawfordsville,IN,36954,3
-343527,159,Melby,Road,Fayetteville,NC,86924,3
-915352,74757,Lawn,Point,Houston,TX,92073,1
-958871,719,Evergreen,Point,Springfield,OH,71755,3
-188844,90719,Graceland,Road,Houston,TX,62439,3
-894476,8,Summit,Parkway,Washington,DC,52326,3
-496747,54,Northland,Center,Lexington,KY,75160,3
-111379,641,Lukken,Alley,New York City,NY,88473,3
-774161,80248,5th,Junction,Saint Joseph,MO,73437,2
-144415,7,Bultman,Avenue,Colorado Springs,CO,55687,2
-226210,716,Ludington,Avenue,Springfield,MA,46497,1
-191492,00,Atwood,Junction,Jersey City,NJ,17071,2
-857309,1,Dovetail,Alley,Des Moines,IA,58486,1
-570964,0527,Londonderry,Alley,Shreveport,LA,33151,3
-361449,4140,Logan,Terrace,Dallas,TX,24688,3
-437596,204,Oriole,Lane,Fresno,CA,61781,2
-492881,87,Swallow,Avenue,Kansas City,KS,54440,2
-825715,1306,Clyde Gallagher,Pass,Pueblo,CO,33840,3
-127948,57179,Annamark,Center,Fort Lauderdale,FL,24499,1
-668416,8671,Merchant,Circle,Houston,TX,81276,2
-865190,52,Dapin,Drive,Washington,DC,95137,1
-421249,7776,Lakewood,Alley,Knoxville,TN,46600,1
-265676,12897,Steensland,Park,Kingsport,TN,45354,2
-458990,1,Welch,Court,Buffalo,NY,11167,1
-660511,3557,Southridge,Park,Omaha,NE,16899,1
-665006,6,Kim,Park,Richmond,VA,76126,3
-911415,50,Starling,Lane,Kansas City,MO,85838,1
-676984,30537,Kings,Street,West Palm Beach,FL,58640,2
-321347,4031,Longview,Pass,Philadelphia,PA,33161,3
-108203,2013,Starling,Center,Columbus,OH,46007,2
-217153,068,Vidon,Crossing,Orlando,FL,54521,3
-576773,05712,Sutherland,Circle,Pittsburgh,PA,22372,3
-280517,5,Talmadge,Road,El Paso,TX,87448,2
-163395,9,Division,Lane,Little Rock,AR,71852,3
-794144,2755,Montana,Park,Dayton,OH,29058,3
-524157,0,Bartelt,Park,New York City,NY,36562,3
-925134,6284,Ruskin,Junction,Portland,OR,15114,3
-867004,47777,Alpine,Center,Spartanburg,SC,29483,1
-503521,9612,Farmco,Alley,Dayton,OH,57992,2
-490918,205,Brentwood,Terrace,Huntsville,AL,33807,3
-257981,44,Fairfield,Point,Akron,OH,30808,1
-292678,12,Lerdahl,Park,Raleigh,NC,26164,1
-950598,6539,Oakridge,Way,Fort Worth,TX,91173,2
-897434,7,Fairview,Circle,Warren,OH,93210,1
-177230,58,Maple,Hill,Springfield,MA,97440,1
-311683,8132,Sheridan,Way,Austin,TX,75340,3
-656076,61336,Sloan,Way,Austin,TX,43015,3
-219163,601,Lakeland,Avenue,Portland,OR,49255,2
-297777,7303,Vidon,Hill,Portland,OR,40150,1
-133595,23394,Upham,Park,Columbia,SC,46257,2
-562647,02889,Heath,Terrace,Honolulu,HI,58820,3
-426163,86603,Harper,Parkway,Van Nuys,CA,86239,1
-746959,87845,Sachtjen,Center,Louisville,KY,56414,1
-740917,4573,Macpherson,Way,Flint,MI,27197,3
-906985,1724,Randy,Circle,New Orleans,LA,55112,3
-514881,2054,Northfield,Terrace,Nashville,TN,95703,1
-207465,1944,Kedzie,Center,New York City,NY,98947,1
-354981,2568,Marquette,Hill,Maple Plain,MN,64966,2
-230187,1,Hintze,Alley,Van Nuys,CA,65666,1
-712725,3397,Morning,Road,Kalamazoo,MI,67798,3
-994843,0,Pennsylvania,Trail,Dayton,OH,78979,3
-911164,97,Continental,Hill,Topeka,KS,23529,3
-723193,9,Dawn,Trail,Tulsa,OK,89646,3
-836841,6,International,Center,San Diego,CA,55349,1
-658389,9,Independence,Park,Omaha,NE,48285,1
-555709,75880,Westend,Terrace,Evansville,IN,82791,1
-138805,031,Kropf,Pass,Tampa,FL,95556,3
-208055,23471,Prairieview,Circle,Fort Wayne,IN,27204,2
-820722,2,Muir,Point,Reno,NV,80771,2
-750247,1050,Fremont,Lane,Milwaukee,WI,82604,2
-274766,3500,Pleasure,Drive,Saint Louis,MO,72631,2
-734728,13,Summerview,Plaza,Fresno,CA,95109,2
-441610,76441,Sage,Way,Sacramento,CA,14891,1
-101299,44,Packers,Center,Fort Worth,TX,46395,2
-573855,2968,Fieldstone,Terrace,Herndon,VA,33185,1
-503499,585,Pearson,Junction,Saint Cloud,MN,17959,1
-769695,18,Harbort,Hill,Boston,MA,63509,1
-283114,72,Anhalt,Way,Charleston,WV,88519,3
-307866,6,Carberry,Circle,Topeka,KS,35480,1
-861192,79,Stephen,Junction,Toledo,OH,85352,2
-934226,542,Weeping Birch,Place,Camden,NJ,33574,1
-610625,46308,Kedzie,Drive,Fairfax,VA,27534,3
-550460,997,Birchwood,Road,Arlington,VA,39227,1
-503651,71530,Anhalt,Park,San Francisco,CA,69128,1
-102278,8,Oakridge,Point,Syracuse,NY,79838,3
-973881,4426,Manitowish,Way,Fort Lauderdale,FL,75864,1
-357535,1136,American,Junction,Laredo,TX,64974,2
-811518,2526,Sauthoff,Hill,Memphis,TN,38481,1
-332422,86524,Doe Crossing,Pass,New Orleans,LA,82702,2
-206376,16,Mccormick,Center,Anniston,AL,77298,2
-761744,265,Dayton,Drive,Herndon,VA,14978,1
-430649,08623,Rieder,Hill,New York City,NY,48126,1
-705222,31,Walton,Parkway,Washington,DC,41218,2
-742199,12,Oak Valley,Alley,Gulfport,MS,18728,2
-800183,13,Weeping Birch,Junction,Decatur,GA,89963,1
-550284,37,Raven,Plaza,Hartford,CT,71360,1
-278380,6360,Butternut,Pass,Savannah,GA,80430,1
-639076,79627,Red Cloud,Place,Chicago,IL,65381,1
-594213,6,Buhler,Park,Ridgely,MD,36473,1
-820070,10778,Grover,Street,Harrisburg,PA,23247,2
-971067,56,Sachtjen,Street,Miami,FL,84069,1
-940024,72,Declaration,Alley,Fresno,CA,21769,2
-592571,7645,Johnson,Circle,Salt Lake City,UT,93128,2
-279077,7956,Larry,Street,Nashville,TN,93063,3
-716334,1337,Oxford,Terrace,Saint Louis,MO,57196,2
-283931,0075,Northview,Circle,Boston,MA,39669,3
-786098,372,Cordelia,Avenue,Missoula,MT,34895,1
-120081,5498,Declaration,Junction,Dallas,TX,12372,3
-419252,997,Maple,Way,Port Charlotte,FL,59709,1
-946940,0,Basil,Parkway,Tuscaloosa,AL,23027,2
-834946,063,Mariners Cove,Plaza,Houston,TX,31353,3
-351312,863,Meadow Vale,Parkway,Erie,PA,12611,2
-879303,88,Duke,Pass,Saint Petersburg,FL,92755,1
-243454,11356,Transport,Hill,Denver,CO,81199,3
-557669,612,Fairfield,Place,Conroe,TX,90636,3
-430482,79,Independence,Point,Dallas,TX,46290,1
-702712,54,Monterey,Street,Miami,FL,14548,3
-116100,6732,La Follette,Road,Modesto,CA,44947,1
-426949,7,Commercial,Road,Youngstown,OH,72391,3
-301096,74218,Mitchell,Parkway,New York City,NY,53226,2
-329829,6732,Jenna,Park,Lakeland,FL,67935,1
-476751,3,Lakewood,Avenue,Chicago,IL,65373,3
-740968,4,Erie,Way,Garden Grove,CA,23794,1
-631394,0399,Grim,Circle,Houston,TX,63141,3
-104700,75,Anthes,Circle,El Paso,TX,11839,1
-374829,96,Sage,Junction,Honolulu,HI,98105,1
-793851,672,Daystar,Alley,Pinellas Park,FL,26717,2
-903717,0464,Stang,Parkway,Boston,MA,93338,1
-342701,71,Spenser,Lane,Beaumont,TX,76422,2
-105578,38562,Twin Pines,Place,Cleveland,OH,78554,2
-715278,095,Heffernan,Way,Harrisburg,PA,43448,1
-685560,6284,Moland,Junction,Sparks,NV,60018,3
-777964,1693,Banding,Alley,Spokane,WA,97289,2
-328808,18508,Browning,Circle,West Hartford,CT,70111,3
-956117,70822,Mesta,Court,Bakersfield,CA,76011,1
-715557,5441,Waywood,Alley,Roanoke,VA,58717,3
-579914,46468,Grim,Crossing,Macon,GA,71208,2
-839709,2494,Cardinal,Street,Orange,CA,37774,3
-191511,533,Vidon,Place,Louisville,KY,70116,3
-976135,50,Pine View,Road,Amarillo,TX,35046,2
-174606,737,Autumn Leaf,Court,Temple,TX,89215,1
-449447,34,Upham,Point,Garland,TX,12046,2
-398308,1,Gerald,Crossing,Montgomery,AL,14899,2
-328592,32,Summer Ridge,Lane,Anchorage,AK,87382,1
-771793,16,Northview,Point,Springfield,MA,82151,3
-834674,570,Weeping Birch,Drive,Largo,FL,96567,2
-587939,417,Ryan,Trail,Clearwater,FL,16584,2
-958236,159,Pierstorff,Junction,Richmond,VA,14684,3
-626545,5,Spaight,Pass,Nashville,TN,86434,1
-656288,9,Gateway,Park,San Diego,CA,26080,1
-397894,202,Southridge,Crossing,Indianapolis,IN,13841,3
-817378,05507,Graedel,Court,Fairfield,CT,79980,1
-908240,9221,Northridge,Hill,San Antonio,TX,84628,1
-911327,7286,Anzinger,Place,Oklahoma City,OK,81684,2
-237089,2,Daystar,Center,Washington,DC,23614,2
-142969,83,Reindahl,Lane,Fort Smith,AR,15483,2
-899573,917,International,Road,Fort Worth,TX,16154,2
-231712,02503,Northridge,Way,Springfield,MA,26222,3
-475930,155,Jenifer,Plaza,Lynchburg,VA,87383,3
-530655,0400,Golf View,Lane,Atlanta,GA,60490,3
-190897,0,Memorial,Street,Birmingham,AL,14613,3
-735236,564,American,Trail,Saint Louis,MO,84624,2
-238593,343,Killdeer,Parkway,Portland,OR,13612,1
-739923,0367,Pleasure,Way,El Paso,TX,84431,1
-198461,2254,Sachs,Court,Yonkers,NY,22551,2
-971461,07,Derek,Park,Kansas City,MO,63848,1
-597729,942,Upham,Way,Salt Lake City,UT,19881,2
-312571,41483,Fuller,Alley,Billings,MT,40074,1
-694376,649,Porter,Crossing,White Plains,NY,94754,3
-363955,95,Erie,Lane,Austin,TX,20265,3
-852318,441,Dapin,Trail,Frankfort,KY,11171,2
-894400,702,Ridgeview,Place,Metairie,LA,91406,2
-273126,9,Meadow Valley,Terrace,Sterling,VA,49851,3
-361876,3,Larry,Avenue,Tacoma,WA,26432,3
-898272,8,Oneill,Street,Greensboro,NC,90706,1
-992295,73390,Superior,Pass,Berkeley,CA,46482,2
-133335,1759,Gulseth,Plaza,Houston,TX,16298,2
-856149,9,Dunning,Trail,Boston,MA,41035,2
-950585,0,Green,Court,Huntington,WV,22448,3
-949214,8,Holy Cross,Court,Los Angeles,CA,27417,2
-891067,93,Carberry,Hill,Lincoln,NE,30796,3
-781568,69,Morning,Road,New Orleans,LA,54999,2
-365606,98637,Buena Vista,Place,San Bernardino,CA,67616,2
-222790,72,Butterfield,Parkway,Salt Lake City,UT,87073,3
-761795,057,Dixon,Park,Topeka,KS,90691,3
-289473,38904,Bayside,Hill,Naples,FL,78344,2
-970190,90180,Center,Lane,Ocala,FL,59257,1
-607690,8359,Everett,Avenue,Tuscaloosa,AL,21090,3
-331557,48,Fieldstone,Crossing,Wilkes Barre,PA,11867,1
-130110,74,Stephen,Hill,Amarillo,TX,48641,3
-125526,61,Fair Oaks,Parkway,Oklahoma City,OK,50361,3
-726092,204,Old Shore,Court,Glendale,AZ,30641,3
-865258,7,Truax,Avenue,Fort Worth,TX,46485,3
-464513,801,Dennis,Plaza,Winston Salem,NC,54381,3
-560821,27,Del Sol,Plaza,Grand Rapids,MI,74389,2
-252634,199,Elgar,Circle,Houston,TX,14620,1
-864121,963,North,Crossing,Tampa,FL,13865,3
-992927,520,Prairie Rose,Junction,Akron,OH,80700,3
-404302,9,Cambridge,Road,Washington,DC,94475,1
-285871,0,Marcy,Pass,Springfield,IL,64093,2
-166737,89,Butternut,Place,Grand Rapids,MI,37257,2
-670141,2,Lerdahl,Alley,Richmond,VA,24393,2
-121491,47404,Arrowood,Street,Dallas,TX,31765,3
-182569,19847,Park Meadow,Pass,Missoula,MT,87963,3
-503504,07,South,Circle,Jacksonville,FL,20432,2
-157645,3,Hanson,Circle,Houston,TX,45098,1
-954826,5,Eastwood,Drive,Baton Rouge,LA,65795,3
-419676,7,Loomis,Pass,Durham,NC,20404,2
-847915,499,Troy,Drive,Denver,CO,86603,2
-867553,53,Village,Center,Asheville,NC,42314,2
-697596,67,Schiller,Street,Dallas,TX,99942,1
-820669,970,Grasskamp,Place,Louisville,KY,58303,2
-762347,4,Scott,Point,Charleston,WV,53638,3
-246204,4796,Southridge,Place,Shawnee Mission,KS,88097,2
-962735,672,Pawling,Crossing,Grand Rapids,MI,69751,3
-549563,2,Kingsford,Lane,Atlanta,GA,27978,1
-266422,1270,Red Cloud,Park,Columbus,OH,64866,3
-651173,1988,Hauk,Junction,Wichita,KS,92836,2
-595587,226,Riverside,Lane,Nashville,TN,64119,2
-457380,461,Boyd,Center,Great Neck,NY,85222,3
-636175,042,Northfield,Crossing,Atlanta,GA,30973,3
-886778,03262,Claremont,Trail,Orlando,FL,43712,2
-865290,9,Sommers,Terrace,Lakeland,FL,89672,2
-939140,37,Service,Street,Denver,CO,52057,1
-847446,32640,Gale,Terrace,Mesa,AZ,52262,2
-892758,957,Amoth,Alley,Los Angeles,CA,88055,1
-480352,25,Dayton,Court,Tulsa,OK,80423,1
-652757,858,Brickson Park,Parkway,Huntington,WV,60216,1
-180971,32,Arizona,Lane,Las Cruces,NM,41088,3
-841838,8,Almo,Junction,Evansville,IN,85890,3
-875486,66,Mayer,Road,Boise,ID,13644,1
-143609,200,Buhler,Court,Alexandria,VA,55782,3
-618911,1,Moose,Terrace,Corpus Christi,TX,15448,3
-923567,94949,1st,Lane,Orlando,FL,63926,2
-759657,32,Pleasure,Parkway,Seattle,WA,93365,3
-821650,9,Saint Paul,Place,Montgomery,AL,40228,1
-356669,874,Mendota,Road,Tampa,FL,92586,3
-922860,7938,Straubel,Plaza,Boston,MA,40931,2
-673704,1,Carberry,Trail,Hampton,VA,39740,2
-605530,5,Morning,Alley,Des Moines,IA,71311,1
-484194,42,Kingsford,Road,Mobile,AL,76195,3
-844006,761,Merrick,Avenue,Saint Louis,MO,79382,2
-618221,3826,New Castle,Circle,Charlotte,NC,74238,1
-280118,2421,Sage,Crossing,Oklahoma City,OK,34097,2
-319634,2,Sherman,Point,Tucson,AZ,91011,1
-202447,8439,Carpenter,Road,Saint Paul,MN,39381,3
-273467,6,Bowman,Point,Gainesville,GA,83557,3
-683188,8136,Merry,Crossing,Beaverton,OR,46406,3
-683008,78876,Loftsgordon,Road,Lancaster,PA,20879,1
-180388,4170,Vahlen,Trail,Birmingham,AL,60376,2
-976158,89925,Kim,Park,Montgomery,AL,31309,2
-550703,15491,Delladonna,Pass,Houston,TX,16181,3
-617080,8,Center,Road,Austin,TX,66735,1
-308461,1520,Messerschmidt,Alley,Spokane,WA,39531,1
-880717,9,Summer Ridge,Circle,Fort Wayne,IN,79798,2
-622548,8,Mosinee,Trail,San Antonio,TX,80658,3
-691698,7028,Dwight,Park,Northridge,CA,92940,3
-260990,8,Starling,Lane,Albuquerque,NM,56810,2
-214595,20608,Mayfield,Lane,Kansas City,MO,31747,3
-302703,588,Kedzie,Terrace,Atlanta,GA,74933,1
-499111,58,Manitowish,Lane,Scranton,PA,56044,1
-704696,707,Lien,Alley,Fort Pierce,FL,47298,3
-613337,4,Kenwood,Terrace,Hartford,CT,33983,2
-722690,4,Fair Oaks,Parkway,Jacksonville,FL,26231,2
-271184,7,American,Avenue,El Paso,TX,71037,1
-168724,98,Burning Wood,Plaza,Bismarck,ND,98898,2
-624991,0760,Waxwing,Lane,Alexandria,VA,53106,3
-210847,717,Mayer,Center,Newark,DE,68776,2
-940913,241,Canary,Avenue,Moreno Valley,CA,71555,1
-239419,91820,Crowley,Terrace,Washington,DC,80919,2
-228627,63,North,Junction,Cincinnati,OH,20714,2
-827641,61677,Porter,Junction,Beaverton,OR,90034,1
-752713,2784,Burrows,Crossing,Norfolk,VA,94013,2
-743864,601,Lukken,Court,Arlington,TX,53334,3
-124576,085,Red Cloud,Alley,Albuquerque,NM,60837,1
-945172,8715,Bobwhite,Trail,Sioux Falls,SD,74086,2
-203316,7,Brickson Park,Drive,New York City,NY,98901,1
-895318,2,Mcguire,Point,Sioux City,IA,36478,1
-237255,6,Artisan,Lane,El Paso,TX,68381,2
-896781,42316,Buena Vista,Point,Evansville,IN,59410,1
-195116,74869,Sommers,Center,Birmingham,AL,62020,2
-764656,17033,Comanche,Road,Kansas City,MO,55633,2
-836029,41844,Cottonwood,Circle,Phoenix,AZ,98853,3
-459490,6,Cambridge,Circle,Reading,PA,94893,1
-778358,8,Kennedy,Drive,Kansas City,KS,80567,1
-670515,94,Larry,Point,Carol Stream,IL,21024,1
-654074,8,Pleasure,Road,El Paso,TX,37190,3
-471953,84,Quincy,Place,Duluth,MN,97108,1
-726316,7,Burrows,Parkway,El Paso,TX,24377,1
-376154,69912,Sheridan,Center,Pasadena,CA,26527,2
-504651,4,Birchwood,Court,Jacksonville,FL,15854,3
-802438,4,Cordelia,Lane,Hampton,VA,92990,1
-175807,4,Pennsylvania,Road,Gainesville,FL,69163,1
-572712,424,Sommers,Drive,White Plains,NY,60203,1
-745011,778,Algoma,Lane,Chattanooga,TN,60020,2
-822123,06435,3rd,Circle,Huntington Beach,CA,74922,1
-729577,88917,Myrtle,Plaza,Colorado Springs,CO,93063,1
-921874,1381,Melody,Alley,Washington,DC,28638,3
-850689,0,Waxwing,Pass,Saginaw,MI,17994,2
-575250,8229,Michigan,Court,Los Angeles,CA,73691,3
-879727,146,Cardinal,Road,Cincinnati,OH,32528,3
-303111,65,Service,Terrace,Hampton,VA,79741,1
-502505,9,Farragut,Crossing,Phoenix,AZ,29613,2
-260789,5399,Garrison,Court,Raleigh,NC,75712,2
-846284,4825,Killdeer,Avenue,Columbia,SC,84818,2
-270192,6,Hallows,Alley,Philadelphia,PA,80625,1
-569304,7605,Welch,Road,Orlando,FL,67299,3
-451299,3626,Mendota,Drive,Harrisburg,PA,44360,2
-599422,2959,Springs,Alley,Denver,CO,35736,2
-532596,07759,Menomonie,Road,Omaha,NE,11903,1
-289479,6735,Mcbride,Hill,Reston,VA,97168,1
-883198,89957,Victoria,Street,New York City,NY,39065,2
-282367,456,Dakota,Plaza,Reno,NV,12891,1
-119399,920,Truax,Center,Greensboro,NC,45170,2
-893499,0,Crowley,Way,Washington,DC,17523,3
-996835,2139,Northwestern,Lane,Springfield,MO,18879,2
-722268,0,Straubel,Way,Fresno,CA,38777,1
-906228,58,Crescent Oaks,Circle,Greensboro,NC,46884,1
-895054,60,Graedel,Point,Newport News,VA,83808,1
-981528,3545,Surrey,Lane,Dallas,TX,80827,3
-561850,71680,Monterey,Place,Washington,DC,26786,1
-895778,4379,Buhler,Point,Richmond,VA,12831,2
-297391,52,Melvin,Drive,Boulder,CO,56731,1
-802156,33559,Barnett,Crossing,Huntsville,AL,14101,3
-671596,88,Lyons,Avenue,Norfolk,VA,49197,2
-539455,36,Grayhawk,Trail,Atlanta,GA,62338,3
-911204,1192,Blue Bill Park,Parkway,Cheyenne,WY,37221,3
-683386,0981,Hoepker,Hill,Spring,TX,65073,1
-537453,43,Sutteridge,Place,Irvine,CA,51762,2
-199523,330,Tennessee,Crossing,Salt Lake City,UT,30984,3
-711338,015,Carioca,Hill,Modesto,CA,35656,2
-301550,60185,Pearson,Street,Baltimore,MD,23326,3
-105166,4,Autumn Leaf,Alley,Baltimore,MD,44765,1
-408766,3807,Springs,Avenue,Schenectady,NY,65589,3
-535491,11838,Esch,Hill,Louisville,KY,94635,1
-842030,6219,Jay,Circle,Mesa,AZ,33257,1
-940805,158,Redwing,Park,Little Rock,AR,98589,2
-911428,2008,Grayhawk,Trail,Houston,TX,83579,1
-723941,03,Dexter,Park,Washington,DC,53902,3
-921817,7927,Thierer,Place,Lincoln,NE,41989,2
-809341,0381,Stang,Point,Miami,FL,14719,2
-547118,8974,Maple,Center,Van Nuys,CA,69124,3
-186837,00,Pawling,Park,Spokane,WA,54174,2
-111733,72649,Sullivan,Plaza,Oklahoma City,OK,11291,2
-348611,1229,Hoard,Way,Chattanooga,TN,92665,1
-348047,82902,Jenna,Junction,El Paso,TX,24067,3
-913832,574,Cardinal,Court,Houston,TX,77366,2
-626445,71210,Brickson Park,Street,Roanoke,VA,62661,3
-217039,91803,Gulseth,Plaza,Houston,TX,29136,3
-920256,143,Dwight,Place,Beaufort,SC,41701,2
-973421,931,Dixon,Drive,Cincinnati,OH,45475,2
-779363,5,Valley Edge,Trail,Charleston,SC,54926,3
-495322,1,Mosinee,Lane,Troy,MI,54890,2
-406634,9327,Oak,Center,Lansing,MI,33842,1
-538832,08,Barnett,Parkway,Wichita,KS,41750,1
-684860,5108,Warner,Crossing,Laredo,TX,15344,3
-982135,934,Truax,Trail,Phoenix,AZ,21034,2
-407226,400,Clyde Gallagher,Road,Pensacola,FL,97701,2
-724590,830,Northport,Parkway,Johnson City,TN,20965,1
-165777,652,Goodland,Terrace,San Antonio,TX,98994,2
-488902,3135,Veith,Place,Jacksonville,FL,94575,1
-964133,1,Havey,Road,Houston,TX,42521,2
-926455,553,Graceland,Point,San Diego,CA,27210,3
-988993,15,Vera,Junction,Dallas,TX,18639,1
-408688,73047,Old Gate,Point,Canton,OH,38167,2
-664850,80595,Warner,Alley,Toledo,OH,37893,2
-456768,07,Golden Leaf,Park,Philadelphia,PA,81643,2
-346067,8012,Pierstorff,Park,Bronx,NY,48216,2
-945286,0,Bashford,Hill,San Antonio,TX,21282,2
-756895,7564,Cascade,Lane,Fresno,CA,84426,2
-237964,7,Manufacturers,Plaza,Washington,DC,52681,3
-300171,8,Havey,Pass,Erie,PA,86604,3
-694168,427,Waubesa,Junction,Dayton,OH,67251,1
-957454,50,Meadow Ridge,Lane,Jackson,MS,48871,1
-669349,903,Holy Cross,Avenue,New York City,NY,89711,2
-990462,399,Fallview,Terrace,Huntington,WV,14497,2
-922585,36716,Waxwing,Place,Panama City,FL,19507,3
-738919,5417,Nevada,Way,Denver,CO,57390,2
-339474,02,Vermont,Plaza,Kansas City,MO,42927,2
-399965,64727,Buena Vista,Avenue,Athens,GA,98322,3
-725314,00731,Scoville,Junction,Hicksville,NY,99526,1
-673487,6243,Sullivan,Way,Evansville,IN,31794,1
-944980,9200,Hudson,Circle,Cincinnati,OH,57117,3
-243364,91038,Eliot,Alley,Miami,FL,24205,1
-936695,73860,Lake View,Crossing,Fort Lauderdale,FL,78044,2
-696743,3,Graceland,Avenue,El Paso,TX,58820,1
-818290,4750,Oak,Avenue,Washington,DC,50183,2
-549568,1912,Dwight,Alley,Miami,FL,19411,3
-169862,069,Coleman,Court,New York City,NY,34704,3
-750430,0,John Wall,Road,Albany,GA,70946,3
-878433,0244,Cody,Crossing,Chattanooga,TN,65339,1
-587845,96,Daystar,Street,Baton Rouge,LA,94138,1
-700693,20377,Sutteridge,Place,Anchorage,AK,37647,2
-302443,0,Texas,Avenue,Nashville,TN,97572,3
-684508,5,Dixon,Terrace,Columbia,MO,88003,1
-915527,123,Toban,Hill,Indianapolis,IN,73134,3
-752565,07,Arizona,Terrace,Saint Louis,MO,57901,2
-567238,6950,Mccormick,Trail,Edmond,OK,74368,3
-607341,91530,Westport,Street,Southfield,MI,87884,1
-153570,32,Transport,Street,Minneapolis,MN,67211,2
-764101,696,Stuart,Place,Detroit,MI,70505,1
-634483,75651,Eagle Crest,Pass,Richmond,VA,45437,2
-571249,4942,Annamark,Crossing,Jacksonville,FL,91713,2
-361573,6700,Northport,Road,San Francisco,CA,61503,3
-969206,4,Green,Trail,Midland,MI,51065,1
-513110,89422,Crownhardt,Point,Fort Myers,FL,62465,1
-193843,09,Kensington,Plaza,San Antonio,TX,59516,3
-395824,6832,Northwestern,Terrace,Marietta,GA,34360,2
-812699,04235,Rutledge,Drive,Buffalo,NY,13929,3
-209656,22571,Kipling,Avenue,Cincinnati,OH,37012,1
-590450,1770,Burrows,Lane,Houston,TX,75629,2
-148135,98,Leroy,Point,Knoxville,TN,14582,3
-707206,93507,Green Ridge,Drive,Roanoke,VA,88816,1
-255161,23825,Warrior,Pass,Pasadena,CA,78971,1
-955707,6449,Lakewood Gardens,Park,Ocala,FL,83440,1
-125393,9,Sugar,Circle,Columbia,SC,65897,3
-592449,92,Schiller,Circle,Charlotte,NC,86171,1
-708260,4981,Miller,Alley,Pittsburgh,PA,27200,3
-941873,0,Independence,Trail,Miami,FL,74413,2
-616624,905,Carioca,Terrace,Vancouver,WA,66932,3
-407647,6,Corscot,Plaza,Birmingham,AL,86542,3
-640191,38,Talisman,Center,Huntington,WV,43569,1
-151405,44,Esker,Alley,Canton,OH,44586,3
-246820,401,Vernon,Pass,Santa Fe,NM,34090,3
-594531,343,Springs,Street,Charleston,WV,33331,3
-828905,9,Sheridan,Road,Jacksonville,FL,72782,2
-833219,88241,Merchant,Terrace,North Port,FL,12687,2
-956693,466,Morning,Crossing,Huntington,WV,67068,1
-668007,51723,3rd,Place,Louisville,KY,15902,2
-812609,620,Gale,Lane,Duluth,MN,48099,2
-335890,2745,Lotheville,Trail,Moreno Valley,CA,54428,3
-591062,23,Judy,Place,Miami,FL,33693,2
-663948,47,Bultman,Court,Charlotte,NC,98006,3
-813877,1,Tennessee,Street,Sacramento,CA,71596,1
-628854,51,Ilene,Avenue,Wilmington,NC,70435,1
-521931,8,Springview,Drive,Pensacola,FL,88515,3
-694377,351,Garrison,Circle,Saint Louis,MO,74450,3
-699705,838,Maryland,Drive,Winston Salem,NC,96617,2
-574858,718,Randy,Way,New Orleans,LA,48750,1
-931470,25114,Namekagon,Way,Columbia,MO,25478,1
-104524,1,Schurz,Terrace,Louisville,KY,56280,1
-236998,79286,Mallard,Center,Atlanta,GA,76021,2
-239283,1652,Bluestem,Park,Bakersfield,CA,70288,3
-704754,06934,Kedzie,Street,Louisville,KY,51223,2
-804169,48,Nevada,Trail,Youngstown,OH,78974,2
-310572,6569,Holmberg,Pass,Macon,GA,35123,1
-760142,3435,Rowland,Terrace,Wilmington,DE,14696,2
-161535,6175,Fair Oaks,Crossing,Jacksonville,FL,90322,1
-833845,963,Warner,Parkway,Peoria,IL,15286,3
-522393,1,Moulton,Hill,San Diego,CA,36593,3
-852963,51791,Bultman,Avenue,Chula Vista,CA,63353,2
-309846,188,Arrowood,Center,Austin,TX,45534,3
-101866,62007,Sunnyside,Circle,Hartford,CT,76769,1
-244294,1,Arapahoe,Circle,Lexington,KY,21039,1
-183862,6597,Dovetail,Junction,Buffalo,NY,53225,1
-283309,19161,International,Junction,Memphis,TN,77953,3
-504560,04,Acker,Point,Lubbock,TX,70801,1
-689592,91597,Emmet,Street,Huntington,WV,57738,1
-898407,49,Merchant,Street,Memphis,TN,15833,2
-102710,1704,Merchant,Park,Washington,DC,26151,3
-516680,1,Kensington,Alley,Waltham,MA,42112,2
-617659,7,Bunker Hill,Place,Harrisburg,PA,43836,2
-640863,90050,5th,Parkway,Erie,PA,41914,3
-453930,2064,Veith,Place,Charlottesville,VA,26703,1
-753673,56,Grover,Terrace,Memphis,TN,43171,1
-649008,4,Southridge,Road,Louisville,KY,51189,2
-867589,962,Manufacturers,Lane,Wilmington,NC,90661,3
-274207,0,Sunbrook,Pass,Macon,GA,25013,3
-896485,2,Forster,Crossing,Akron,OH,88424,1
-426353,6,Independence,Place,Philadelphia,PA,49104,3
-970848,0502,Truax,Crossing,Gastonia,NC,30939,2
-604319,77874,Kipling,Place,Rochester,NY,12664,2
-307001,3,Roxbury,Alley,Atlanta,GA,24287,1
-148274,904,Hintze,Drive,San Francisco,CA,59399,3
-449509,258,Schlimgen,Plaza,Pompano Beach,FL,82228,1
-748287,6562,Myrtle,Avenue,Miami,FL,65773,3
-771706,2,Butternut,Hill,Birmingham,AL,36261,1
-952274,97,Pleasure,Alley,New Orleans,LA,56394,3
-751114,32,Iowa,Plaza,Greensboro,NC,22802,1
-475334,97,Service,Road,Greensboro,NC,74756,3
-449194,188,Golf View,Street,Jeffersonville,IN,22036,2
-509867,1961,Lerdahl,Plaza,Chattanooga,TN,79716,2
-768234,1194,Reinke,Pass,Dallas,TX,77986,3
-453286,89,Lakewood Gardens,Court,Charlotte,NC,22277,1
-395026,7036,Muir,Point,Littleton,CO,78767,3
-792226,19,Maple Wood,Center,Austin,TX,25261,2
-589958,338,Havey,Way,Fort Smith,AR,52811,2
-176093,0700,Clyde Gallagher,Pass,Carlsbad,CA,44549,1
-575760,80,Clarendon,Plaza,Salem,OR,19802,1
-485445,409,Muir,Lane,Boise,ID,78411,2
-252055,4,Sutherland,Pass,Cleveland,OH,46859,3
-718330,94,Cherokee,Alley,Washington,DC,95682,2
-189231,08,Lien,Court,Irvine,CA,24976,2
-881116,196,Myrtle,Way,Lancaster,CA,68382,2
-581321,08,Crest Line,Center,Harrisburg,PA,67495,3
-268096,33268,Bellgrove,Road,Sacramento,CA,30076,2
-570019,5872,Saint Paul,Avenue,Washington,DC,97096,2
-510835,089,Derek,Alley,Boston,MA,82606,2
-243987,304,Debs,Place,Kalamazoo,MI,46746,1
-982476,6503,Elka,Hill,Washington,DC,14102,2
-149380,41,Tony,Parkway,Midland,MI,45598,1
-808008,74,Spohn,Park,Philadelphia,PA,33946,3
-678552,14005,Bonner,Junction,Oklahoma City,OK,98156,3
-608407,123,Maryland,Plaza,New York City,NY,98005,2
-784750,45288,Warrior,Park,Houston,TX,83707,3
-302890,4,Carberry,Center,Springfield,MO,41177,1
-467170,783,Dapin,Plaza,Tacoma,WA,86652,1
-695557,411,Scoville,Avenue,Myrtle Beach,SC,64316,2
-701789,150,Randy,Park,Huntsville,AL,89245,1
-954313,82517,Kipling,Circle,Santa Fe,NM,15196,3
-912143,794,David,Parkway,Rochester,NY,15679,3
-350229,02,American,Court,Shreveport,LA,92972,1
-651259,7238,Laurel,Road,Akron,OH,48868,3
-186465,9718,Thompson,Avenue,Fort Lauderdale,FL,41174,1
-280511,7,Continental,Trail,Hartford,CT,33781,2
-319100,26,Weeping Birch,Crossing,Sacramento,CA,35607,2
-480703,107,Trailsway,Street,Oklahoma City,OK,25722,2
-646419,99375,Esker,Road,Huntsville,AL,33479,3
-743995,9,Dovetail,Circle,Washington,DC,65990,1
-172908,86,Scoville,Plaza,Washington,DC,99135,3
-777156,936,Toban,Center,Las Vegas,NV,15737,2
-632320,46,Texas,Trail,Detroit,MI,68323,3
-631646,7742,Farwell,Trail,Orlando,FL,20448,3
-744884,8,Bunting,Plaza,Houston,TX,83574,3
-708723,92,Tony,Center,Pensacola,FL,91917,1
-489230,0481,Harper,Alley,San Francisco,CA,78853,3
-923655,8146,Mitchell,Plaza,Dayton,OH,39309,3
-330214,1,Fairfield,Point,Spring Hill,FL,52446,2
-631154,796,Mayer,Point,Washington,DC,63076,2
-944285,5500,Clarendon,Road,Pittsburgh,PA,72514,3
-238919,099,Porter,Alley,Baltimore,MD,34858,1
-475355,9,Mccormick,Circle,Anchorage,AK,14600,1
-405049,32,Sutteridge,Road,Milwaukee,WI,47954,1
-449412,113,Lake View,Point,Chicago,IL,66109,2
-231190,92,Dovetail,Pass,Sparks,NV,18181,1
-350646,90,Reindahl,Point,Cleveland,OH,58861,2
-743247,003,Shasta,Drive,Washington,DC,44653,1
-523363,7,Arrowood,Way,Sacramento,CA,36358,3
-672485,6574,Monica,Lane,Orlando,FL,99070,1
-414265,6848,1st,Plaza,Spartanburg,SC,33055,3
-240825,60,Thompson,Plaza,Hattiesburg,MS,38272,2
-389273,0,Lawn,Alley,Syracuse,NY,28608,2
-622745,57271,Prairie Rose,Court,Los Angeles,CA,71309,2
-387558,581,Manitowish,Circle,Shreveport,LA,32225,3
-859678,5,Southridge,Hill,Trenton,NJ,55473,2
-763214,9602,Glendale,Crossing,Knoxville,TN,18932,1
-138087,6739,Dwight,Drive,Memphis,TN,77556,2
-416844,505,1st,Road,Van Nuys,CA,84416,2
-538877,96201,Hooker,Park,Pasadena,CA,17094,3
-107671,59441,Brown,Hill,East Saint Louis,IL,55549,3
-148757,073,Miller,Park,New York City,NY,12018,3
-551335,9,Bellgrove,Way,Littleton,CO,99912,1
-330112,3835,Killdeer,Alley,Fresno,CA,52914,2
-158605,06,Esker,Pass,San Antonio,TX,21228,2
-712050,4875,Fulton,Alley,Saint Louis,MO,82929,1
-487620,25,Quincy,Parkway,San Diego,CA,99512,1
-825008,5951,Service,Circle,Columbus,OH,42502,3
-226196,69676,Brickson Park,Terrace,Denver,CO,75984,1
-121991,4,Manufacturers,Avenue,Albuquerque,NM,97070,2
-995350,44274,Namekagon,Street,Boulder,CO,87788,2
-123705,87432,Spohn,Road,Montgomery,AL,86973,2
-293863,1,Bartelt,Crossing,Los Angeles,CA,19659,3
-378032,72,Banding,Terrace,Washington,DC,69260,2
-449250,1,Farmco,Terrace,Dayton,OH,65675,3
-382286,12,Brickson Park,Hill,Seattle,WA,46761,2
-341336,51610,Eliot,Drive,Odessa,TX,32025,1
-179952,39296,Fairfield,Terrace,Las Vegas,NV,64176,2
-266726,83452,Algoma,Junction,Van Nuys,CA,25520,1
-333493,14958,Meadow Ridge,Crossing,Fort Worth,TX,93167,3
-975400,6709,Helena,Way,Saint Paul,MN,31288,3
-741316,965,David,Court,New York City,NY,80619,2
-446141,3426,Knutson,Park,Provo,UT,71755,3
-821736,540,Sunnyside,Lane,Pensacola,FL,79261,2
-433078,14578,Pankratz,Road,Des Moines,IA,93293,2
-142104,78,Caliangt,Lane,Portland,OR,97541,2
-583702,2,Jenifer,Junction,Odessa,TX,45623,3
-673547,447,Gina,Lane,Omaha,NE,38300,3
-483717,19704,Scoville,Road,Chicago,IL,78583,2
-952088,3,4th,Lane,Tampa,FL,71903,1
-152651,36091,Blackbird,Trail,Phoenix,AZ,81654,2
-822076,8,Drewry,Alley,Cincinnati,OH,65119,3
-520383,518,Roth,Place,Muskegon,MI,75577,1
-855432,17516,Mallard,Street,Brea,CA,90063,3
-227306,9088,Parkside,Alley,Newport News,VA,43757,2
-244833,699,Corscot,Road,Jackson,MS,94756,2
-540449,17763,Waxwing,Pass,Gilbert,AZ,71499,1
-612125,4,Bobwhite,Pass,Hattiesburg,MS,68876,2
-477629,7,Kingsford,Street,Newark,NJ,81317,2
-624412,91,Dovetail,Center,Salem,OR,50310,3
-294739,8,Maywood,Court,Newton,MA,11652,2
-162680,48,Monument,Crossing,Orlando,FL,71001,2
-733575,23,Blaine,Hill,New York City,NY,14931,3
-153514,35,Bay,Trail,Charleston,WV,91472,2
-414202,94,Mockingbird,Trail,Pasadena,CA,62364,3
-126641,1,Lawn,Parkway,Springfield,MA,56307,2
-419327,9460,Lerdahl,Plaza,Oklahoma City,OK,14841,3
-683940,3,Hollow Ridge,Circle,Charlotte,NC,55137,3
-522668,6,Maywood,Park,Pittsburgh,PA,40625,2
-834118,49,Dayton,Court,Colorado Springs,CO,41231,2
-841695,1552,Hoard,Place,Cincinnati,OH,21046,1
-154205,8,Westend,Crossing,Amarillo,TX,75261,1
-772143,627,Oxford,Terrace,Louisville,KY,84251,1
-931898,72883,Cherokee,Court,Tucson,AZ,68807,1
-762940,2520,Merry,Way,Houston,TX,84396,1
-217991,0960,Mosinee,Plaza,San Antonio,TX,45631,1
-573037,00,Sheridan,Crossing,Hartford,CT,41094,2
-481212,649,Mcguire,Terrace,Omaha,NE,75588,2
-689550,02952,Kenwood,Center,Washington,DC,80102,3
-583215,1,Fallview,Circle,Saint Petersburg,FL,77971,3
-299503,04184,Mifflin,Lane,Denver,CO,35140,2
-586460,97455,Knutson,Hill,Vancouver,WA,71654,1
-827540,30661,Grasskamp,Alley,Arlington,VA,75884,3
-657995,04315,Magdeline,Street,Fresno,CA,75101,2
-684728,1,Fulton,Hill,Long Beach,CA,98588,2
-705544,10,Sage,Circle,Tampa,FL,80136,3
-332175,0,Dovetail,Court,Vero Beach,FL,81987,3
-326693,607,High Crossing,Park,San Antonio,TX,89299,1
-183642,7,Golf Course,Point,Houston,TX,97346,2
-325745,49,Porter,Terrace,New York City,NY,73897,3
-617524,8,Jenifer,Center,Virginia Beach,VA,32960,2
-207633,45,Westport,Crossing,Atlanta,GA,63432,3
-792456,3,Monterey,Pass,Milwaukee,WI,88036,2
-213274,8,Birchwood,Center,Boston,MA,34960,2
-402210,4,Bartelt,Court,Corona,CA,69574,3
-719211,70675,3rd,Place,Houston,TX,85541,3
-144641,71710,Talmadge,Place,Washington,DC,66770,2
-856564,08052,Packers,Drive,Stockton,CA,99529,3
-139244,0682,Luster,Junction,Manchester,NH,18840,2
-577315,36141,Corry,Circle,Fort Wayne,IN,33102,1
-988794,95769,Prairieview,Circle,Sacramento,CA,45772,1
-782654,2709,Birchwood,Avenue,Saint Louis,MO,42168,2
-409183,9814,Merchant,Trail,Portland,ME,97092,2
-371125,94793,Everett,Court,San Diego,CA,62486,1
-655669,6,Kinsman,Way,Pasadena,TX,27072,1
-912359,01596,Magdeline,Court,Honolulu,HI,71736,2
-359451,94,Sycamore,Crossing,Detroit,MI,11435,3
-382379,545,Holmberg,Park,Duluth,GA,88826,2
-266564,20143,Delladonna,Trail,Cleveland,OH,97500,1
-117041,4720,Kipling,Alley,Portland,OR,39937,3
-681213,8009,Kim,Lane,Young America,MN,14478,1
-211887,3,Saint Paul,Alley,Columbia,MO,36398,1
-837026,3638,Londonderry,Place,Seattle,WA,25317,3
-369415,12817,Starling,Circle,Clearwater,FL,14668,3
-776284,7,Haas,Point,Philadelphia,PA,94416,3
-391095,1517,Dixon,Avenue,Memphis,TN,45914,3
-444525,73,Coolidge,Lane,Schenectady,NY,67054,1
-142433,52,Armistice,Lane,Birmingham,AL,71157,2
-739409,61418,Little Fleur,Drive,Saint Petersburg,FL,19382,1
-112931,937,Gale,Plaza,El Paso,TX,48760,3
-507197,40,Hoffman,Point,Asheville,NC,69058,2
-182047,3090,Bay,Place,Baton Rouge,LA,24991,2
-131809,814,Namekagon,Avenue,Beaverton,OR,90146,1
-583968,2,Farragut,Lane,Hattiesburg,MS,61494,1
-912485,34814,Division,Trail,Miami,FL,92323,2
-761238,18351,La Follette,Point,Sacramento,CA,88241,1
-163067,18351,Jenifer,Junction,Dallas,TX,87759,1
-354523,3098,Reinke,Terrace,Bethesda,MD,54410,3
-299719,8016,Beilfuss,Place,Greensboro,NC,14588,1
-605524,44709,Park Meadow,Alley,Springfield,IL,12985,2
-431099,8,Clarendon,Way,Lexington,KY,49377,3
-817955,545,Orin,Crossing,Chattanooga,TN,24536,2
-396314,36,Burning Wood,Point,Dallas,TX,50410,3
-784199,4,Forest,Alley,Inglewood,CA,70676,3
-746619,5955,Scoville,Lane,Levittown,PA,68209,2
-234403,77108,Loftsgordon,Alley,Denver,CO,20866,2
-484560,3,Eliot,Trail,Arvada,CO,59727,2
-815303,4570,Fieldstone,Parkway,San Francisco,CA,67541,3
-372861,31812,Becker,Lane,Memphis,TN,22446,2
-426372,41,Ludington,Crossing,New Brunswick,NJ,17650,1
-894236,1,Oxford,Parkway,Richmond,VA,45196,3
-185868,300,Twin Pines,Road,Fort Myers,FL,56036,1
-702853,17662,Monterey,Terrace,Mobile,AL,55913,1
-634456,08,Cherokee,Plaza,Norcross,GA,19183,1
-823006,2,Barnett,Parkway,Pasadena,CA,20921,1
-137976,910,Stone Corner,Drive,Los Angeles,CA,80675,2
-192346,46015,Hazelcrest,Plaza,Columbia,SC,84735,1
-377009,000,Bay,Alley,Anchorage,AK,15280,3
-613453,23,Cordelia,Plaza,Lafayette,IN,89010,3
-420825,54107,Bonner,Center,Melbourne,FL,91394,3
-476603,86,Artisan,Street,San Jose,CA,68135,2
-514821,2,Dwight,Drive,Bakersfield,CA,51398,3
-963475,85,Chive,Place,Tacoma,WA,37407,3
-839618,45,Chive,Lane,Charlotte,NC,61604,1
-434371,5762,Fairview,Place,Indianapolis,IN,44486,1
-648323,39808,Rigney,Court,Fort Wayne,IN,52784,1
-855992,14365,Oxford,Junction,Oakland,CA,50683,3
-130682,2388,Mandrake,Hill,Canton,OH,25526,3
-475176,69,Florence,Avenue,Des Moines,IA,73986,1
-253123,4,Sycamore,Street,Cleveland,OH,88060,3
-685465,5,New Castle,Lane,Orlando,FL,35642,2
-481053,6770,Hanover,Alley,Topeka,KS,27620,1
-922179,09205,Rigney,Park,Phoenix,AZ,84880,2
-994606,7077,Becker,Alley,New Orleans,LA,53104,1
-753340,02131,Morning,Hill,Boynton Beach,FL,78196,3
-673320,3,Eggendart,Lane,Houston,TX,24380,2
-331509,2975,Pierstorff,Point,Naperville,IL,68573,2
-656558,7,East,Alley,Midland,TX,96431,3
-362125,86530,Oneill,Terrace,Atlanta,GA,14615,1
-201715,89412,Packers,Point,Mobile,AL,21117,3
-397516,53636,Corben,Terrace,Des Moines,IA,28691,3
-504817,76,Sachtjen,Trail,Omaha,NE,40066,3
-233698,84,Mosinee,Road,Cincinnati,OH,83357,2
-848227,49,Milwaukee,Alley,Denver,CO,67943,2
-842222,9,Clove,Parkway,Madison,WI,72625,1
-306480,8257,8th,Way,Hartford,CT,79984,3
-768564,86,Sutteridge,Terrace,Nashville,TN,82411,1
-688388,81,Moulton,Center,Fort Wayne,IN,94659,3
-953145,32,Talmadge,Park,Kissimmee,FL,96595,2
-390528,17180,Marquette,Place,Boca Raton,FL,21153,3
-304505,572,Arrowood,Way,Madison,WI,12663,3
-124937,757,Spaight,Court,Charlotte,NC,28809,2
-448747,52966,Dwight,Lane,Washington,DC,31776,1
-765071,2634,Commercial,Alley,Spokane,WA,22104,1
-553983,705,Larry,Center,Atlanta,GA,94646,3
-407396,8975,Maple Wood,Junction,Hialeah,FL,46350,3
-569581,856,Drewry,Trail,Cincinnati,OH,95350,2
-552719,1,Swallow,Park,Van Nuys,CA,94061,1
-899991,405,Lotheville,Crossing,Minneapolis,MN,91858,3
-528514,3,Luster,Place,Independence,MO,22883,2
-840081,9,Quincy,Parkway,El Paso,TX,87933,3
-488703,08061,Bayside,Alley,Fort Myers,FL,42119,1
-539869,1329,Eastwood,Drive,San Antonio,TX,14274,2
-741726,9725,Grayhawk,Avenue,Dallas,TX,35011,3
-862186,16,Sloan,Alley,Atlanta,GA,49236,1
-987528,33948,Becker,Pass,Chicago,IL,45605,3
-209211,31,Green,Junction,Bronx,NY,54072,1
-668920,0447,Fremont,Circle,New Orleans,LA,25932,1
-289502,02181,Helena,Lane,Ocala,FL,61874,2
-123422,3718,Victoria,Parkway,San Angelo,TX,45678,3
-541995,6680,Vera,Park,Dallas,TX,23721,3
-258808,0,Cherokee,Hill,Miami,FL,33372,3
-917224,06,Spohn,Circle,New York City,NY,38141,1
-517904,748,Northridge,Center,Santa Barbara,CA,87734,3
-404947,0,Eagan,Plaza,Waterloo,IA,33234,1
-337929,4085,Roxbury,Avenue,Cincinnati,OH,42752,2
-370925,674,Waxwing,Alley,Chicago,IL,66575,1
-155797,33,Riverside,Avenue,Evansville,IN,52636,2
-873153,2499,Bunting,Drive,Rochester,NY,44117,3
-222119,3,School,Plaza,Killeen,TX,36402,1
-754929,1,Division,Avenue,New Orleans,LA,85362,3
-345830,70611,Crowley,Point,Edmond,OK,47889,2
-461945,4837,Northport,Avenue,Charlotte,NC,31115,3
-312903,3928,Parkside,Way,Houston,TX,59680,1
-900566,8,Elgar,Circle,New York City,NY,38574,2
-542521,6,Hazelcrest,Place,Toledo,OH,41721,3
-707728,46392,Mifflin,Point,Chattanooga,TN,42129,2
-709221,38018,Farmco,Avenue,Cincinnati,OH,90603,3
-184650,61829,Oxford,Drive,Fort Lauderdale,FL,98509,2
-611247,75,Westend,Road,Mountain View,CA,96891,3
-487543,413,Crest Line,Center,Largo,FL,16217,2
-502330,95325,Granby,Trail,Tacoma,WA,41705,2
-636863,6,Armistice,Center,Roanoke,VA,81515,2
-839877,24,Pankratz,Junction,Albany,NY,25568,2
-615037,36887,Sutteridge,Trail,Louisville,KY,57817,3
-517758,89364,Larry,Trail,Oklahoma City,OK,57439,1
-959479,0,Paget,Trail,Toledo,OH,46117,3
-328876,8,Anhalt,Terrace,Houston,TX,54866,1
-648765,503,Bunker Hill,Crossing,Amarillo,TX,70132,3
-266365,23,Fairfield,Hill,Houston,TX,24964,2
-230013,7,Scoville,Plaza,Lansing,MI,38760,2
-209524,88,Kinsman,Parkway,West Palm Beach,FL,60167,3
-649810,56,Reindahl,Plaza,Santa Cruz,CA,98087,1
-643700,23574,Lerdahl,Avenue,Riverside,CA,43778,2
-398401,084,Di Loreto,Way,Whittier,CA,74160,3
-985193,73490,Novick,Drive,Austin,TX,93419,3
-880199,3,Granby,Plaza,El Paso,TX,27043,1
-432964,2395,Lakewood,Trail,Round Rock,TX,32345,2
-340870,92364,Troy,Avenue,Syracuse,NY,49870,3
-469152,356,New Castle,Way,Lansing,MI,37030,2
-868757,8,Killdeer,Lane,Winston Salem,NC,95171,1
-140253,6829,Caliangt,Center,Miami,FL,58901,1
-630054,63889,Merrick,Lane,Saint Louis,MO,69307,1
-809996,0859,Susan,Parkway,Allentown,PA,44804,1
+1,8,Buhler,Park,Memphis,TN,42216,2
+2,03628,Laurel,Place,Tacoma,WA,37401,2
+3,98310,East,Terrace,Newark,DE,74991,1
+4,9883,4th,Pass,Pensacola,FL,58170,2
+5,4786,Carpenter,Road,Los Angeles,CA,92373,1
+6,9,Fairview,Place,Saint Louis,MO,97577,1
+7,6,New Castle,Hill,North Hollywood,CA,77458,3
+8,2704,Springview,Crossing,Lansing,MI,24782,1
+9,8,Alpine,Street,Portsmouth,NH,69220,1
+10,6438,Anhalt,Trail,Sacramento,CA,38501,1
+11,546,Clyde Gallagher,Terrace,San Antonio,TX,36318,2
+12,489,Grayhawk,Pass,Topeka,KS,97761,2
+13,2,Sachs,Street,Evansville,IN,87248,1
+14,8638,Tomscot,Park,Scottsdale,AZ,72046,1
+15,9,Hooker,Alley,Portland,OR,57357,1
+16,14,Rusk,Way,Hartford,CT,54806,2
+17,0671,Tony,Junction,Anchorage,AK,40853,2
+18,4971,Ridge Oak,Crossing,San Antonio,TX,60948,3
+19,5,Dayton,Point,Charlotte,NC,60899,2
+20,13,Carey,Center,Salt Lake City,UT,40552,1
+21,0830,Sycamore,Street,Kansas City,MO,74801,3
+22,95377,Blaine,Crossing,Jersey City,NJ,35991,2
+23,7,Melrose,Court,New York City,NY,87690,1
+24,9185,Crowley,Court,Greensboro,NC,76905,1
+25,88,Lotheville,Plaza,Lexington,KY,37553,3
+26,1,Eastlawn,Street,Spokane,WA,99657,2
+27,80,Larry,Avenue,San Diego,CA,15634,3
+28,3923,Gina,Place,New Bedford,MA,95674,3
+29,16528,Hanover,Street,Corona,CA,22962,2
+30,3,Schlimgen,Crossing,North Hollywood,CA,50223,2
+31,4,Park Meadow,Court,Albuquerque,NM,74664,3
+32,7,North,Terrace,New Orleans,LA,16144,1
+33,930,Delaware,Plaza,Minneapolis,MN,74022,3
+34,2410,Continental,Parkway,Omaha,NE,77841,3
+35,386,Onsgard,Way,Indianapolis,IN,25400,1
+36,93,Hoffman,Court,Round Rock,TX,19138,2
+37,3574,Lindbergh,Pass,Dayton,OH,48206,2
+38,03478,Myrtle,Hill,North Little Rock,AR,61815,1
+39,5,Forest Dale,Drive,Topeka,KS,25594,2
+40,779,Duke,Trail,Austin,TX,31022,2
+41,7894,Daystar,Pass,Lynn,MA,83720,2
+42,45,Vahlen,Drive,Saint Louis,MO,43197,3
+43,6,Vermont,Avenue,Roanoke,VA,47907,3
+44,9,Transport,Park,Newport Beach,CA,39652,1
+45,82007,Shopko,Parkway,Tulsa,OK,35993,3
+46,55420,Cherokee,Parkway,Mobile,AL,68253,1
+47,8,Jenna,Park,Austin,TX,97324,3
+48,8,Morning,Point,Salinas,CA,81248,1
+49,55,Susan,Place,Waco,TX,98943,2
+50,51756,Charing Cross,Pass,Jacksonville,FL,34935,1
+51,620,Tony,Street,Glendale,CA,93306,1
+52,3,Maryland,Lane,Pensacola,FL,86782,2
+53,3888,Anhalt,Circle,Chicago,IL,33395,1
+54,2,Loftsgordon,Lane,Jackson,MS,61032,3
+55,66,Crescent Oaks,Trail,Zephyrhills,FL,90404,3
+56,60728,Hoepker,Junction,Shawnee Mission,KS,89217,1
+57,645,Vernon,Alley,Albuquerque,NM,92654,2
+58,62,Drewry,Terrace,Tampa,FL,79783,3
+59,6,Arkansas,Parkway,Arlington,TX,20619,3
+60,92039,Golf,Street,Norfolk,VA,35578,2
+61,813,Sutherland,Plaza,Macon,GA,43718,3
+62,68,Mitchell,Center,Youngstown,OH,79186,3
+63,410,Kingsford,Avenue,Mobile,AL,63631,1
+64,7,Mccormick,Trail,Washington,DC,99563,3
+65,04405,Lukken,Road,Maple Plain,MN,44325,2
+66,52980,Monica,Plaza,Hamilton,OH,75417,2
+67,70,Cambridge,Terrace,Pocatello,ID,82410,1
+68,2,Oneill,Way,Grand Rapids,MI,65443,3
+69,25,Cascade,Circle,Metairie,LA,43238,3
+70,3,La Follette,Lane,Kansas City,MO,98558,3
+71,32,Kenwood,Terrace,West Palm Beach,FL,64653,3
+72,2123,Cody,Circle,Dallas,TX,18686,1
+73,21642,Pearson,Pass,Kansas City,MO,44967,3
+74,1422,Westend,Parkway,Peoria,IL,79055,1
+75,0031,Prairie Rose,Street,Norfolk,VA,27496,2
+76,2,Kipling,Center,Greeley,CO,77126,1
+77,6,Charing Cross,Street,Fayetteville,NC,42442,1
+78,122,Erie,Junction,Arlington,TX,80092,1
+79,02,Parkside,Circle,Fort Myers,FL,83517,3
+80,3393,Roth,Avenue,Raleigh,NC,13024,2
+81,37927,Springs,Lane,Denver,CO,93270,2
+82,40300,Charing Cross,Trail,Rochester,MN,80486,2
+83,3,Spaight,Point,Fort Worth,TX,33716,2
+84,9,Graedel,Park,Little Rock,AR,51240,2
+85,10491,Steensland,Avenue,Sacramento,CA,74568,3
+86,737,Gerald,Park,Nashville,TN,22904,1
+87,9,3rd,Street,Youngstown,OH,25886,1
+88,913,Hollow Ridge,Center,Raleigh,NC,84695,2
+89,523,Bultman,Street,Migrate,KY,21184,3
+90,545,Hauk,Way,Des Moines,IA,55370,3
+91,31898,Trailsway,Lane,Houston,TX,84001,1
+92,9438,Namekagon,Place,Columbia,SC,25439,1
+93,89,Division,Lane,Trenton,NJ,24362,3
+94,7,Melvin,Junction,Miami,FL,28158,2
+95,00,Thierer,Pass,Hyattsville,MD,91457,1
+96,4001,Cambridge,Lane,Naples,FL,46708,3
+97,4,Grim,Park,Omaha,NE,18401,2
+98,99234,Eagan,Pass,Raleigh,NC,72152,2
+99,20090,Declaration,Point,Brooklyn,NY,24379,1
+100,65,Lotheville,Lane,Pasadena,CA,69468,1
+101,56,Cherokee,Park,Beaumont,TX,94600,3
+102,07647,Bunting,Center,New York City,NY,61580,3
+103,20,Fuller,Way,Palatine,IL,79800,2
+104,6,Stang,Trail,Washington,DC,49290,2
+105,59,Waxwing,Terrace,Oklahoma City,OK,14280,1
+106,6,Stuart,Street,Miami,FL,46001,2
+107,9,Springs,Terrace,San Jose,CA,28462,1
+108,18,Grover,Court,Houston,TX,11546,3
+109,5770,2nd,Lane,Fort Worth,TX,80814,2
+110,42,Lien,Center,South Bend,IN,33651,2
+111,789,Gulseth,Avenue,Newton,MA,43158,1
+112,79,Elka,Alley,Virginia Beach,VA,95063,2
+113,293,Rowland,Crossing,Boise,ID,13790,1
+114,2,Valley Edge,Junction,Memphis,TN,89190,2
+115,72441,Jackson,Lane,Camden,NJ,42528,1
+116,9170,Laurel,Trail,Tulsa,OK,17387,1
+117,74137,Walton,Plaza,New York City,NY,92170,2
+118,42,Melrose,Point,Lexington,KY,79852,2
+119,7692,Northwestern,Avenue,Norfolk,VA,37049,2
+120,3307,Lawn,Junction,San Jose,CA,45282,3
+121,11,Mallory,Drive,Nashville,TN,39382,1
+122,761,Bashford,Road,Erie,PA,13418,1
+123,78767,Lunder,Court,Mount Vernon,NY,55603,2
+124,637,Briar Crest,Place,New York City,NY,53164,3
+125,7381,Eggendart,Street,Miami,FL,23131,3
+126,9,Crowley,Trail,Mesa,AZ,54830,2
+127,1816,Shoshone,Plaza,Fort Wayne,IN,44354,1
+128,67568,Logan,Place,Carlsbad,CA,46072,2
+129,58690,Packers,Junction,Bradenton,FL,14084,2
+130,828,Prairieview,Plaza,Tampa,FL,94902,3
+131,4,Marquette,Way,Columbia,MO,15412,3
+132,698,Blue Bill Park,Avenue,Toledo,OH,69152,2
+133,5,Fordem,Point,Los Angeles,CA,94496,3
+134,688,Butterfield,Circle,Fairfield,CT,31491,1
+135,8,Ruskin,Terrace,Inglewood,CA,13888,2
+136,51,Hanson,Avenue,Columbia,MO,89567,2
+137,19,Novick,Lane,Reno,NV,72397,3
+138,1,Declaration,Park,Washington,DC,33220,3
+139,2740,Toban,Place,Philadelphia,PA,32720,1
+140,2,Petterle,Junction,Denton,TX,47326,1
+141,861,Dakota,Place,Clearwater,FL,21483,2
+142,13,Parkside,Trail,Orange,CA,29927,1
+143,2,Dakota,Pass,San Jose,CA,94594,2
+144,78,Anzinger,Pass,Lubbock,TX,60856,3
+145,86857,Hoffman,Alley,Stockton,CA,60562,1
+146,3,Kim,Pass,Prescott,AZ,91134,2
+147,4432,Mariners Cove,Road,Columbus,OH,29244,1
+148,783,Ronald Regan,Center,Peoria,IL,54427,2
+149,265,Westend,Drive,Waltham,MA,43918,2
+150,5,Caliangt,Road,Kansas City,MO,41529,2
+151,01,Thompson,Terrace,Salt Lake City,UT,99789,3
+152,86,Knutson,Lane,El Paso,TX,21748,2
+153,050,Division,Pass,Bradenton,FL,40860,3
+154,107,Dahle,Circle,Aurora,CO,44461,1
+155,32997,Independence,Junction,Tyler,TX,27155,3
+156,6,Milwaukee,Alley,New Bedford,MA,23800,2
+157,43,Michigan,Terrace,Norcross,GA,46555,2
+158,7056,Gateway,Place,Knoxville,TN,16055,2
+159,44517,Dixon,Parkway,Atlanta,GA,28049,3
+160,26574,8th,Street,Birmingham,AL,59230,2
+161,27,Brentwood,Alley,Garland,TX,62330,3
+162,1,Express,Lane,Toledo,OH,87315,3
+163,29535,Mandrake,Hill,Simi Valley,CA,88572,3
+164,4,Dottie,Circle,Sacramento,CA,95055,3
+165,9,Troy,Lane,Charleston,WV,18019,3
+166,6,Carioca,Street,Charlotte,NC,18004,2
+167,58,Fieldstone,Drive,Austin,TX,37556,2
+168,450,Elgar,Center,Visalia,CA,49056,2
+169,5983,Armistice,Court,Austin,TX,24178,2
+170,62,Kropf,Park,Shawnee Mission,KS,35611,2
+171,18104,Washington,Lane,Washington,DC,51989,2
+172,5,Stoughton,Point,Detroit,MI,47880,2
+173,77,Eastlawn,Trail,Roanoke,VA,69364,1
+174,03533,Mitchell,Trail,Boise,ID,44299,3
+175,8296,Mockingbird,Drive,Jacksonville,FL,59206,3
+176,8,Roth,Way,Portland,OR,13601,1
+177,4,Darwin,Parkway,Baton Rouge,LA,82633,2
+178,14,Fairview,Trail,El Paso,TX,62422,2
+179,558,Westport,Place,Saint Paul,MN,58416,1
+180,42,Sutherland,Crossing,Dallas,TX,29705,1
+181,0,Hovde,Junction,Lansing,MI,62586,1
+182,3,Eastwood,Street,San Francisco,CA,93397,1
+183,5383,Evergreen,Park,Clearwater,FL,81728,3
+184,782,Brickson Park,Pass,Brooklyn,NY,87142,1
+185,3677,Autumn Leaf,Parkway,Charleston,SC,45434,3
+186,413,Upham,Hill,Roanoke,VA,42790,1
+187,5,Superior,Center,Brea,CA,70106,2
+188,1,Anzinger,Place,Cincinnati,OH,56785,2
+189,8491,Delladonna,Street,Des Moines,IA,59228,2
+190,240,Kim,Trail,Inglewood,CA,20000,3
+191,523,Fulton,Trail,Houston,TX,33684,1
+192,82149,Debra,Parkway,Portland,OR,66899,3
+193,18,Fieldstone,Junction,Santa Cruz,CA,59589,3
+194,61,Johnson,Lane,Saint Louis,MO,21649,1
+195,1908,Norway Maple,Point,Washington,DC,54385,3
+196,297,Beilfuss,Parkway,New Castle,PA,62907,3
+197,041,Ridgeway,Pass,Corpus Christi,TX,47939,3
+198,816,Basil,Court,Orlando,FL,51314,3
+199,563,Spohn,Place,Washington,DC,29998,1
+200,6044,Crescent Oaks,Center,Peoria,AZ,65007,3
+201,0,Milwaukee,Way,Saint Louis,MO,90489,3
+202,26299,Prairie Rose,Trail,Tulsa,OK,94695,3
+203,8071,School,Plaza,Memphis,TN,82905,3
+204,7,Continental,Court,Augusta,GA,84741,3
+205,967,Gerald,Road,Knoxville,TN,55252,3
+206,7,Pleasure,Court,Charleston,WV,75705,3
+207,2,Dennis,Place,Houston,TX,18932,1
+208,1,Ohio,Road,Little Rock,AR,74600,3
+209,64863,Waxwing,Plaza,Vero Beach,FL,93964,3
+210,07,Brown,Plaza,Baltimore,MD,41595,1
+211,372,Farragut,Drive,Omaha,NE,21609,3
+212,8,Kedzie,Alley,Buffalo,NY,26410,3
+213,9,Village Green,Way,Miami,FL,15114,1
+214,4,Mockingbird,Street,Paterson,NJ,43320,1
+215,1887,Eagan,Avenue,Washington,DC,48796,2
+216,7533,Springs,Trail,Atlanta,GA,50429,3
+217,313,Sauthoff,Court,San Jose,CA,83222,1
+218,27264,Blue Bill Park,Junction,Madison,WI,37466,1
+219,4,Forest Dale,Avenue,Orlando,FL,97636,1
+220,5,Clarendon,Parkway,Aurora,IL,99700,1
+221,86,Huxley,Terrace,Saint Paul,MN,36205,2
+222,7698,Dunning,Park,Dayton,OH,82310,2
+223,60,Bay,Crossing,Fort Worth,TX,17901,2
+224,16,Anniversary,Crossing,Atlanta,GA,96973,3
+225,1,Transport,Center,Fort Worth,TX,38068,2
+226,55733,Waywood,Avenue,Tallahassee,FL,16032,3
+227,04085,Lyons,Crossing,Tampa,FL,69534,1
+228,57,Declaration,Circle,Sacramento,CA,28987,1
+229,5211,Forest Run,Crossing,Decatur,IL,21939,1
+230,8265,Carioca,Court,Saint Louis,MO,95405,1
+231,4,Loftsgordon,Alley,Dallas,TX,75095,2
+232,604,Continental,Plaza,Atlanta,GA,91048,1
+233,9,Bellgrove,Center,Decatur,GA,28317,3
+234,310,Straubel,Road,Reston,VA,62480,1
+235,71076,Killdeer,Way,Washington,DC,82913,1
+236,8485,Brentwood,Point,Dallas,TX,87040,2
+237,42467,Granby,Court,Philadelphia,PA,61241,2
+238,45,Monica,Park,Oklahoma City,OK,51705,1
+239,69375,Lakewood,Avenue,Dallas,TX,43383,2
+240,337,Hooker,Alley,Mesquite,TX,92782,2
+241,1861,Farragut,Circle,Buffalo,NY,34106,2
+242,552,Butternut,Park,Washington,DC,66480,2
+243,39199,Moose,Drive,Maple Plain,MN,29589,3
+244,7,Sachtjen,Avenue,Washington,DC,57676,1
+245,9558,Utah,Plaza,Milwaukee,WI,61796,2
+246,62028,Erie,Parkway,Fargo,ND,65505,3
+247,03471,Prairie Rose,Avenue,Silver Spring,MD,19553,2
+248,49,Dorton,Plaza,Gainesville,FL,54678,3
+249,7240,Burning Wood,Park,Bethesda,MD,27862,1
+250,96,Waywood,Trail,New Orleans,LA,54600,3
+251,52681,Helena,Road,Kansas City,MO,64470,1
+252,3,Hudson,Pass,Atlanta,GA,88078,1
+253,02,Service,Court,Rockford,IL,39818,1
+254,3,Lien,Terrace,Peoria,IL,49531,2
+255,8684,Ridge Oak,Crossing,Mesa,AZ,36078,2
+256,79,Sunfield,Way,Tampa,FL,66309,3
+257,038,Melvin,Avenue,Gilbert,AZ,27723,2
+258,788,Red Cloud,Terrace,Lafayette,IN,27487,3
+259,5,Corben,Terrace,Augusta,GA,62413,1
+260,82985,Maple,Lane,New Orleans,LA,53546,1
+261,540,Schmedeman,Drive,Portland,OR,86573,2
+262,8,Westerfield,Drive,Honolulu,HI,86375,2
+263,37,Eastwood,Alley,Fort Wayne,IN,14687,1
+264,0752,Judy,Road,West Palm Beach,FL,17611,3
+265,46,Messerschmidt,Plaza,Palatine,IL,71152,1
+266,1,Commercial,Parkway,Wilmington,DE,73078,3
+267,8234,Morrow,Parkway,Saint Louis,MO,79369,3
+268,249,Gerald,Lane,Chicago,IL,53862,1
+269,68367,Autumn Leaf,Center,Wichita Falls,TX,61976,1
+270,3989,Redwing,Way,Kent,WA,26093,3
+271,5690,Scott,Lane,Birmingham,AL,33691,2
+272,80,Southridge,Hill,Las Vegas,NV,20397,1
+273,4626,Pepper Wood,Avenue,Wilmington,NC,61766,1
+274,80,Claremont,Avenue,Washington,DC,60577,3
+275,19546,Linden,Place,Milwaukee,WI,46418,1
+276,14,Rieder,Circle,Evansville,IN,29255,2
+277,6702,Duke,Court,Miami,FL,28302,2
+278,13247,Holy Cross,Avenue,Fort Myers,FL,90939,3
+279,76728,Nevada,Alley,Baton Rouge,LA,89249,3
+280,90,Fulton,Lane,Columbus,GA,59603,1
+281,39,Arizona,Parkway,Irvine,CA,62153,2
+282,449,Loftsgordon,Hill,Charleston,WV,48174,2
+283,2826,Tony,Avenue,Austin,TX,57707,1
+284,576,Aberg,Way,Kingsport,TN,62198,2
+285,531,Lien,Crossing,Phoenix,AZ,24082,2
+286,4103,West,Trail,Miami,FL,37842,3
+287,5,Debs,Terrace,Montgomery,AL,74163,3
+288,451,Westport,Alley,Amarillo,TX,13820,2
+289,15,Roxbury,Terrace,Montgomery,AL,71492,3
+290,08,Mesta,Avenue,Tulsa,OK,87211,3
+291,411,Katie,Court,Portsmouth,NH,80506,3
+292,1341,Northridge,Park,Fayetteville,NC,80842,3
+293,64968,Kipling,Hill,Charleston,WV,50672,2
+294,15949,Gulseth,Avenue,Columbia,SC,21009,3
+295,74,Eastwood,Pass,Canton,OH,31297,1
+296,5191,Green Ridge,Trail,Pasadena,CA,22839,1
+297,48460,Hoffman,Pass,Pasadena,CA,24857,2
+298,4679,Lyons,Way,Atlanta,GA,53018,3
+299,8,Cordelia,Crossing,Phoenix,AZ,55105,3
+300,8,Sheridan,Crossing,Chandler,AZ,46490,3
+301,56,Fieldstone,Point,New York City,NY,68835,3
+302,93,Rutledge,Park,Columbia,SC,21259,3
+303,474,Carpenter,Plaza,Charlotte,NC,19149,3
+304,841,Bayside,Way,Athens,GA,37309,1
+305,37,Homewood,Center,Des Moines,IA,65257,2
+306,7,Algoma,Hill,Los Angeles,CA,42497,1
+307,933,Dovetail,Pass,Washington,DC,68175,1
+308,65,Doe Crossing,Crossing,Vancouver,WA,56668,1
+309,0,Meadow Vale,Drive,Clearwater,FL,30190,3
+310,568,Russell,Street,Honolulu,HI,68272,1
+311,16450,Manitowish,Park,Arlington,VA,82360,1
+312,59878,Tony,Drive,Hartford,CT,25117,1
+313,490,Mayer,Plaza,Grand Rapids,MI,17642,2
+314,799,Sycamore,Parkway,Omaha,NE,17632,3
+315,7856,Onsgard,Parkway,Round Rock,TX,69486,2
+316,416,Talisman,Alley,Akron,OH,74759,1
+317,0735,Schurz,Street,Terre Haute,IN,97932,3
+318,86,Lyons,Junction,Milwaukee,WI,94525,2
+319,689,Northport,Street,Savannah,GA,94710,3
+320,57739,Fair Oaks,Junction,Boise,ID,40392,3
+321,212,Hauk,Road,Omaha,NE,45757,1
+322,71,Coleman,Drive,Los Angeles,CA,29942,3
+323,350,Granby,Court,Lincoln,NE,85349,2
+324,8527,Park Meadow,Road,Portland,OR,29972,2
+325,90531,Ohio,Park,Birmingham,AL,83482,3
+326,75,Eggendart,Junction,Roanoke,VA,42878,2
+327,88,Mitchell,Plaza,Tampa,FL,60381,2
+328,820,Harper,Place,Albany,NY,41550,3
+329,8966,Waxwing,Crossing,San Antonio,TX,44190,2
+330,7,Burning Wood,Road,Kansas City,MO,56365,2
+331,1,Straubel,Crossing,Seattle,WA,63003,1
+332,4896,Towne,Pass,Salinas,CA,23410,1
+333,46149,Helena,Avenue,Harrisburg,PA,61708,1
+334,1735,Sloan,Court,Atlanta,GA,92625,3
+335,36,Prairieview,Drive,Trenton,NJ,15599,1
+336,2,Arapahoe,Drive,Dallas,TX,69635,3
+337,8,Jana,Plaza,Springfield,MA,86218,2
+338,34535,Ruskin,Center,New Castle,PA,27139,3
+339,7,Pond,Street,Indianapolis,IN,43183,2
+340,36,Burning Wood,Circle,Pueblo,CO,22568,1
+341,4231,Packers,Lane,El Paso,TX,34675,1
+342,20049,Melvin,Terrace,Phoenix,AZ,92701,3
+343,7937,Weeping Birch,Circle,Richmond,VA,29555,2
+344,16945,Hagan,Trail,Miami,FL,31972,1
+345,3687,Hanover,Plaza,Duluth,MN,45055,3
+346,74,Killdeer,Plaza,Midland,TX,51813,1
+347,4081,Tennyson,Trail,Huntington,WV,24349,2
+348,911,Buena Vista,Lane,Washington,DC,84825,2
+349,0,Monument,Hill,Tucson,AZ,96073,2
+350,0592,Crowley,Trail,New York City,NY,67413,2
+351,4,Lawn,Circle,Daytona Beach,FL,34398,1
+352,678,Brickson Park,Point,Dayton,OH,72436,1
+353,31,Kenwood,Park,Pomona,CA,34527,1
+354,664,Schurz,Road,Syracuse,NY,87114,2
+355,84334,Scofield,Lane,Atlanta,GA,21531,2
+356,6,Forster,Lane,El Paso,TX,89671,3
+357,72555,Cody,Junction,Tacoma,WA,38561,1
+358,422,Anhalt,Pass,Omaha,NE,22083,3
+359,794,Sunfield,Hill,San Francisco,CA,56719,2
+360,28161,Ronald Regan,Junction,Los Angeles,CA,63386,3
+361,1350,Brentwood,Alley,Athens,GA,99819,1
+362,5,Reinke,Hill,Buffalo,NY,78520,3
+363,0,Crest Line,Crossing,Warren,OH,89948,3
+364,8978,Del Sol,Street,Spring,TX,75973,2
+365,4,Shoshone,Alley,Los Angeles,CA,77238,3
+366,92506,Goodland,Terrace,Atlanta,GA,63189,2
+367,1,Cambridge,Hill,Austin,TX,62960,3
+368,8,Pierstorff,Avenue,Las Vegas,NV,53738,2
+369,0045,Pleasure,Street,Chicago,IL,92400,3
+370,09946,Stoughton,Center,Albany,NY,20086,1
+371,56,Commercial,Point,Birmingham,AL,75386,2
+372,55,Kennedy,Pass,Gainesville,FL,68904,3
+373,54317,Summerview,Park,Colorado Springs,CO,17816,3
+374,0069,Muir,Alley,Philadelphia,PA,65844,2
+375,897,Ilene,Terrace,Atlanta,GA,36061,2
+376,61270,Bashford,Center,Memphis,TN,72673,1
+377,96971,Fair Oaks,Trail,Washington,DC,66852,3
+378,3,Scott,Place,Houston,TX,67518,3
+379,5029,Maywood,Lane,Panama City,FL,89330,1
+380,0,Gulseth,Park,Aurora,CO,82772,1
+381,94515,Westport,Hill,Tucson,AZ,57132,1
+382,18,Hauk,Center,San Francisco,CA,44895,3
+383,433,Southridge,Avenue,Decatur,GA,96884,2
+384,31,Manitowish,Court,Cedar Rapids,IA,93926,1
+385,550,Orin,Plaza,Apache Junction,AZ,97354,3
+386,27624,Mayfield,Alley,Saint Cloud,MN,14581,3
+387,527,Ridge Oak,Circle,Tampa,FL,27519,3
+388,717,Morningstar,Trail,Riverside,CA,92507,2
+389,54,West,Street,Miami,FL,69885,2
+390,3172,Shasta,Plaza,Ann Arbor,MI,36340,3
+391,9240,Prentice,Way,Tampa,FL,92554,1
+392,84,Scoville,Park,Huntsville,TX,71831,3
+393,9,Kings,Alley,Shreveport,LA,28866,2
+394,799,Darwin,Street,Baton Rouge,LA,18395,2
+395,8,Elka,Park,Kansas City,KS,50078,2
+396,2,Sherman,Place,Montgomery,AL,59223,2
+397,03,Pearson,Pass,Shreveport,LA,39576,1
+398,6739,Susan,Street,Salt Lake City,UT,19728,2
+399,49,Mallard,Hill,Bradenton,FL,72433,2
+400,27,Scott,Parkway,Houston,TX,55282,2
+401,05521,Ruskin,Point,Baltimore,MD,57676,3
+402,004,Dovetail,Center,Memphis,TN,49512,1
+403,36,Harper,Drive,El Paso,TX,17044,1
+404,4146,Calypso,Pass,Stamford,CT,51517,1
+405,839,Ohio,Alley,New Castle,PA,79905,1
+406,306,Coolidge,Parkway,Myrtle Beach,SC,16189,1
+407,03046,Jackson,Avenue,South Bend,IN,45534,3
+408,775,Jenifer,Crossing,Duluth,GA,96100,3
+409,50,Twin Pines,Center,Rockford,IL,51628,3
+410,9764,Fulton,Circle,Springfield,IL,85335,3
+411,41003,Morrow,Avenue,Jackson,MS,64800,1
+412,84,Shasta,Terrace,Houston,TX,27873,2
+413,71,Sycamore,Parkway,Charlotte,NC,27853,1
+414,53982,Lawn,Circle,Vancouver,WA,56944,1
+415,26685,Swallow,Drive,Philadelphia,PA,91664,2
+416,269,Anderson,Road,Denver,CO,47894,3
+417,3898,Anzinger,Alley,New York City,NY,20781,3
+418,796,Packers,Terrace,Herndon,VA,73556,3
+419,86,Pierstorff,Street,Stamford,CT,66056,2
+420,17326,Blaine,Center,Wichita Falls,TX,59536,3
+421,9,Hoepker,Street,El Paso,TX,97827,3
+422,37060,Corry,Junction,Durham,NC,78327,2
+423,43136,American,Parkway,Pittsburgh,PA,32891,2
+424,8,Johnson,Way,Austin,TX,35472,2
+425,0,Tomscot,Trail,Portland,ME,75934,2
+426,83846,Mallory,Place,Detroit,MI,67433,1
+427,81,Shoshone,Terrace,Hot Springs National Park,AR,51527,2
+428,73,Old Shore,Crossing,Washington,DC,11987,3
+429,62,Stoughton,Pass,Louisville,KY,32983,3
+430,844,8th,Center,Hartford,CT,63326,1
+431,14165,Sachtjen,Crossing,Metairie,LA,81712,2
+432,79620,Nova,Junction,Las Vegas,NV,44185,1
+433,521,Old Gate,Point,Greenville,SC,78231,2
+434,812,Hudson,Circle,South Bend,IN,94776,1
+435,64044,Hallows,Trail,Saint Louis,MO,22382,1
+436,3,Pepper Wood,Place,Richmond,VA,21506,2
+437,506,Cardinal,Parkway,San Diego,CA,96723,2
+438,222,Aberg,Circle,Sunnyvale,CA,86831,3
+439,18957,Fordem,Point,Atlanta,GA,74765,1
+440,3920,Mallard,Drive,Birmingham,AL,60833,3
+441,89,Lakeland,Court,Worcester,MA,68567,2
+442,8358,Sommers,Way,Springfield,MO,82378,3
+443,2031,Johnson,Terrace,Milwaukee,WI,36591,3
+444,76,Transport,Drive,Washington,DC,16355,2
+445,6449,Fieldstone,Drive,Maple Plain,MN,36907,1
+446,48743,Gateway,Court,Oklahoma City,OK,27418,1
+447,6133,Oriole,Crossing,Flint,MI,88455,3
+448,43,Tony,Pass,Los Angeles,CA,35440,3
+449,83767,Birchwood,Crossing,Seattle,WA,32475,2
+450,622,Donald,Center,Knoxville,TN,44325,2
+451,46,Everett,Hill,Memphis,TN,47191,3
+452,73423,Kennedy,Alley,Columbus,OH,93061,1
+453,95250,Vidon,Way,Bloomington,IN,55922,3
+454,917,Eggendart,Pass,Toledo,OH,24246,1
+455,33,Forest,Hill,Salt Lake City,UT,75448,3
+456,367,Helena,Junction,Dallas,TX,62545,1
+457,27674,Eastwood,Trail,New Orleans,LA,33647,1
+458,36557,Carpenter,Place,San Diego,CA,88805,1
+459,03611,Spaight,Terrace,Memphis,TN,61826,3
+460,00,Melody,Avenue,Roanoke,VA,15301,2
+461,30,Merry,Pass,Omaha,NE,21631,1
+462,33942,Heath,Alley,Boulder,CO,75674,2
+463,729,Walton,Plaza,Virginia Beach,VA,64657,3
+464,90040,Utah,Pass,Pasadena,CA,25992,2
+465,290,Scofield,Junction,Independence,MO,20414,2
+466,500,Susan,Lane,Albuquerque,NM,39019,3
+467,32001,Claremont,Street,Louisville,KY,57998,2
+468,8781,Arkansas,Plaza,Charleston,WV,72923,2
+469,5984,Coolidge,Center,Washington,DC,60993,2
+470,6,Bluejay,Street,Arvada,CO,59892,3
+471,23792,Monterey,Park,Minneapolis,MN,68932,3
+472,94409,Marcy,Plaza,Littleton,CO,29435,2
+473,5298,Maryland,Terrace,Daytona Beach,FL,48546,3
+474,7,Eastlawn,Terrace,Saint Petersburg,FL,85693,2
+475,84,Montana,Place,Austin,TX,66668,2
+476,7807,Chinook,Hill,Riverside,CA,56568,3
+477,5256,Talmadge,Park,Atlanta,GA,63660,1
+478,63984,Oriole,Road,Pasadena,CA,97267,3
+479,5933,Union,Drive,Tacoma,WA,39315,1
+480,77256,Sunbrook,Way,Bronx,NY,29888,1
+481,0,Moose,Parkway,Worcester,MA,88559,1
+482,32,Butternut,Trail,Melbourne,FL,39552,2
+483,77096,Moulton,Plaza,Pittsburgh,PA,26808,2
+484,224,Butterfield,Drive,Salt Lake City,UT,16328,2
+485,08,Corben,Avenue,Monroe,LA,39353,3
+486,14,Gina,Circle,Torrance,CA,22355,3
+487,6,Fieldstone,Pass,Warren,MI,78160,2
+488,733,Summit,Crossing,Phoenix,AZ,49846,1
+489,541,Charing Cross,Pass,Atlanta,GA,59809,3
+490,52388,Rockefeller,Center,Fort Myers,FL,78928,1
+491,630,Clemons,Pass,Seattle,WA,88616,1
+492,639,Dovetail,Lane,Carol Stream,IL,25484,2
+493,3627,Stephen,Way,Fort Wayne,IN,39642,3
+494,64,Northridge,Circle,Green Bay,WI,47717,2
+495,844,Main,Drive,Norfolk,VA,92286,1
+496,119,Myrtle,Hill,Toledo,OH,58098,1
+497,32139,Pond,Avenue,Chattanooga,TN,21206,1
+498,71388,Gina,Place,Brooklyn,NY,38957,2
+499,2,Barnett,Avenue,Jeffersonville,IN,22847,3
+500,352,Pierstorff,Park,Ocala,FL,49939,2
+501,709,Redwing,Street,Apache Junction,AZ,50118,1
+502,40695,Dixon,Place,Fort Wayne,IN,16846,3
+503,498,Shopko,Place,Shawnee Mission,KS,63350,3
+504,55,Farragut,Point,Spartanburg,SC,23705,3
+505,9230,Cascade,Street,Hartford,CT,94122,3
+506,191,Columbus,Lane,Tucson,AZ,48915,3
+507,6135,Tony,Terrace,Decatur,GA,84551,2
+508,0634,Montana,Alley,Waterloo,IA,83031,1
+509,636,Melvin,Road,Flushing,NY,33243,3
+510,76981,Erie,Parkway,Jackson,MS,78619,3
+511,23,Melby,Court,Kansas City,MO,25726,2
+512,231,Mandrake,Avenue,Baltimore,MD,34266,2
+513,1,Tomscot,Place,Fort Worth,TX,95231,2
+514,608,Eastwood,Hill,Fort Smith,AR,30781,2
+515,01002,Sullivan,Court,Cleveland,OH,55715,3
+516,13744,2nd,Plaza,Raleigh,NC,34552,3
+517,0,Prairie Rose,Drive,Savannah,GA,17175,2
+518,63,Everett,Place,Dayton,OH,37830,2
+519,83,Northfield,Center,Cincinnati,OH,93341,1
+520,28,Forest Run,Drive,Pittsburgh,PA,40285,2
+521,25992,Bashford,Avenue,Winston Salem,NC,84287,1
+522,7413,Sullivan,Court,Saint Petersburg,FL,57477,1
+523,3,Graedel,Park,Saint Louis,MO,51331,2
+524,0,Norway Maple,Plaza,Scottsdale,AZ,77229,3
+525,63,Dawn,Parkway,Memphis,TN,22584,3
+526,7,Fieldstone,Terrace,Houston,TX,20810,2
+527,690,Carey,Plaza,Rochester,NY,67018,3
+528,41296,Portage,Alley,Palm Bay,FL,57925,3
+529,98,Briar Crest,Place,Madison,WI,19734,2
+530,8,Wayridge,Terrace,Northridge,CA,90634,3
+531,29600,Blue Bill Park,Avenue,Jersey City,NJ,87117,1
+532,40,Ohio,Hill,Austin,TX,73318,2
+533,59291,Katie,Terrace,Wilmington,DE,20304,1
+534,5120,Sherman,Drive,North Little Rock,AR,44715,3
+535,7450,Lunder,Parkway,Fort Smith,AR,85678,2
+536,3,Bluestem,Drive,Rochester,MN,43634,1
+537,760,Lawn,Place,Trenton,NJ,73022,2
+538,1,Mendota,Place,Memphis,TN,72688,2
+539,97,Superior,Street,Houston,TX,52122,1
+540,7194,Ridge Oak,Trail,Joliet,IL,33052,1
+541,6,Sutteridge,Point,Syracuse,NY,87065,1
+542,4,Monterey,Crossing,Pasadena,CA,31109,3
+543,2,Emmet,Plaza,Scranton,PA,16866,1
+544,73793,Merry,Hill,Minneapolis,MN,56027,1
+545,613,Grayhawk,Point,Gary,IN,80444,1
+546,6,Harper,Point,Huntington,WV,41958,1
+547,824,Vera,Trail,Tampa,FL,92998,2
+548,73466,Farmco,Court,Huntsville,AL,85335,3
+549,073,Elgar,Pass,Trenton,NJ,77307,1
+550,51885,Helena,Circle,Sioux Falls,SD,40673,2
+551,50207,Walton,Trail,Birmingham,AL,84273,2
+552,78948,Eastwood,Hill,Sarasota,FL,59423,1
+553,19,Granby,Alley,Washington,DC,96553,1
+554,8906,Hanson,Court,Bloomington,IL,30191,3
+555,16,Valley Edge,Crossing,Huntington,WV,49889,1
+556,35335,Moland,Terrace,Iowa City,IA,21072,3
+557,3,Old Gate,Parkway,Charleston,WV,78761,1
+558,23,Northview,Alley,Shreveport,LA,73470,3
+559,02366,Michigan,Hill,East Saint Louis,IL,17849,3
+560,3,Meadow Valley,Avenue,London,KY,47939,2
+561,1568,Anhalt,Way,Washington,DC,59123,1
+562,98677,Main,Court,Jacksonville,FL,94922,1
+563,71261,Lillian,Lane,Sacramento,CA,27768,2
+564,13261,Bultman,Avenue,Elmira,NY,78039,3
+565,74711,Northwestern,Point,Norfolk,VA,14563,3
+566,7,Sugar,Court,Phoenix,AZ,83295,1
+567,23,Larry,Junction,New York City,NY,32795,3
+568,433,Loftsgordon,Crossing,San Jose,CA,98975,2
+569,90480,Barnett,Park,Canton,OH,38862,3
+570,09513,La Follette,Lane,Little Rock,AR,51684,2
+571,3571,New Castle,Trail,Spokane,WA,94835,3
+572,26443,Rigney,Junction,New York City,NY,56430,2
+573,1,Northridge,Place,Carol Stream,IL,99822,1
+574,53849,Dwight,Parkway,Stamford,CT,14763,3
+575,34435,Mariners Cove,Terrace,Arlington,VA,19927,2
+576,0335,Portage,Crossing,Chicago,IL,12962,2
+577,89155,Sage,Avenue,Garland,TX,70144,3
+578,0,Westridge,Lane,Oklahoma City,OK,20634,2
+579,8,Dexter,Alley,Corona,CA,72023,1
+580,3810,Dryden,Pass,Oklahoma City,OK,19832,1
+581,0821,Evergreen,Crossing,Carol Stream,IL,47853,1
+582,4486,Killdeer,Terrace,Inglewood,CA,17132,3
+583,2,Trailsway,Park,Newark,NJ,75268,1
+584,5619,Scott,Circle,Daytona Beach,FL,60247,2
+585,23,Hintze,Trail,Houston,TX,92767,3
+586,9293,Portage,Street,Kalamazoo,MI,56040,2
+587,53,Susan,Hill,Wichita,KS,68225,1
+588,2023,Farwell,Avenue,Lynchburg,VA,88812,1
+589,4,Transport,Terrace,Danbury,CT,38225,3
+590,92,Warrior,Hill,Littleton,CO,46751,3
+591,78,Warner,Park,Baltimore,MD,96811,3
+592,312,3rd,Avenue,Washington,DC,22068,2
+593,9,Golf Course,Road,Crawfordsville,IN,50766,2
+594,408,Colorado,Trail,Philadelphia,PA,32291,2
+595,46,Muir,Drive,Denver,CO,48186,2
+596,79,High Crossing,Center,Minneapolis,MN,92952,3
+597,7,Marquette,Point,Fresno,CA,68928,1
+598,7,Chive,Place,Bronx,NY,73928,3
+599,6,Dayton,Hill,Lakewood,WA,54574,3
+600,28,Garrison,Hill,Glendale,AZ,89025,3
+601,4564,Sunnyside,Avenue,Lansing,MI,85663,2
+602,8,Forest Run,Lane,Dayton,OH,61273,3
+603,230,Corscot,Trail,Houston,TX,94120,3
+604,4,Cordelia,Court,Aurora,IL,79313,3
+605,17939,Roxbury,Parkway,Richmond,VA,38201,2
+606,9,Express,Avenue,Albany,NY,68977,2
+607,28366,Spohn,Street,Lynchburg,VA,88439,2
+608,927,Banding,Way,High Point,NC,92271,1
+609,7738,Coleman,Trail,Cincinnati,OH,91535,1
+610,7792,Del Sol,Trail,Cincinnati,OH,36861,3
+611,93,Independence,Center,Detroit,MI,85325,3
+612,52920,Mesta,Hill,Mesa,AZ,12345,2
+613,97090,Grover,Street,Washington,DC,40837,3
+614,7,Trailsway,Place,Paterson,NJ,42988,1
+615,855,Commercial,Street,Daytona Beach,FL,18110,3
+616,82102,Village,Hill,San Francisco,CA,74876,1
+617,41,Sycamore,Road,Birmingham,AL,70487,1
+618,4362,Roth,Junction,San Antonio,TX,71462,1
+619,545,Dixon,Place,Saint Louis,MO,91705,2
+620,0,Dryden,Drive,Durham,NC,40646,3
+621,23469,Rutledge,Point,Knoxville,TN,47659,1
+622,27133,Hollow Ridge,Junction,San Diego,CA,30757,2
+623,75,Logan,Drive,Cincinnati,OH,35500,2
+624,4021,Rigney,Drive,New York City,NY,21928,3
+625,29,Fuller,Center,Oklahoma City,OK,23652,1
+626,9523,Riverside,Avenue,Concord,CA,71485,2
+627,908,Hauk,Parkway,Atlanta,GA,81572,1
+628,847,Arkansas,Circle,Charlotte,NC,51809,2
+629,23,Judy,Drive,Springfield,MA,54785,2
+630,6,Evergreen,Court,Sacramento,CA,94007,3
+631,565,Anniversary,Trail,Springfield,IL,95663,2
+632,234,Saint Paul,Crossing,Miami,FL,74668,2
+633,9,2nd,Junction,Chandler,AZ,38283,2
+634,92376,Arkansas,Center,Bethesda,MD,41534,3
+635,548,Reinke,Circle,Vancouver,WA,27802,2
+636,11,Ridge Oak,Pass,Jamaica,NY,27949,3
+637,346,Lake View,Terrace,Denver,CO,35960,3
+638,7079,Clove,Center,Vancouver,WA,37089,2
+639,7599,Sauthoff,Crossing,Columbus,MS,45812,1
+640,4021,Northfield,Avenue,West Palm Beach,FL,13732,3
+641,17,Gateway,Crossing,San Diego,CA,85530,2
+642,94421,Raven,Street,Canton,OH,59111,3
+643,529,Birchwood,Hill,Virginia Beach,VA,47506,2
+644,437,Mockingbird,Way,Syracuse,NY,72458,1
+645,5,Badeau,Park,Raleigh,NC,39947,2
+646,7825,Manley,Court,Rochester,MN,55817,1
+647,517,Anzinger,Plaza,El Paso,TX,43027,1
+648,83,Parkside,Lane,Cleveland,OH,70161,3
+649,82653,Granby,Terrace,Birmingham,AL,45089,3
+650,914,Schurz,Trail,Honolulu,HI,56596,2
+651,1414,Red Cloud,Alley,Mount Vernon,NY,48662,3
+652,90,Merrick,Plaza,Roanoke,VA,48715,2
+653,5,Chinook,Center,North Little Rock,AR,63971,1
+654,74319,Pennsylvania,Alley,Raleigh,NC,36545,1
+655,122,Garrison,Center,Pittsburgh,PA,36244,1
+656,3092,Logan,Lane,Columbus,MS,91965,1
+657,34936,Susan,Center,Dallas,TX,47463,3
+658,2,Emmet,Avenue,Omaha,NE,48240,1
+659,32801,Utah,Road,Jefferson City,MO,96773,3
+660,8,Monterey,Alley,Los Angeles,CA,62599,1
+661,2,Moulton,Circle,Washington,DC,25424,2
+662,4990,Kingsford,Terrace,Cincinnati,OH,72174,3
+663,95840,Schurz,Crossing,Long Beach,CA,88935,1
+664,0086,Nova,Crossing,Mobile,AL,13828,2
+665,99,Lunder,Point,New York City,NY,42984,2
+666,22,6th,Terrace,Saint Paul,MN,26823,2
+667,68,Bellgrove,Pass,Racine,WI,99222,1
+668,37,Banding,Point,Jacksonville,FL,50587,1
+669,8536,Hanson,Lane,Rockford,IL,24079,1
+670,503,Hooker,Alley,Miami,FL,29976,3
+671,75,Bultman,Drive,Lexington,KY,87164,2
+672,3359,Golf Course,Drive,Birmingham,AL,87422,2
+673,1,Dennis,Trail,Canton,OH,99620,3
+674,7,Scott,Avenue,Albuquerque,NM,86256,3
+675,37,Debra,Terrace,Sioux Falls,SD,29062,2
+676,47179,Dryden,Court,Pittsburgh,PA,61553,1
+677,292,Colorado,Point,Louisville,KY,42983,2
+678,831,Norway Maple,Way,South Bend,IN,18594,1
+679,58,Summer Ridge,Point,Sacramento,CA,64723,1
+680,96958,Daystar,Point,Stockton,CA,93435,2
+681,71478,Bunting,Park,Mobile,AL,29527,2
+682,1,Emmet,Road,Oklahoma City,OK,22058,1
+683,222,Park Meadow,Way,Saint Louis,MO,94336,2
+684,0112,Homewood,Point,Tucson,AZ,45284,3
+685,94,Shoshone,Trail,Anderson,IN,33787,1
+686,1,Lillian,Crossing,Santa Fe,NM,61925,2
+687,8749,Anthes,Trail,New York City,NY,17978,3
+688,81,Arrowood,Park,Anniston,AL,41574,1
+689,6054,Straubel,Road,Spring,TX,47822,3
+690,17071,Mifflin,Hill,Lexington,KY,49669,1
+691,14424,6th,Street,Wilmington,DE,54179,1
+692,6,Pepper Wood,Alley,New York City,NY,17845,2
+693,3976,Ridgeview,Court,Columbus,OH,56672,1
+694,311,Hallows,Alley,Baton Rouge,LA,28716,1
+695,38,Clemons,Place,Detroit,MI,12882,3
+696,72423,Oak,Alley,Fort Wayne,IN,68401,3
+697,86212,Oxford,Lane,Young America,MN,53566,2
+698,53969,Washington,Road,Norwalk,CT,26895,1
+699,189,Bunker Hill,Park,Columbus,GA,81573,1
+700,01739,Fairfield,Center,Washington,DC,86575,1
+701,18167,Carey,Crossing,Indianapolis,IN,85218,2
+702,22,Fulton,Park,Sioux Falls,SD,57099,1
+703,37899,Melody,Lane,Las Vegas,NV,60693,3
+704,43196,Annamark,Plaza,New Haven,CT,28085,3
+705,8,Texas,Parkway,Naples,FL,41529,3
+706,5620,High Crossing,Road,Riverside,CA,50470,2
+707,2,Bultman,Crossing,Lubbock,TX,72489,2
+708,5,Garrison,Drive,Harrisburg,PA,91863,1
+709,7851,Parkside,Avenue,Oklahoma City,OK,46883,1
+710,6,Independence,Terrace,Evansville,IN,77581,1
+711,531,Green Ridge,Way,Milwaukee,WI,36820,2
+712,7,Mosinee,Circle,Valdosta,GA,68133,2
+713,0,Butternut,Parkway,Racine,WI,95891,2
+714,2562,Dawn,Court,Houston,TX,64113,3
+715,0,Vera,Junction,Reston,VA,18552,3
+716,762,Sycamore,Alley,Rochester,NY,21131,3
+717,8310,8th,Avenue,Saint Louis,MO,45125,2
+718,329,Vidon,Lane,Camden,NJ,31075,2
+719,44382,Prentice,Alley,Littleton,CO,44177,2
+720,8,Evergreen,Circle,Bridgeport,CT,71410,2
+721,283,Westridge,Circle,Grand Rapids,MI,72863,2
+722,989,Evergreen,Terrace,Arlington,VA,11289,2
+723,4,Forest Run,Alley,Des Moines,IA,94483,2
+724,5,Clarendon,Avenue,Dallas,TX,84668,3
+725,60518,Northport,Street,Tuscaloosa,AL,33572,1
+726,81,Elgar,Plaza,New York City,NY,51327,3
+727,24997,Mayfield,Plaza,El Paso,TX,68942,3
+728,30,Hoard,Court,Santa Fe,NM,15527,3
+729,10,Lukken,Trail,Honolulu,HI,11538,3
+730,3,Texas,Street,Manassas,VA,32817,2
+731,09,Northview,Road,Huntington,WV,55990,1
+732,2,Weeping Birch,Circle,New York City,NY,41131,2
+733,3,Portage,Center,San Bernardino,CA,21181,1
+734,1,Hooker,Drive,Cincinnati,OH,48465,3
+735,29,Dawn,Pass,Lima,OH,76762,1
+736,259,Rowland,Drive,High Point,NC,31734,1
+737,767,Dunning,Street,Staten Island,NY,58907,1
+738,77074,6th,Point,Baltimore,MD,17796,2
+739,77,7th,Alley,Savannah,GA,53731,1
+740,19835,Schmedeman,Plaza,Saint Louis,MO,19507,2
+741,974,Haas,Lane,Indianapolis,IN,28986,2
+742,41,Upham,Pass,Saint Paul,MN,76355,3
+743,6747,Eastwood,Road,Bradenton,FL,80507,3
+744,182,Loftsgordon,Point,Burbank,CA,85717,3
+745,89935,Hovde,Avenue,Saint Petersburg,FL,44914,1
+746,837,Canary,Hill,Atlanta,GA,75842,1
+747,40667,Daystar,Point,Roanoke,VA,39105,2
+748,392,Blue Bill Park,Alley,Olympia,WA,98555,3
+749,45835,Gerald,Lane,Portland,OR,63033,3
+750,82962,Porter,Court,Norfolk,VA,67484,2
+751,5,Golf Course,Court,Kingsport,TN,79532,2
+752,3368,Pankratz,Pass,Denver,CO,78095,2
+753,01988,Nova,Way,Brea,CA,79325,1
+754,672,Arrowood,Circle,Charleston,SC,34376,1
+755,7,Westend,Park,Cumming,GA,64425,3
+756,2056,Nova,Center,Austin,TX,61743,1
+757,2919,Maple,Park,Reading,PA,86514,2
+758,47781,Autumn Leaf,Terrace,Ogden,UT,66826,2
+759,88,Randy,Center,Gainesville,FL,72966,1
+760,7273,Heffernan,Park,Detroit,MI,40685,3
+761,2,Dovetail,Junction,Jacksonville,FL,41364,3
+762,56,Nova,Street,Cincinnati,OH,12168,2
+763,0,Canary,Lane,Houston,TX,23919,3
+764,6249,Dixon,Plaza,Huntington,WV,25542,3
+765,85,Elka,Alley,Atlanta,GA,17787,2
+766,400,Melby,Way,Columbia,MO,70957,3
+767,411,Mccormick,Circle,Montgomery,AL,44865,1
+768,85747,Commercial,Court,Colorado Springs,CO,91486,2
+769,8206,Sloan,Center,Topeka,KS,30955,3
+770,241,Bultman,Center,Brooklyn,NY,62587,3
+771,07490,Prairie Rose,Alley,Nashville,TN,57801,2
+772,19804,Fordem,Crossing,Charlotte,NC,13134,1
+773,2,Sugar,Pass,Louisville,KY,39161,1
+774,83459,Washington,Avenue,Corpus Christi,TX,90542,2
+775,7,Westport,Place,Albuquerque,NM,14205,1
+776,5159,Warbler,Park,Salt Lake City,UT,49545,1
+777,0,Gateway,Place,Honolulu,HI,63621,2
+778,01150,Erie,Plaza,Houston,TX,28048,2
+779,16306,Di Loreto,Point,West Palm Beach,FL,17708,2
+780,78208,Stone Corner,Point,Dallas,TX,58359,2
+781,2383,Declaration,Lane,Plano,TX,60356,1
+782,18,Petterle,Crossing,Cleveland,OH,54806,1
+783,0,Loftsgordon,Place,San Mateo,CA,77203,2
+784,010,Vera,Alley,Bellevue,WA,54810,2
+785,830,Birchwood,Avenue,Salt Lake City,UT,19893,1
+786,7108,Bartillon,Road,Montgomery,AL,90442,3
+787,1835,Spenser,Way,New York City,NY,58621,2
+788,19,Glacier Hill,Plaza,Boise,ID,65834,1
+789,2,Vernon,Court,Corpus Christi,TX,39024,1
+790,88430,Continental,Way,Peoria,IL,11119,2
+791,243,Comanche,Pass,Atlanta,GA,92543,1
+792,005,Pankratz,Park,Albuquerque,NM,34559,3
+793,53,Blaine,Pass,Warren,MI,32291,3
+794,79734,Melrose,Place,Wilmington,NC,35659,2
+795,03,Del Sol,Way,Palo Alto,CA,42995,3
+796,6038,Farmco,Place,Huntington,WV,17738,1
+797,1,Sloan,Court,Washington,DC,69608,3
+798,749,Parkside,Hill,Saint Paul,MN,95508,2
+799,097,Cherokee,Crossing,Washington,DC,67039,1
+800,4,Anniversary,Center,College Station,TX,24901,3
+801,311,Mifflin,Drive,Philadelphia,PA,76970,2
+802,0622,Jenna,Avenue,Miami,FL,59538,2
+803,21,Forster,Place,New Orleans,LA,28585,2
+804,642,Pearson,Center,Huntington Beach,CA,11244,1
+805,18806,Gina,Street,Akron,OH,68541,2
+806,06477,Merry,Trail,Daytona Beach,FL,57608,1
+807,59490,Shelley,Street,Waterbury,CT,21921,1
+808,53,Schurz,Drive,Jacksonville,FL,14840,1
+809,6,Mandrake,Court,Huntsville,AL,90108,2
+810,61,Monterey,Way,Lexington,KY,70842,2
+811,30,Huxley,Center,Davenport,IA,63392,3
+812,1339,Nevada,Crossing,Peoria,IL,62679,1
+813,8,Kipling,Circle,Washington,DC,90633,1
+814,4,1st,Point,Fort Worth,TX,49692,2
+815,64546,Lakeland,Court,Tacoma,WA,57151,1
+816,52,Carberry,Terrace,Jefferson City,MO,46636,1
+817,14,Roxbury,Park,Fairfax,VA,93324,1
+818,6,Nobel,Road,El Paso,TX,65035,2
+819,29,Cody,Pass,Brooklyn,NY,50146,2
+820,8,Bultman,Pass,Joliet,IL,81110,1
+821,9879,Division,Drive,Memphis,TN,15930,2
+822,20,Bashford,Crossing,Levittown,PA,14666,3
+823,184,Hintze,Way,Mesquite,TX,84317,3
+824,90,Sunnyside,Center,Mountain View,CA,94204,1
+825,076,Old Gate,Circle,Fresno,CA,23735,2
+826,54073,Northfield,Parkway,Charleston,WV,81200,2
+827,4,Hoard,Alley,Jamaica,NY,55420,1
+828,00183,Graedel,Crossing,Merrifield,VA,68986,2
+829,221,Heath,Way,Kansas City,MO,90289,3
+830,528,Katie,Court,Sacramento,CA,30045,3
+831,32,Mosinee,Alley,Memphis,TN,47086,3
+832,79,4th,Road,Fort Wayne,IN,47721,2
+833,075,Center,Place,Las Vegas,NV,97656,2
+834,3235,Acker,Parkway,Omaha,NE,26195,2
+835,8636,Twin Pines,Trail,Montgomery,AL,62975,1
+836,1990,Annamark,Trail,Louisville,KY,86178,1
+837,773,Sheridan,Terrace,Pomona,CA,13767,1
+838,068,Kim,Crossing,Fort Pierce,FL,37387,3
+839,06,Scofield,Hill,Atlanta,GA,61428,2
+840,9821,Loeprich,Street,Bronx,NY,64220,1
+841,39,Cambridge,Place,Atlanta,GA,86184,2
+842,951,Oriole,Circle,Kansas City,MO,25534,2
+843,0544,Pawling,Street,Jamaica,NY,25755,3
+844,65053,Orin,Circle,Detroit,MI,84686,3
+845,78863,Valley Edge,Avenue,Oklahoma City,OK,89582,3
+846,33,Oak Valley,Drive,Toledo,OH,72098,2
+847,197,Towne,Street,El Paso,TX,54815,2
+848,3,Holy Cross,Hill,El Paso,TX,15030,1
+849,78591,Rieder,Point,San Luis Obispo,CA,78407,1
+850,2,Butterfield,Point,Evanston,IL,22699,3
+851,429,Kennedy,Hill,Tacoma,WA,24502,1
+852,99,Fulton,Drive,Fresno,CA,59647,2
+853,2617,Di Loreto,Street,Cincinnati,OH,77698,1
+854,7,Maywood,Avenue,Northridge,CA,19332,1
+855,05755,Doe Crossing,Lane,Juneau,AK,79494,1
+856,28,6th,Crossing,Harrisburg,PA,28915,1
+857,810,Dayton,Terrace,El Paso,TX,77844,2
+858,009,Westridge,Road,Sacramento,CA,99504,3
+859,7,Talisman,Plaza,Sunnyvale,CA,59769,2
+860,911,Main,Pass,San Jose,CA,74498,3
+861,5619,Pond,Alley,Tampa,FL,53552,1
+862,84075,Jenna,Junction,San Diego,CA,47014,1
+863,869,Golden Leaf,Terrace,Des Moines,IA,82170,3
+864,45,Melrose,Terrace,San Antonio,TX,74787,3
+865,8,Spaight,Lane,Louisville,KY,84813,2
+866,85201,Petterle,Way,Albuquerque,NM,91249,3
+867,0,Farragut,Crossing,Suffolk,VA,17068,1
+868,72,Independence,Parkway,Birmingham,AL,90229,3
+869,167,Troy,Lane,Des Moines,IA,21846,1
+870,39,Roth,Plaza,Salt Lake City,UT,39782,2
+871,613,Grayhawk,Street,Jackson,MS,25591,1
+872,9587,Derek,Trail,Portland,OR,63281,3
+873,6002,Hintze,Alley,Springfield,OH,21148,1
+874,2716,Superior,Park,Philadelphia,PA,33927,2
+875,42613,Mockingbird,Point,Indianapolis,IN,24284,1
+876,71,Artisan,Court,Jacksonville,FL,25694,3
+877,47,Manufacturers,Plaza,Kansas City,MO,70739,1
+878,848,Ilene,Junction,Lancaster,CA,75746,2
+879,2,Kensington,Center,Charlotte,NC,97806,2
+880,525,Larry,Pass,Portland,OR,85000,2
+881,72372,Maple Wood,Terrace,Salt Lake City,UT,43635,3
+882,981,Eagle Crest,Road,Cincinnati,OH,63514,2
+883,13521,Debs,Hill,Dallas,TX,63093,2
+884,27193,Glacier Hill,Circle,Austin,TX,76203,1
+885,7,Marquette,Place,South Bend,IN,15332,3
+886,43,Westport,Center,Vancouver,WA,89965,2
+887,53806,Clyde Gallagher,Court,Washington,DC,43250,3
+888,0,American Ash,Crossing,Lexington,KY,99440,3
+889,7529,David,Alley,New York City,NY,69947,1
+890,0466,Parkside,Avenue,Detroit,MI,36333,1
+891,39,Kensington,Point,Valdosta,GA,99924,2
+892,480,Old Shore,Way,Saint Paul,MN,14086,2
+893,74,Thompson,Junction,Beaufort,SC,12752,3
+894,49078,Mcguire,Trail,Monticello,MN,12902,2
+895,8687,Lukken,Center,Birmingham,AL,51154,1
+896,95354,Miller,Center,Nashville,TN,95442,2
+897,29222,Melby,Road,Kissimmee,FL,95958,3
+898,1837,Steensland,Center,Albuquerque,NM,30425,2
+899,0400,Muir,Crossing,Birmingham,AL,22165,2
+900,33,Heffernan,Center,El Paso,TX,68588,1
+901,5,Carpenter,Street,New York City,NY,33329,2
+902,44,Maryland,Terrace,Kent,WA,27777,1
+903,66486,Corben,Circle,Biloxi,MS,70943,2
+904,54,Elmside,Trail,New Orleans,LA,70610,3
+905,96,Lakewood,Point,Flint,MI,44253,1
+906,3,5th,Way,Louisville,KY,93783,2
+907,95,Quincy,Alley,Phoenix,AZ,28428,3
+908,202,Anthes,Pass,Portland,OR,54384,1
+909,1222,Waubesa,Plaza,Anchorage,AK,77502,2
+910,1,Birchwood,Trail,El Paso,TX,89034,1
+911,86552,Hermina,Road,Memphis,TN,35632,3
+912,2759,Heffernan,Court,Phoenix,AZ,29956,3
+913,72057,Jackson,Plaza,Phoenix,AZ,17633,3
+914,22,Lyons,Court,Cincinnati,OH,50155,3
+915,6,Stang,Avenue,Shawnee Mission,KS,48653,2
+916,95504,Mosinee,Trail,Tulsa,OK,13369,3
+917,90,Donald,Alley,Chattanooga,TN,59791,1
+918,7257,Lawn,Way,Washington,DC,22266,3
+919,52,Weeping Birch,Avenue,Cincinnati,OH,50223,3
+920,36,Delladonna,Road,Arlington,VA,64897,3
+921,7,Kings,Alley,Fort Myers,FL,98539,1
+922,8,Arapahoe,Place,Pittsburgh,PA,70787,1
+923,04,Fairview,Crossing,Shawnee Mission,KS,49287,1
+924,0,Center,Place,Columbia,MO,87346,2
+925,001,Sycamore,Road,Baltimore,MD,30649,3
+926,7,Bay,Terrace,El Paso,TX,46903,1
+927,594,Dixon,Pass,Inglewood,CA,74286,1
+928,98,Grasskamp,Avenue,El Paso,TX,21443,2
+929,991,Scofield,Place,Saint Louis,MO,48324,1
+930,0,Homewood,Pass,Denver,CO,78524,2
+931,2205,Chive,Hill,Las Vegas,NV,20576,3
+932,15,Michigan,Trail,Omaha,NE,12401,2
+933,97,Golf View,Point,Houston,TX,24699,3
+934,63479,Oneill,Way,Pompano Beach,FL,45343,1
+935,7,Morning,Road,Knoxville,TN,38792,3
+936,988,South,Trail,Buffalo,NY,13203,2
+937,9,Pankratz,Lane,Memphis,TN,49185,3
+938,1,Garrison,Alley,Fresno,CA,89945,3
+939,564,Bellgrove,Hill,Atlanta,GA,45406,1
+940,915,Thierer,Junction,Sacramento,CA,18164,1
+941,0528,Fisk,Crossing,Tacoma,WA,41561,1
+942,8,Oakridge,Pass,Spring,TX,34185,2
+943,24948,Florence,Point,Tulsa,OK,99818,2
+944,5,Tomscot,Avenue,Hartford,CT,95233,1
+945,92424,Clemons,Avenue,Lubbock,TX,14302,1
+946,8,Toban,Plaza,Frankfort,KY,69115,3
+947,280,Reinke,Parkway,Detroit,MI,68116,3
+948,4,Arapahoe,Crossing,San Bernardino,CA,70598,3
+949,6712,Maple Wood,Junction,Cleveland,OH,87293,1
+950,267,Vera,Pass,New York City,NY,97587,3
+951,7243,Ridgeway,Junction,Newark,DE,19887,1
+952,4,Portage,Circle,Dallas,TX,88422,1
+953,96829,Hollow Ridge,Crossing,Pasadena,CA,29090,2
+954,1,Canary,Terrace,Saint Paul,MN,57866,2
+955,98025,Prentice,Crossing,Arlington,VA,89457,1
+956,1,Anthes,Parkway,Fort Pierce,FL,13113,2
+957,9,Kingsford,Plaza,Evansville,IN,24807,3
+958,2968,Trailsway,Avenue,Newport News,VA,85966,2
+959,868,Ramsey,Parkway,Newark,DE,79207,1
+960,1,Banding,Way,Birmingham,AL,31089,1
+961,607,Lerdahl,Street,Virginia Beach,VA,17887,2
+962,8,Independence,Trail,Corpus Christi,TX,93664,1
+963,227,Browning,Hill,Sioux City,IA,47283,2
+964,68433,Surrey,Terrace,Montgomery,AL,46664,1
+965,65582,Blackbird,Center,Temple,TX,85134,2
+966,39,Mallard,Lane,San Diego,CA,63587,1
+967,9,Waubesa,Circle,Davenport,IA,59182,1
+968,34,Schmedeman,Court,Raleigh,NC,96290,3
+969,99,Sunnyside,Way,Hagerstown,MD,12896,3
+970,1612,Utah,Place,Honolulu,HI,91976,1
+971,61411,Darwin,Place,Plano,TX,96541,1
+972,9882,Anthes,Point,Aurora,IL,50956,2
+973,060,6th,Trail,Battle Creek,MI,67056,1
+974,5,Forster,Parkway,West Palm Beach,FL,14253,3
+975,635,New Castle,Avenue,Reno,NV,55050,3
+976,614,Doe Crossing,Drive,Boston,MA,81529,1
+977,0145,Granby,Pass,Washington,DC,62794,2
+978,3,Jay,Plaza,Clearwater,FL,15764,2
+979,18940,Daystar,Crossing,Portsmouth,VA,76506,2
+980,14,Aberg,Street,Houston,TX,92166,2
+981,6,Meadow Valley,Junction,Austin,TX,51406,3
+982,20,Columbus,Plaza,Lancaster,PA,37013,3
+983,882,Dahle,Point,Baltimore,MD,97809,3
+984,2624,Muir,Center,Bloomington,IN,59574,3
+985,8808,Toban,Crossing,Arvada,CO,68468,1
+986,949,Petterle,Court,Houston,TX,38642,3
+987,3868,Reindahl,Pass,Albany,GA,33535,1
+988,1,Continental,Circle,Cleveland,OH,65289,1
+989,49,Mariners Cove,Parkway,Tampa,FL,96328,1
+990,555,Carioca,Street,Richmond,VA,86724,3
+991,3,Eastwood,Circle,Saint Paul,MN,17332,2
+992,4,Drewry,Parkway,Charleston,SC,49982,2
+993,3,Mcbride,Center,El Paso,TX,89798,3
+994,89,Del Sol,Drive,Canton,OH,22687,1
+995,092,Corry,Hill,Jackson,MS,58892,3
+996,34351,Nelson,Pass,Fort Pierce,FL,30992,1
+997,9,Sloan,Alley,Saint Paul,MN,35524,1
+998,71625,Nobel,Circle,New York City,NY,57418,3
+999,6626,Havey,Trail,Orlando,FL,62993,1
+1000,3,Mayer,Trail,Nashville,TN,69331,1
