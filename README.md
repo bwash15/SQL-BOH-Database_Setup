@@ -1,7 +1,11 @@
 # SQL-BOH-Database_Setup
 A Restaurant's Back-of-the-House Relational Database Setup 
 
-ERD - Relationships shown between:  orders - guests - inventory
+ERD - Relationships shown between:  
+       > orders - guests : One-to-One
+       > orders - recipe_ingredients : One-to-Many
+       > recipe_ingredients - inventory_ingredients : Many-to-Many *
+       > inventory_item_container - inventory_ingredients : One-to-One
 
 MySQL Database
 
